@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Image00029.tif</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT25" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT26" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT27" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT28" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT30" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT31" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
+    <OtherTag ID="LT15" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT16" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT17" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT18" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT19" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4090"
+          HEIGHT="5056"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4090"
+                  HEIGHT="5056">
+        <TextBlock HPOS="3588.0"
+                   VPOS="73.0"
+                   WIDTH="308.0"
+                   HEIGHT="218.0"
+                   ID="eSc_textblock_c15ee947"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="3896 285 3616 291 3588 73 3876 84"/></Shape>
+          <TextLine ID="eSc_line_fd96b3b8"
+                    TAGREFS="LT15"
+                    BASELINE="3578 193 3917 203" 
+                    HPOS="3571.0"
+                    VPOS="63.0"
+                    WIDTH="341.0"
+                    HEIGHT="240.0">
+            <Shape><Polygon POINTS="3575 189 3571 269 3685 303 3689 303 3693 303 3908 273 3912 202 3912 96 3870 67 3866 67 3862 67 3858 67 3853 67 3769 92 3723 63 3718 63 3714 63 3710 63 3575 92 3575 189"/></Shape>
+	    <String CONTENT="26"
+                    HPOS="3571.0"
+                    VPOS="63.0"
+                    WIDTH="341.0"
+                    HEIGHT="240.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="101.0"
+                   VPOS="56.0"
+                   WIDTH="2109.0"
+                   HEIGHT="693.0"
+                   ID="eSc_textblock_63d4fe0b"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="2064 67 2210 224 2188 570 2098 615 1393 648 1233 738 146 749 101 716 101 382 148 56"/></Shape>
+          <TextLine ID="eSc_line_9607a57c"
+                    TAGREFS="LT15"
+                    BASELINE="171 137 775 162 2039 154" 
+                    HPOS="168.0"
+                    VPOS="81.0"
+                    WIDTH="1888.0"
+                    HEIGHT="124.0">
+            <Shape><Polygon POINTS="168 168 455 181 639 205 1022 199 1022 196 1025 196 1028 196 1047 182 1210 196 1213 196 1216 196 1219 196 1219 193 1238 176 1272 196 1275 196 1278 199 1398 199 1398 196 1401 196 1457 182 1598 188 1601 188 1603 188 1606 188 1623 174 2036 174 2039 154 2056 99 1949 112 1890 84 1887 84 1884 84 1882 84 1814 98 1609 103 1606 103 1603 103 1567 115 1530 95 1528 95 1525 95 1522 95 1519 95 1519 98 1488 103 1379 120 1323 84 1320 84 1317 84 1250 84 1247 84 1244 84 1241 84 1196 120 1047 120 1005 87 1002 87 1000 87 882 84 879 84 876 84 828 109 800 95 797 95 794 95 792 95 789 95 764 117 682 117 564 115 519 81 516 81 514 81 432 81 429 81 426 81 370 103 337 81 334 81 331 81 171 81 171 137"/></Shape>
+	    <String CONTENT="est indispensable au Christianisme ?"
+                    HPOS="168.0"
+                    VPOS="81.0"
+                    WIDTH="1888.0"
+                    HEIGHT="124.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7f159d21"
+                    TAGREFS="LT15"
+                    BASELINE="130 249 963 272 2168 255" 
+                    HPOS="122.0"
+                    VPOS="208.0"
+                    WIDTH="2086.0"
+                    HEIGHT="125.0">
+            <Shape><Polygon POINTS="126 248 254 317 1668 290 1691 333 2208 271 2144 208 122 214"/></Shape>
+	    <String CONTENT="N&#x27;a t-elle pas modelé sur lui son organisation?"
+                    HPOS="122.0"
+                    VPOS="208.0"
+                    WIDTH="2086.0"
+                    HEIGHT="125.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b2ba5f07"
+                    TAGREFS="LT15"
+                    BASELINE="151 360 907 376 2191 356" 
+                    HPOS="127.0"
+                    VPOS="299.0"
+                    WIDTH="2061.0"
+                    HEIGHT="123.0">
+            <Shape><Polygon POINTS="1407 400 2184 396 2188 353 2179 299 1762 322 1692 343 1630 309 738 318 712 311 700 324 653 325 645 323 625 329 618 334 597 333 541 324 434 329 169 312 127 375 347 408 855 410 1334 392 1353 422"/></Shape>
+	    <String CONTENT="N en parle-t-elle pas la langue? N en conserve-"
+                    HPOS="127.0"
+                    VPOS="299.0"
+                    WIDTH="2061.0"
+                    HEIGHT="123.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a6ef9bda"
+                    TAGREFS="LT15"
+                    BASELINE="146 471 617 483 2129 460" 
+                    HPOS="131.0"
+                    VPOS="396.0"
+                    WIDTH="1998.0"
+                    HEIGHT="126.0">
+            <Shape><Polygon POINTS="320 505 323 505 382 522 384 522 387 522 480 508 662 516 665 516 668 516 671 516 688 502 761 516 764 516 766 516 769 516 794 499 831 514 834 514 837 514 839 514 879 499 882 497 887 499 921 514 924 514 926 514 1118 497 1146 494 1168 494 1323 511 1325 511 1407 491 1418 491 1438 491 1615 508 1618 508 2126 483 2129 460 2120 412 2013 407 1963 412 1949 401 1946 401 1943 401 1941 401 1938 401 1935 401 1924 412 1910 421 1856 412 1842 410 1839 410 1837 410 1831 412 1803 424 1783 412 1775 404 1772 404 1769 404 1766 404 1764 404 1761 404 1752 412 1738 421 1724 412 1716 404 1713 404 1710 404 1620 396 1618 396 1547 412 1480 426 1376 429 1345 427 1323 412 1307 416 1292 424 1278 434 1255 432 1123 432 1087 412 1078 407 1075 407 1019 421 995 427 974 437 952 449 923 447 919 440 902 434 890 423 883 419 874 420 860 425 841 432 810 430 741 438 705 412 699 407 696 407 693 407 691 407 688 407 679 412 629 438 573 421 570 421 567 421 564 421 528 440 373 440 337 412 334 412 308 406 273 437 256 396 158 407 131 463 146 505"/></Shape>
+	    <String CONTENT="t-elle pas le droit et la culture? Ses titulaires"
+                    HPOS="131.0"
+                    VPOS="396.0"
+                    WIDTH="1998.0"
+                    HEIGHT="126.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cca6f784"
+                    TAGREFS="LT15"
+                    BASELINE="140 567 1036 575 2151 550" 
+                    HPOS="140.0"
+                    VPOS="504.0"
+                    WIDTH="2011.0"
+                    HEIGHT="125.0">
+            <Shape><Polygon POINTS="177 601 199 588 226 597 247 602 271 600 318 599 356 628 379 610 411 586 455 597 466 595 486 595 522 626 525 626 528 626 632 623 634 623 637 623 662 606 676 617 679 617 682 617 685 617 688 617 724 606 764 623 828 605 971 629 974 629 1137 603 1162 620 1165 620 1168 620 1171 620 1252 603 1289 617 1292 617 1294 617 1297 617 1356 595 1421 620 1424 620 1427 620 1601 592 1609 592 1758 592 1915 617 1918 617 1921 617 1994 592 2084 606 2087 606 2089 606 2151 584 2151 550 2146 514 1976 504 1689 514 1598 514 1500 525 1466 514 1446 508 1443 508 1441 508 1438 508 1435 508 1427 514 1404 528 1311 528 1275 514 1252 508 1250 508 1247 508 1244 508 1221 514 1176 530 1028 530 988 516 974 511 971 511 969 511 904 516 741 530 702 516 693 514 691 514 688 514 685 514 676 516 634 533 140 519 140 567 140 606"/></Shape>
+	    <String CONTENT="ne se recrutent-ils pas tous dans les anciennes"
+                    HPOS="140.0"
+                    VPOS="504.0"
+                    WIDTH="2011.0"
+                    HEIGHT="125.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c1a8fcdc"
+                    TAGREFS="LT15"
+                    BASELINE="134 668 1230 682" 
+                    HPOS="132.0"
+                    VPOS="603.0"
+                    WIDTH="1117.0"
+                    HEIGHT="138.0">
+            <Shape><Polygon POINTS="132 724 221 707 353 724 356 724 477 716 494 730 497 730 500 730 502 730 505 730 547 716 578 733 578 735 581 735 584 735 587 738 803 738 862 738 862 735 1005 716 1224 741 1230 682 1249 620 1199 617 1196 617 1193 617 1191 617 1191 620 1168 640 1134 620 1132 617 1129 617 1126 617 1081 617 1078 617 1075 617 1073 617 1073 620 1047 643 946 634 907 626 904 626 901 626 879 640 848 620 839 615 837 615 834 615 831 615 828 615 809 620 764 637 693 637 679 623 668 615 668 612 665 612 662 612 660 612 612 623 559 637 514 637 500 623 485 612 485 609 483 609 480 609 460 603 440 607 425 630 397 627 387 619 365 642 331 648 261 634 247 623 221 606 219 606 217 606 160 617 134 623 134 668"/></Shape>
+	    <String CONTENT="familles sénatoriales ?"
+                    HPOS="132.0"
+                    VPOS="603.0"
+                    WIDTH="1117.0"
+                    HEIGHT="138.0"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Image00075.tif</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT25" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT26" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT27" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT28" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT30" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT31" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
+    <OtherTag ID="LT15" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT16" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT17" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT18" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT19" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4090"
+          HEIGHT="5056"
+          PHYSICAL_IMG_NR="74"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4090"
+                  HEIGHT="5056">
+        <TextBlock HPOS="146.0"
+                   VPOS="22.0"
+                   WIDTH="2098.0"
+                   HEIGHT="1368.0"
+                   ID="eSc_textblock_ece746cd"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="2210 33 2244 101 2244 817 2188 1289 2087 1367 1963 1379 146 1390 148 22"/></Shape>
+          <TextLine ID="eSc_line_01fa5dad"
+                    TAGREFS="LT15"
+                    BASELINE="3568 251 3929 241" 
+                    HPOS="3562.0"
+                    VPOS="84.0"
+                    WIDTH="363.0"
+                    HEIGHT="299.0">
+            <Shape><Polygon POINTS="3567 248 3567 383 3693 366 3714 383 3718 383 3723 383 3727 383 3731 383 3735 383 3777 349 3811 324 3925 324 3925 240 3921 126 3769 84 3765 84 3761 84 3562 130 3567 248"/></Shape>
+	    <String CONTENT="72"
+                    HPOS="3562.0"
+                    VPOS="84.0"
+                    WIDTH="363.0"
+                    HEIGHT="299.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e1dae8f"
+                    TAGREFS="LT15"
+                    BASELINE="160 98 1129 112 2224 103" 
+                    HPOS="151.0"
+                    VPOS="25.0"
+                    WIDTH="2071.0"
+                    HEIGHT="118.0">
+            <Shape><Polygon POINTS="2196 46 2028 29 2007 29 1964 29 1880 46 1867 46 1851 46 1770 29 1754 29 1732 29 1711 42 1707 46 1669 42 1564 29 1543 29 1505 29 1458 42 1429 46 1399 42 1349 29 1332 29 1311 29 1290 37 1269 46 1239 37 1205 29 1205 29 1172 25 1096 37 1024 46 156 29 156 96 151 143 2217 143 2222 101 2213 58 2196 46"/></Shape>
+	    <String CONTENT="On arrivera encore à la même conclusion"
+                    HPOS="151.0"
+                    VPOS="25.0"
+                    WIDTH="2071.0"
+                    HEIGHT="118.0"
+                    WC="0.9980161130428314"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f6a3704"
+                    TAGREFS="LT15"
+                    BASELINE="148 188 929 205 2160 191" 
+                    HPOS="143.0"
+                    VPOS="122.0"
+                    WIDTH="2015.0"
+                    HEIGHT="130.0">
+            <Shape><Polygon POINTS="147 185 147 231 1770 252 1775 252 2032 231 2108 252 2112 252 2116 252 2120 252 2125 252 2158 227 2158 189 2150 134 143 122 147 185"/></Shape>
+	    <String CONTENT="si l&#x27;on remarque la fréquence des épidémies"
+                    HPOS="143.0"
+                    VPOS="122.0"
+                    WIDTH="2015.0"
+                    HEIGHT="130.0"
+                    WC="0.996234021907629"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8c9fcd79"
+                    TAGREFS="LT15"
+                    BASELINE="154 272 1093 318 2135 290 2177 289" 
+                    HPOS="147.0"
+                    VPOS="214.0"
+                    WIDTH="2028.0"
+                    HEIGHT="144.0">
+            <Shape><Polygon POINTS="151 269 147 316 379 320 404 345 404 349 881 332 906 353 914 353 919 358 1416 358 1416 353 1496 328 1560 353 1939 332 1994 358 2002 358 2171 328 2175 286 2167 231 1821 244 1787 223 1775 223 1614 248 1585 223 1564 223 1526 248 1167 223 1142 248 889 248 801 214 649 240 151 214 151 269"/></Shape>
+	    <String CONTENT="dans cette ville maritime sous l&#x27;évêque"
+                    HPOS="147.0"
+                    VPOS="214.0"
+                    WIDTH="2028.0"
+                    HEIGHT="144.0"
+                    WC="0.984363405406475"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_36ee20bd"
+                    TAGREFS="LT15"
+                    BASELINE="163 354 540 425 1155 406 2115 384" 
+                    HPOS="160.0"
+                    VPOS="320.0"
+                    WIDTH="1952.0"
+                    HEIGHT="130.0">
+            <Shape><Polygon POINTS="632 446 636 446 982 421 986 421 1058 446 1062 446 1066 450 1395 450 1395 446 1834 417 1842 417 1846 417 1935 442 1939 442 1943 442 2108 412 2112 383 2099 324 514 353 451 324 446 324 215 320 160 353 160 421"/></Shape>
+	    <String CONTENT="Theodore (      ) un navire venant"
+                    HPOS="160.0"
+                    VPOS="320.0"
+                    WIDTH="1952.0"
+                    HEIGHT="130.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9b45b848"
+                    TAGREFS="LT15"
+                    BASELINE="160 469 361 497 442 508 2177 485" 
+                    HPOS="151.0"
+                    VPOS="400.0"
+                    WIDTH="2024.0"
+                    HEIGHT="168.0">
+            <Shape><Polygon POINTS="923 412 906 412 855 446 818 421 796 421 489 450 354 417 151 417 156 467 156 530 573 568 754 535 1016 535 1041 556 1041 560 1273 539 1353 560 1366 560 1437 530 1454 530 1724 556 1863 526 1926 547 1939 547 1998 522 2167 526 2175 484 2167 433 2057 433 2057 429 2028 404 2028 400 2015 400 1834 438 1429 412 1429 417 1416 425 1399 442 1345 412 1332 412 1269 442 974 442 927 412 923 412"/></Shape>
+	    <String CONTENT="d Espagne y amène une épidémie qui dure"
+                    HPOS="151.0"
+                    VPOS="400.0"
+                    WIDTH="2024.0"
+                    HEIGHT="168.0"
+                    WC="0.9950810884818052"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4f43c836"
+                    TAGREFS="LT15"
+                    BASELINE="165 580 691 614 1677 604" 
+                    HPOS="160.0"
+                    VPOS="526.0"
+                    WIDTH="1513.0"
+                    HEIGHT="135.0">
+            <Shape><Polygon POINTS="164 577 160 623 269 623 299 648 299 653 303 653 307 653 312 653 413 636 678 657 683 657 1054 648 1058 648 1062 648 1087 627 1197 661 1201 661 1205 661 1210 661 1311 632 1340 653 1345 653 1349 653 1353 653 1357 653 1361 653 1391 632 1669 632 1673 602 1665 543 164 526 164 577"/></Shape>
+	    <String CONTENT="deux mois (Greg IX.22) C est une"
+                    HPOS="160.0"
+                    VPOS="526.0"
+                    WIDTH="1513.0"
+                    HEIGHT="135.0"
+                    WC="0.967383355579593"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_62fa5d16"
+                    TAGREFS="LT15"
+                    BASELINE="136 663 458 715 1016 702 2177 676" 
+                    HPOS="134.0"
+                    VPOS="606.0"
+                    WIDTH="2041.0"
+                    HEIGHT="148.0">
+            <Shape><Polygon POINTS="134 733 830 754 834 754 1087 724 1092 724 1214 749 1218 749 1222 749 1298 724 1530 745 1534 745 1539 745 1593 720 1728 720 1985 741 1990 741 2171 707 2175 674 2163 606 1926 632 1673 610 1665 610 1661 610 1657 610 1585 636 1370 615 1366 615 1361 615 1357 615 1323 636 1163 619 1159 619 1155 619 1104 640 1087 623 1087 619 1083 619 1079 619 1075 619 1070 619 1066 619 1033 644 493 648 198 627 134 661 134 733"/></Shape>
+	    <String CONTENT="naria et se répand dans l&#x27;arrière pays jus¬"
+                    HPOS="134.0"
+                    VPOS="606.0"
+                    WIDTH="2041.0"
+                    HEIGHT="148.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4ffce4fb"
+                    TAGREFS="LT15"
+                    BASELINE="160 786 966 803 2224 789" 
+                    HPOS="151.0"
+                    VPOS="728.0"
+                    WIDTH="2071.0"
+                    HEIGHT="106.0">
+            <Shape><Polygon POINTS="156 783 156 834 2217 821 2222 787 2209 728 151 728 156 783"/></Shape>
+	    <String CONTENT="qu&#x27;aux environs de Lyon. X 25 Autre épidémie"
+                    HPOS="151.0"
+                    VPOS="728.0"
+                    WIDTH="2071.0"
+                    HEIGHT="106.0"
+                    WC="0.9869473346255042"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_262f6481"
+                    TAGREFS="LT15"
+                    BASELINE="151 879 539 904 2207 893" 
+                    HPOS="143.0"
+                    VPOS="813.0"
+                    WIDTH="2062.0"
+                    HEIGHT="143.0">
+            <Shape><Polygon POINTS="147 876 147 935 316 935 337 952 337 956 349 956 442 935 480 956 2205 943 2205 889 2196 834 1855 813 1842 813 1813 838 1454 838 1433 825 1404 813 1387 813 1361 834 1037 817 1011 842 737 842 649 817 615 817 569 838 535 817 510 817 421 838 396 817 143 817 147 876"/></Shape>
+	    <String CONTENT="VIII. 39 épidémie en Provence. VI. 14 Epidémie"
+                    HPOS="143.0"
+                    VPOS="813.0"
+                    WIDTH="2062.0"
+                    HEIGHT="143.0"
+                    WC="0.9885641526668629"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a6d8bdce"
+                    TAGREFS="LT15"
+                    BASELINE="166 975 203 979 488 1008 876 1014 2129 1005" 
+                    HPOS="160.0"
+                    VPOS="922.0"
+                    WIDTH="1965.0"
+                    HEIGHT="148.0">
+            <Shape><Polygon POINTS="164 973 164 1036 421 1036 463 1065 480 1065 590 1036 725 1065 792 1032 864 1032 902 1065 910 1065 914 1070 1100 1070 1100 1065 1172 1040 1551 1065 1598 1032 1922 1065 2120 1028 2125 1002 2116 952 1998 922 1800 943 1602 922 1534 952 1020 952 957 922 940 922 893 952 602 952 543 926 531 926 438 948 160 922 164 973"/></Shape>
+	    <String CONTENT="à Narbonne. Encore en 599 Fredegaire"
+                    HPOS="160.0"
+                    VPOS="922.0"
+                    WIDTH="1965.0"
+                    HEIGHT="148.0"
+                    WC="0.9925378648673787"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4c7f81fb"
+                    TAGREFS="LT15"
+                    BASELINE="143 1101 1002 1126 2174 1106" 
+                    HPOS="134.0"
+                    VPOS="1032.0"
+                    WIDTH="2037.0"
+                    HEIGHT="147.0">
+            <Shape><Polygon POINTS="139 1099 139 1141 459 1146 539 1175 543 1179 1395 1179 1395 1175 1547 1141 1673 1167 2167 1137 2171 1103 2158 1044 1859 1057 1766 1032 1754 1032 1703 1057 1627 1032 1610 1032 1610 1036 1585 1057 1492 1036 1479 1036 1479 1040 1458 1061 1269 1061 1235 1032 1218 1032 1146 1057 1007 1036 986 1036 986 1040 965 1061 484 1061 430 1032 413 1032 324 1053 134 1032 139 1099"/></Shape>
+	    <String CONTENT="18 &quot;Eo anno clades glandaloria Massili¬"
+                    HPOS="134.0"
+                    VPOS="1032.0"
+                    WIDTH="2037.0"
+                    HEIGHT="147.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_63faadb5"
+                    TAGREFS="LT15"
+                    BASELINE="146 1181 369 1227 2177 1210" 
+                    HPOS="143.0"
+                    VPOS="1137.0"
+                    WIDTH="2032.0"
+                    HEIGHT="148.0">
+            <Shape><Polygon POINTS="143 1255 383 1285 387 1285 2171 1255 2175 1209 2167 1150 1648 1137 1644 1137 1640 1137 1636 1137 1636 1141 1627 1146 1614 1162 1243 1162 1033 1146 965 1141 961 1141 931 1146 805 1167 640 1146 632 1146 628 1146 619 1146 366 1167 193 1146 143 1179 143 1255"/></Shape>
+	    <String CONTENT="am et reliquas Provinciae civitates gravi¬"
+                    HPOS="143.0"
+                    VPOS="1137.0"
+                    WIDTH="2032.0"
+                    HEIGHT="148.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9d1bf88e"
+                    TAGREFS="LT15"
+                    BASELINE="154 1287 397 1330 504 1343 1427 1331 2075 1308" 
+                    HPOS="151.0"
+                    VPOS="1242.0"
+                    WIDTH="1923.0"
+                    HEIGHT="182.0">
+            <Shape><Polygon POINTS="151 1394 261 1394 328 1424 345 1424 375 1403 484 1411 484 1407 514 1381 628 1419 919 1394 978 1419 986 1419 1146 1415 1281 1373 1366 1411 1383 1411 1454 1369 1505 1394 1517 1394 1576 1369 2074 1369 2074 1306 2061 1251 1399 1268 1370 1251 1366 1242 1345 1242 1345 1247 1315 1276 771 1276 657 1247 640 1247 640 1251 611 1280 442 1280 366 1251 206 1251 151 1285 151 1394"/></Shape>
+	    <String CONTENT="ter vastavit&quot;. On pense à la peste noire."
+                    HPOS="151.0"
+                    VPOS="1242.0"
+                    WIDTH="1923.0"
+                    HEIGHT="182.0"
+                    WC="0.9938504307769066"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="3573.0"
+                   VPOS="112.0"
+                   WIDTH="356.0"
+                   HEIGHT="267.0"
+                   ID="eSc_textblock_0f548b21"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="3907 123 3929 278 3693 379 3573 379 3573 202 3654 112"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
