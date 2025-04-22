@@ -717,12 +717,12 @@
                     HEIGHT="252.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3658.0"
-                   VPOS="62.0"
-                   WIDTH="298.0"
-                   HEIGHT="294.0"
+        <TextBlock HPOS="3658"
+                   VPOS="62"
+                   WIDTH="298"
+                   HEIGHT="294"
                    ID="eSc_textblock_a14c11ef"
-                   TAGREFS="BT28">
+                   TAGREFS="BT30">
           <Shape><Polygon POINTS="3956 101 3953 265 3678 356 3658 62"/></Shape>
           <TextLine ID="eSc_line_b161353d"
                     TAGREFS="LT15"
