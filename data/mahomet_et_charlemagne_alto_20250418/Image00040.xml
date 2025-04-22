@@ -21,13 +21,13 @@
                   VPOS="0"
                   WIDTH="4090"
                   HEIGHT="5056">
-        <TextBlock HPOS="99"
-                   VPOS="10"
-                   WIDTH="2144"
-                   HEIGHT="4986"
-                   ID="eSc_textblock_97d24e0d"
+        <TextBlock HPOS="96"
+                   VPOS="52"
+                   WIDTH="2170"
+                   HEIGHT="4906"
+                   ID="eSc_textblock_b0a126c6"
                    TAGREFS="BT25">
-          <Shape><Polygon POINTS="99 69 139 4996 2243 4934 2105 10"/></Shape>
+          <Shape><Polygon POINTS="96 66 96 4958 2266 4958 2141 52"/></Shape>
           <TextLine ID="eSc_line_10ca65c3"
                     TAGREFS="LT15"
                     BASELINE="126 162 2050 129" 
@@ -35,7 +35,7 @@
                     VPOS="46"
                     WIDTH="1931"
                     HEIGHT="173">
-            <Shape><Polygon POINTS="202 80 118 109 122 160 122 219 341 189 531 210 602 214 733 210 742 202 780 181 978 206 1011 193 1087 172 1328 202 1429 172 1614 189 1640 168 2049 168 2049 126 2040 71 1838 46 1572 75 1083 58 1007 84 965 84 687 67 674 67 645 88 514 71 396 92 383 92 366 75 366 71 345 71 345 75 341 75 324 96 219 75 202 80"/></Shape>
+            <Shape><Polygon POINTS="118 109 122 160 122 219 341 189 531 210 602 214 733 210 742 202 780 181 978 206 1011 193 1087 172 1328 202 1429 172 1614 189 1640 168 2049 168 2049 126 2040 71 1838 46 1572 75 1083 58 1007 84 965 84 687 67 674 67 645 88 514 71 396 92 383 92 366 75 366 71 345 71 345 75 341 75 324 96 219 75 202 80"/></Shape>
 	    <String CONTENT="quence de la conquête et qui n&#x27;ont rien"
                     HPOS="118"
                     VPOS="46"
@@ -632,27 +632,13 @@
                     HEIGHT="152"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2124"
-                   VPOS="0"
-                   WIDTH="1926"
-                   HEIGHT="4983"
-                   ID="eSc_textblock_08c08f65"
+        <TextBlock HPOS="2155"
+                   VPOS="7"
+                   WIDTH="1898"
+                   HEIGHT="4819"
+                   ID="eSc_textblock_0fac0cfc"
                    TAGREFS="BT26">
-          <Shape><Polygon POINTS="2124 20 2253 4983 4050 4815 4032 0"/></Shape>
-          <TextLine ID="eSc_line_eb0b9a09"
-                    TAGREFS="LT15"
-                    BASELINE="3623 237 3888 218" 
-                    HPOS="3617"
-                    VPOS="168"
-                    WIDTH="274"
-                    HEIGHT="164">
-            <Shape><Polygon POINTS="3870 168 3643 181 3617 198 3621 235 3626 307 3723 332 3727 332 3891 303 3887 214 3874 176 3870 168"/></Shape>
-	    <String CONTENT="37"
-                    HPOS="3617"
-                    VPOS="168"
-                    WIDTH="274"
-                    HEIGHT="164"></String>
-          </TextLine>
+          <Shape><Polygon POINTS="2280 4826 2155 51 3537 7 3612 434 4010 477 4053 4708"/></Shape>
           <TextLine ID="eSc_line_6a66d5dd"
                     TAGREFS="LT15"
                     BASELINE="2143 143 2960 87 3368 75" 
@@ -709,20 +695,6 @@
                     WIDTH="1417"
                     HEIGHT="240"></String>
           </TextLine>
-          <TextLine ID="eSc_line_78268606"
-                    TAGREFS="LT15"
-                    BASELINE="2171 448 2199 440 2455 412 2955 373 3323 359" 
-                    HPOS="2158"
-                    VPOS="286"
-                    WIDTH="1164"
-                    HEIGHT="185">
-            <Shape><Polygon POINTS="2681 311 2158 379 2167 446 2167 471 3322 391 3322 358 3309 290 3162 307 3137 303 3078 286 3073 286 3069 286 3065 286 3061 286 3061 290 3040 311 3031 316 2997 311 2917 307 2913 307 2909 307 2879 324 2867 328 2837 328 2702 311 2681 311"/></Shape>
-	    <String CONTENT="ne se souvient pas de l&#x27;Empereur."
-                    HPOS="2158"
-                    VPOS="286"
-                    WIDTH="1164"
-                    HEIGHT="185"></String>
-          </TextLine>
           <TextLine ID="eSc_line_9215897e"
                     TAGREFS="LT15"
                     BASELINE="2083 682 2247 679 2719 643 3446 561 3952 525" 
@@ -736,6 +708,20 @@
                     VPOS="446"
                     WIDTH="1876"
                     HEIGHT="278"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_78268606"
+                    TAGREFS="LT15"
+                    BASELINE="2171 448 2199 440 2455 412 2955 373 3323 359" 
+                    HPOS="2158"
+                    VPOS="286"
+                    WIDTH="1164"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="2681 311 2158 379 2167 446 2167 471 3322 391 3322 358 3309 290 3162 307 3137 303 3078 286 3073 286 3069 286 3065 286 3061 286 3061 290 3040 311 3031 316 2997 311 2917 307 2913 307 2909 307 2879 324 2867 328 2837 328 2702 311 2681 311"/></Shape>
+	    <String CONTENT="ne se souvient pas de l&#x27;Empereur."
+                    HPOS="2158"
+                    VPOS="286"
+                    WIDTH="1164"
+                    HEIGHT="185"></String>
           </TextLine>
           <TextLine ID="eSc_line_e099e593"
                     TAGREFS="LT15"
@@ -865,13 +851,27 @@
                     HEIGHT="207"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3625"
-                   VPOS="69"
-                   WIDTH="296"
-                   HEIGHT="239"
-                   ID="eSc_textblock_1684efc4"
+        <TextBlock HPOS="3568"
+                   VPOS="66"
+                   WIDTH="404"
+                   HEIGHT="294"
+                   ID="eSc_textblock_0af6e172"
                    TAGREFS="BT30">
-          <Shape><Polygon POINTS="3643 308 3625 73 3921 69 3921 308"/></Shape>
+          <Shape><Polygon POINTS="3568 88 3641 353 3972 360 3957 66 3746 78"/></Shape>
+          <TextLine ID="eSc_line_eb0b9a09"
+                    TAGREFS="LT15"
+                    BASELINE="3623 237 3888 218" 
+                    HPOS="3617"
+                    VPOS="168"
+                    WIDTH="274"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="3870 168 3643 181 3617 198 3621 235 3626 307 3723 332 3727 332 3891 303 3887 214 3874 176 3870 168"/></Shape>
+	    <String CONTENT="37"
+                    HPOS="3617"
+                    VPOS="168"
+                    WIDTH="274"
+                    HEIGHT="164"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
