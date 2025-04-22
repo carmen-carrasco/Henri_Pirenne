@@ -21,13 +21,13 @@
                   VPOS="0"
                   WIDTH="4090"
                   HEIGHT="5056">
-        <TextBlock HPOS="134"
-                   VPOS="78"
-                   WIDTH="2638"
-                   HEIGHT="4829"
-                   ID="eSc_textblock_d83007b4"
-                   TAGREFS="BT25">
-          <Shape><Polygon POINTS="2188 101 2199 817 2269 921 2368 955 2356 1075 2210 1314 2266 1685 2199 1966 2266 3202 2233 3716 2323 3988 2345 4424 2471 4606 2750 4673 2772 4716 2716 4794 2514 4839 1199 4907 191 4895 146 3581 134 269 146 123 193 78"/></Shape>
+        <TextBlock HPOS="3450"
+                   VPOS="44"
+                   WIDTH="471"
+                   HEIGHT="265"
+                   ID="eSc_textblock_aa068627"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="3450 309 3450 44 3921 44 3921 309"/></Shape>
           <TextLine ID="eSc_line_92f15a3f"
                     TAGREFS="LT15"
                     BASELINE="3542 218 3823 212" 
@@ -42,6 +42,14 @@
                     WIDTH="293"
                     HEIGHT="293"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="110"
+                   VPOS="37"
+                   WIDTH="2295"
+                   HEIGHT="4958"
+                   ID="eSc_textblock_eb61c4a5"
+                   TAGREFS="BT25">
+          <Shape><Polygon POINTS="110 37 110 4995 2405 4995 2405 37"/></Shape>
           <TextLine ID="eSc_line_1c89ee98"
                     TAGREFS="LT15"
                     BASELINE="165 148 873 165 2174 129" 
@@ -674,14 +682,6 @@
                     WIDTH="2109"
                     HEIGHT="211"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3453"
-                   VPOS="34"
-                   WIDTH="439"
-                   HEIGHT="267"
-                   ID="eSc_textblock_5874011e"
-                   TAGREFS="BT30">
-          <Shape><Polygon POINTS="3453 301 3453 34 3892 34 3892 301"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
