@@ -22,44 +22,6 @@
                   VPOS="0"
                   WIDTH="2790"
                   HEIGHT="3369">
-        <TextBlock HPOS="69.0"
-                   VPOS="0.0"
-                   WIDTH="544.0"
-                   HEIGHT="501.0"
-                   ID="eSc_textblock_77763527"
-                   TAGREFS="BT55">
-          <Shape><Polygon POINTS="69 174 69 501 595 501 613 0 370 99 363 127 351 177 348 177"/></Shape>
-          <TextLine ID="eSc_line_725650ee"
-                    TAGREFS="LT38"
-                    BASELINE="76 222 329 196 529 101" 
-                    HPOS="64"
-                    VPOS="56"
-                    WIDTH="475"
-                    HEIGHT="205">
-            <Shape><Polygon POINTS="314 148 286 148 264 148 193 168 168 160 140 148 137 148 134 148 132 148 129 148 64 188 75 221 84 261 202 238 266 247 269 247 272 247 407 188 449 190 452 190 455 190 457 190 457 188 480 168 494 157 539 157 528 98 505 56 427 103 379 95 354 92 351 92 317 101 314 101 311 101 311 103 309 103 314 148"/></Shape>
-	    <String CONTENT="belanitz p-171"
-                    HPOS="64"
-                    VPOS="56"
-                    WIDTH="475"
-                    HEIGHT="205"
-                    WC="0.9224292423043933"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_c458349f"
-                    TAGREFS="LT38"
-                    BASELINE="114 323 290 306 516 310" 
-                    HPOS="106"
-                    VPOS="241"
-                    WIDTH="408"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="112 322 112 350 134 367 137 367 140 367 143 367 146 367 207 345 216 342 339 342 342 345 356 359 356 362 359 362 362 362 365 362 514 345 514 308 511 263 418 241 415 241 413 241 410 241 410 244 390 261 337 244 334 244 331 244 328 244 325 244 297 266 151 249 148 249 146 249 106 269 112 322"/></Shape>
-	    <String CONTENT="Blam II. 378"
-                    HPOS="106"
-                    VPOS="241"
-                    WIDTH="408"
-                    HEIGHT="126"
-                    WC="0.9874650686979294"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="207.0"
                    VPOS="102.0"
                    WIDTH="129.0"
@@ -922,6 +884,44 @@
                     WIDTH="464"
                     HEIGHT="471"
                     WC="0.9509811060769218"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="69.0"
+                   VPOS="0.0"
+                   WIDTH="544.0"
+                   HEIGHT="501.0"
+                   ID="eSc_textblock_77763527"
+                   TAGREFS="BT55">
+          <Shape><Polygon POINTS="69 174 69 501 595 501 613 0 370 99 363 127 351 177 348 177"/></Shape>
+          <TextLine ID="eSc_line_725650ee"
+                    TAGREFS="LT38"
+                    BASELINE="76 222 329 196 529 101" 
+                    HPOS="64"
+                    VPOS="56"
+                    WIDTH="475"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="314 148 286 148 264 148 193 168 168 160 140 148 137 148 134 148 132 148 129 148 64 188 75 221 84 261 202 238 266 247 269 247 272 247 407 188 449 190 452 190 455 190 457 190 457 188 480 168 494 157 539 157 528 98 505 56 427 103 379 95 354 92 351 92 317 101 314 101 311 101 311 103 309 103 314 148"/></Shape>
+	    <String CONTENT="belanitz p-171"
+                    HPOS="64"
+                    VPOS="56"
+                    WIDTH="475"
+                    HEIGHT="205"
+                    WC="0.9224292423043933"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c458349f"
+                    TAGREFS="LT38"
+                    BASELINE="114 323 290 306 516 310" 
+                    HPOS="106"
+                    VPOS="241"
+                    WIDTH="408"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="112 322 112 350 134 367 137 367 140 367 143 367 146 367 207 345 216 342 339 342 342 345 356 359 356 362 359 362 362 362 365 362 514 345 514 308 511 263 418 241 415 241 413 241 410 241 410 244 390 261 337 244 334 244 331 244 328 244 325 244 297 266 151 249 148 249 146 249 106 269 112 322"/></Shape>
+	    <String CONTENT="Blam II. 378"
+                    HPOS="106"
+                    VPOS="241"
+                    WIDTH="408"
+                    HEIGHT="126"
+                    WC="0.9874650686979294"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
