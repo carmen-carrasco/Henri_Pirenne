@@ -30,12 +30,13 @@
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2516 5 2516 125 2637 125 2637 5"/></Shape>
           <TextLine ID="eSc_line_7f00feaa"
+                    TAGREFS="LT41"
                     BASELINE="2544 97 2637 111" 
                     HPOS="2532"
                     VPOS="17"
                     WIDTH="103"
                     HEIGHT="128">
-            <Shape><Polygon POINTS="2633 79 2624 47 2550 17 2541 94 2532 145 2630 127 2635 109 2635 82 2633 79"/></Shape>
+            <Shape><Polygon POINTS="2624 47 2550 17 2541 94 2532 145 2630 127 2635 109 2635 82 2633 79"/></Shape>
 	    <String CONTENT="5"
                     HPOS="2532"
                     VPOS="17"
