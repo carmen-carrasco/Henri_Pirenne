@@ -29,6 +29,7 @@
                    TAGREFS="BT34">
           <Shape><Polygon POINTS="3814 123 3858 201 3847 300 3679 367 3502 345 3480 179 3586 100"/></Shape>
           <TextLine ID="eSc_line_36d927cc"
+                    TAGREFS="LT20"
                     BASELINE="3534 200 3710 254 3777 274" 
                     HPOS="3471"
                     VPOS="92"
@@ -50,6 +51,7 @@
                    TAGREFS="BT32">
           <Shape><Polygon POINTS="2065 69 2124 108 2147 207 2164 288 2147 331 2140 338 2099 378 2040 445 1372 495 1199 508 1178 510 1163 511 1075 518 1000 523 948 527 788 499 592 636 171 583 112 546 123 123 176 43 478 58 728 118 976 88 1352 96 1672 55 1695 56 1890 63"/></Shape>
           <TextLine ID="eSc_line_5d6f3be5"
+                    TAGREFS="LT20"
                     BASELINE="157 91 336 151 537 168 1145 163 1318 155 2124 120" 
                     HPOS="141"
                     VPOS="39"
@@ -63,6 +65,7 @@
                     HEIGHT="189"></String>
           </TextLine>
           <TextLine ID="eSc_line_a7431204"
+                    TAGREFS="LT20"
                     BASELINE="154 203 459 261 827 246 2107 207" 
                     HPOS="125"
                     VPOS="165"
@@ -76,6 +79,7 @@
                     HEIGHT="132"></String>
           </TextLine>
           <TextLine ID="eSc_line_0c2b7b4e"
+                    TAGREFS="LT20"
                     BASELINE="146 288 273 329 423 346 705 353 2152 286" 
                     HPOS="128"
                     VPOS="247"
@@ -89,6 +93,7 @@
                     HEIGHT="162"></String>
           </TextLine>
           <TextLine ID="eSc_line_2599fee4"
+                    TAGREFS="LT20"
                     BASELINE="150 381 407 432 644 439 840 433 2054 367" 
                     HPOS="133"
                     VPOS="331"
@@ -102,6 +107,7 @@
                     HEIGHT="154"></String>
           </TextLine>
           <TextLine ID="eSc_line_320416b8"
+                    TAGREFS="LT20"
                     BASELINE="135 468 386 521 662 557" 
                     HPOS="122"
                     VPOS="419"
