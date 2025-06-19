@@ -29,21 +29,6 @@
                    ID="64dc604c-184a-4bba-8842-8617e9887a57"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2482 96 2704 96 2704 3485 523 3485 523 21 2463 21"/></Shape>
-          <TextLine ID="eSc_line_51ffc8f4"
-                    TAGREFS="LT41"
-                    BASELINE="2509 72 2605 69" 
-                    HPOS="2503"
-                    VPOS="17"
-                    WIDTH="99"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="2506 69 2506 92 2535 92 2564 92 2593 92 2599 92 2602 66 2593 17 2503 29 2506 69"/></Shape>
-	    <String CONTENT="14l"
-                    HPOS="2503"
-                    VPOS="17"
-                    WIDTH="99"
-                    HEIGHT="75"
-                    WC="0.9998999238014221"></String>
-          </TextLine>
           <TextLine ID="eSc_line_1f212af3"
                     TAGREFS="LT41"
                     BASELINE="607 151 737 139 1751 124 2652 127" 
@@ -276,7 +261,7 @@
                     VPOS="1240"
                     WIDTH="96"
                     HEIGHT="66">
-            <Shape><Polygon POINTS="1530 1274 1527 1295 1617 1306 1623 1277 1620 1242 1530 1240 1530 1274"/></Shape>
+            <Shape><Polygon POINTS="1527 1295 1617 1306 1623 1277 1620 1242 1530 1240 1530 1274"/></Shape>
 	    <String CONTENT="Ou"
                     HPOS="1527"
                     VPOS="1240"
@@ -637,6 +622,21 @@
                    ID="eSc_textblock_beb38106"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2491 29 2491 92 2629 92 2629 29"/></Shape>
+          <TextLine ID="eSc_line_51ffc8f4"
+                    TAGREFS="LT41"
+                    BASELINE="2509 72 2605 69" 
+                    HPOS="2503"
+                    VPOS="17"
+                    WIDTH="99"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2506 69 2506 92 2535 92 2564 92 2593 92 2599 92 2602 66 2593 17 2503 29 2506 69"/></Shape>
+	    <String CONTENT="14l"
+                    HPOS="2503"
+                    VPOS="17"
+                    WIDTH="99"
+                    HEIGHT="75"
+                    WC="0.9998999238014221"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

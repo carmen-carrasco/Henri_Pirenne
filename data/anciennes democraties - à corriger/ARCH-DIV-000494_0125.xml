@@ -44,21 +44,6 @@
                     HEIGHT="104"
                     WC="0.9933899501536755"></String>
           </TextLine>
-          <TextLine ID="eSc_line_8014ebb0"
-                    TAGREFS="LT41"
-                    BASELINE="2498 80 2595 102" 
-                    HPOS="2485"
-                    VPOS="2"
-                    WIDTH="121"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="2496 77 2485 120 2589 112 2594 100 2606 17 2508 2 2496 77"/></Shape>
-	    <String CONTENT="119"
-                    HPOS="2485"
-                    VPOS="2"
-                    WIDTH="121"
-                    HEIGHT="118"
-                    WC="0.9997272491455078"></String>
-          </TextLine>
           <TextLine ID="eSc_line_17eed4d2"
                     TAGREFS="LT41"
                     BASELINE="510 184 1014 172 2652 184" 
@@ -156,7 +141,7 @@
                     VPOS="697"
                     WIDTH="2122"
                     HEIGHT="86">
-            <Shape><Polygon POINTS="2312 708 2283 708 2254 708 2225 708 2196 708 2194 705 1582 697 1579 697 1577 697 1542 711 1493 697 1490 697 1487 697 1366 711 1257 697 1254 697 1251 697 1202 711 1184 697 1182 697 1179 697 1176 697 1003 711 821 697 818 697 527 711 527 763 527 783 2646 780 2649 757 2649 714 2600 697 2597 697 2594 697 2514 711 2326 708 2312 708"/></Shape>
+            <Shape><Polygon POINTS="2283 708 2254 708 2225 708 2196 708 2194 705 1582 697 1579 697 1577 697 1542 711 1493 697 1490 697 1487 697 1366 711 1257 697 1254 697 1251 697 1202 711 1184 697 1182 697 1179 697 1176 697 1003 711 821 697 818 697 527 711 527 763 527 783 2646 780 2649 757 2649 714 2600 697 2597 697 2594 697 2514 711 2326 708 2312 708"/></Shape>
 	    <String CONTENT="ché de l&#x27;Arope du XIII^e siècle, et les principales &lt;..&gt; fla¬"
                     HPOS="527"
                     VPOS="697"
@@ -569,6 +554,37 @@
                     HEIGHT="118"
                     WC="0.9923388855210666"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2481.0"
+                   VPOS="16.0"
+                   WIDTH="183.0"
+                   HEIGHT="137.0"
+                   ID="eSc_textblock_61520974"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2487 16 2481 151 2664 153 2664 21"/></Shape>
+          <TextLine ID="eSc_line_8014ebb0"
+                    TAGREFS="LT41"
+                    BASELINE="2498 80 2595 102" 
+                    HPOS="2485"
+                    VPOS="2"
+                    WIDTH="121"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2496 77 2485 120 2589 112 2594 100 2606 17 2508 2 2496 77"/></Shape>
+	    <String CONTENT="119"
+                    HPOS="2485"
+                    VPOS="2"
+                    WIDTH="121"
+                    HEIGHT="118"
+                    WC="0.9997272491455078"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="455.0"
+                   VPOS="3139.0"
+                   WIDTH="2244.0"
+                   HEIGHT="313.0"
+                   ID="eSc_textblock_37245e81"
+                   TAGREFS="BT78">
+          <Shape><Polygon POINTS="471 3177 455 3452 2682 3441 2692 3261 2699 3139"/></Shape>
           <TextLine ID="eSc_line_54041443"
                     TAGREFS="LT41"
                     BASELINE="513 3249 1118 3223 2208 3209 2661 3217" 
@@ -614,22 +630,6 @@
                     HEIGHT="127"
                     WC="0.9914149308204651"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="455.0"
-                   VPOS="3139.0"
-                   WIDTH="2244.0"
-                   HEIGHT="313.0"
-                   ID="eSc_textblock_37245e81"
-                   TAGREFS="BT78">
-          <Shape><Polygon POINTS="471 3177 455 3452 2682 3441 2692 3261 2699 3139"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="2481.0"
-                   VPOS="16.0"
-                   WIDTH="183.0"
-                   HEIGHT="137.0"
-                   ID="eSc_textblock_61520974"
-                   TAGREFS="BT60">
-          <Shape><Polygon POINTS="2487 16 2481 151 2664 153 2664 21"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

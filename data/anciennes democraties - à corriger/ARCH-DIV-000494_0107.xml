@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2713"
                   HEIGHT="3456">
-        <TextBlock HPOS="552.0"
-                   VPOS="1016.0"
-                   WIDTH="2161.0"
-                   HEIGHT="2430.0"
+        <TextBlock HPOS="552"
+                   VPOS="50"
+                   WIDTH="2134"
+                   HEIGHT="3396"
                    ID="7b91f7b3-e6b8-4e9b-aae8-1c87302916d6"
                    TAGREFS="BT59">
-          <Shape><Polygon POINTS="951 1043 2713 1016 2686 3446 552 3446 590 1027"/></Shape>
+          <Shape><Polygon POINTS="2428 56 2492 74 2663 121 2686 3446 552 3446 561 50"/></Shape>
           <TextLine ID="eSc_line_4faf9e40"
                     TAGREFS="LT41"
                     BASELINE="604 126 2367 112 2629 120" 
@@ -36,28 +36,13 @@
                     VPOS="31"
                     WIDTH="2027"
                     HEIGHT="138">
-            <Shape><Polygon POINTS="601 123 601 146 892 146 912 161 924 161 956 149 1036 169 1103 169 1137 144 1192 144 1463 158 1560 141 1586 161 1586 164 1728 146 1886 161 1886 158 1909 141 2059 161 2180 146 2217 158 2229 158 2257 138 2344 158 2393 141 2502 155 2626 144 2623 31 2448 31 2422 48 2324 31 2278 60 2180 63 2053 34 1946 63 1872 48 1713 60 1627 37 1618 37 1563 66 1500 54 1434 46 1373 69 1120 54 984 72 938 48 930 48 849 72 838 72 754 43 599 74 601 123"/></Shape>
+            <Shape><Polygon POINTS="601 146 892 146 912 161 924 161 956 149 1036 169 1103 169 1137 144 1192 144 1463 158 1560 141 1586 161 1586 164 1728 146 1886 161 1886 158 1909 141 2059 161 2180 146 2217 158 2229 158 2257 138 2344 158 2393 141 2502 155 2626 144 2623 31 2448 31 2422 48 2324 31 2278 60 2180 63 2053 34 1946 63 1872 48 1713 60 1627 37 1618 37 1563 66 1500 54 1434 46 1373 69 1120 54 984 72 938 48 930 48 849 72 838 72 754 43 599 74 601 123"/></Shape>
 	    <String CONTENT="si l&#x27;on veut d’usuriers. Le rôle que les grands mar¬"
                     HPOS="599"
                     VPOS="31"
                     WIDTH="2027"
                     HEIGHT="138"
                     WC="0.9892241473381336"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_8636fb80"
-                    TAGREFS="LT41"
-                    BASELINE="2478 72 2581 79" 
-                    HPOS="2473"
-                    VPOS="2"
-                    WIDTH="107"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="2563 2 2534 2 2505 2 2476 2 2476 72 2473 95 2577 89 2580 77 2580 2 2563 2"/></Shape>
-	    <String CONTENT="99"
-                    HPOS="2473"
-                    VPOS="2"
-                    WIDTH="107"
-                    HEIGHT="93"
-                    WC="0.9999799728393555"></String>
           </TextLine>
           <TextLine ID="eSc_line_73efc5b8"
                     TAGREFS="LT41"
@@ -577,22 +562,21 @@
                    ID="599d6495-cb65-4090-bb47-1cb39437557f"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2577 17 2577 96 2479 96 2479 17"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="1298.0"
-                   VPOS="872.0"
-                   WIDTH="367.0"
-                   HEIGHT="154.0"
-                   ID="eSc_textblock_842f9f71"
-                   TAGREFS="BT57">
-          <Shape><Polygon POINTS="1298 872 1298 1026 1665 1026 1665 872"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="558.0"
-                   VPOS="59.0"
-                   WIDTH="2144.0"
-                   HEIGHT="717.0"
-                   ID="eSc_textblock_4686066a"
-                   TAGREFS="BT59">
-          <Shape><Polygon POINTS="558 59 558 776 2700 776 2702 105"/></Shape>
+          <TextLine ID="eSc_line_8636fb80"
+                    TAGREFS="LT41"
+                    BASELINE="2478 72 2581 79" 
+                    HPOS="2473"
+                    VPOS="2"
+                    WIDTH="107"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2563 2 2534 2 2505 2 2476 2 2476 72 2473 95 2577 89 2580 77 2580 2 2563 2"/></Shape>
+	    <String CONTENT="99"
+                    HPOS="2473"
+                    VPOS="2"
+                    WIDTH="107"
+                    HEIGHT="93"
+                    WC="0.9999799728393555"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

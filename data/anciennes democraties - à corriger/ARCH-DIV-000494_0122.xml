@@ -44,21 +44,6 @@
                     HEIGHT="126"
                     WC="0.9897230086119279"></String>
           </TextLine>
-          <TextLine ID="eSc_line_d91e1dd7"
-                    TAGREFS="LT41"
-                    BASELINE="2477 73 2575 71" 
-                    HPOS="2472"
-                    VPOS="2"
-                    WIDTH="100"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="2529 2 2517 2 2472 22 2474 71 2474 126 2572 114 2572 68 2569 14 2538 2 2529 2"/></Shape>
-	    <String CONTENT="114"
-                    HPOS="2472"
-                    VPOS="2"
-                    WIDTH="100"
-                    HEIGHT="124"
-                    WC="0.9998616973559061"></String>
-          </TextLine>
           <TextLine ID="eSc_line_a58bd25d"
                     TAGREFS="LT41"
                     BASELINE="550 189 2601 163" 
@@ -141,7 +126,7 @@
                     VPOS="455"
                     WIDTH="341"
                     HEIGHT="57">
-            <Shape><Polygon POINTS="2179 495 2179 512 2515 509 2517 492 2509 455 2176 455 2179 495"/></Shape>
+            <Shape><Polygon POINTS="2179 512 2515 509 2517 492 2509 455 2176 455 2179 495"/></Shape>
 	    <String CONTENT="pinsi que"
                     HPOS="2176"
                     VPOS="455"
@@ -652,6 +637,21 @@
                    ID="eSc_textblock_e1bfd34f"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2447 22 2447 125 2612 125 2612 22"/></Shape>
+          <TextLine ID="eSc_line_d91e1dd7"
+                    TAGREFS="LT41"
+                    BASELINE="2477 73 2575 71" 
+                    HPOS="2472"
+                    VPOS="2"
+                    WIDTH="100"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2529 2 2517 2 2472 22 2474 71 2474 126 2572 114 2572 68 2569 14 2538 2 2529 2"/></Shape>
+	    <String CONTENT="114"
+                    HPOS="2472"
+                    VPOS="2"
+                    WIDTH="100"
+                    HEIGHT="124"
+                    WC="0.9998616973559061"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

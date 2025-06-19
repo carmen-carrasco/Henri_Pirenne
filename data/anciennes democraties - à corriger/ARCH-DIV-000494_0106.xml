@@ -216,7 +216,7 @@
                     VPOS="1082"
                     WIDTH="2040"
                     HEIGHT="107">
-            <Shape><Polygon POINTS="638 1148 638 1180 1308 1169 1438 1186 1473 1169 1487 1180 1490 1186 1499 1189 1652 1189 1652 1186 1658 1186 1690 1166 1866 1183 2181 1166 2672 1180 2675 1143 2669 1105 2354 1105 2247 1082 2094 1105 1912 1105 1904 1099 1857 1082 1849 1082 1785 1102 1693 1091 1646 1108 1531 1108 1505 1085 1329 1105 1201 1085 1095 1105 1014 1085 878 1105 754 1085 635 1094 638 1148"/></Shape>
+            <Shape><Polygon POINTS="638 1180 1308 1169 1438 1186 1473 1169 1487 1180 1490 1186 1499 1189 1652 1189 1652 1186 1658 1186 1690 1166 1866 1183 2181 1166 2672 1180 2675 1143 2669 1105 2354 1105 2247 1082 2094 1105 1912 1105 1904 1099 1857 1082 1849 1082 1785 1102 1693 1091 1646 1108 1531 1108 1505 1085 1329 1105 1201 1085 1095 1105 1014 1085 878 1105 754 1085 635 1094 638 1148"/></Shape>
 	    <String CONTENT="sidérables. C&#x27;est a Liège que l&#x27;on peut le mieucons."
                     HPOS="635"
                     VPOS="1082"
@@ -554,6 +554,37 @@
                     HEIGHT="119"
                     WC="0.9784043583002957"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2455.0"
+                   VPOS="71.0"
+                   WIDTH="131.0"
+                   HEIGHT="135.0"
+                   ID="eSc_textblock_f454774a"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2467 84 2455 206 2575 197 2586 71"/></Shape>
+          <TextLine ID="eSc_line_4238c148"
+                    TAGREFS="LT41"
+                    BASELINE="2487 121 2559 109" 
+                    HPOS="2478"
+                    VPOS="75"
+                    WIDTH="78"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="2533 77 2504 80 2478 83 2484 118 2484 127 2513 127 2542 127 2556 127 2556 106 2548 75 2533 77"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2478"
+                    VPOS="75"
+                    WIDTH="78"
+                    HEIGHT="52"
+                    WC="0.9999997615814209"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="613.0"
+                   VPOS="3175.0"
+                   WIDTH="2100.0"
+                   HEIGHT="290.0"
+                   ID="eSc_textblock_793f433e"
+                   TAGREFS="BT78">
+          <Shape><Polygon POINTS="613 3175 613 3465 2713 3465 2713 3175"/></Shape>
           <TextLine ID="eSc_line_c011364d"
                     TAGREFS="LT41"
                     BASELINE="655 3276 745 3261 2149 3215 2568 3215" 
@@ -599,37 +630,6 @@
                     HEIGHT="124"
                     WC="0.9735110998153687"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2455.0"
-                   VPOS="71.0"
-                   WIDTH="131.0"
-                   HEIGHT="135.0"
-                   ID="eSc_textblock_f454774a"
-                   TAGREFS="BT60">
-          <Shape><Polygon POINTS="2467 84 2455 206 2575 197 2586 71"/></Shape>
-          <TextLine ID="eSc_line_4238c148"
-                    TAGREFS="LT41"
-                    BASELINE="2487 121 2559 109" 
-                    HPOS="2478"
-                    VPOS="75"
-                    WIDTH="78"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="2533 77 2504 80 2478 83 2484 118 2484 127 2513 127 2542 127 2556 127 2556 106 2548 75 2533 77"/></Shape>
-	    <String CONTENT="2"
-                    HPOS="2478"
-                    VPOS="75"
-                    WIDTH="78"
-                    HEIGHT="52"
-                    WC="0.9999997615814209"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="613.0"
-                   VPOS="3175.0"
-                   WIDTH="2100.0"
-                   HEIGHT="290.0"
-                   ID="eSc_textblock_793f433e"
-                   TAGREFS="BT78">
-          <Shape><Polygon POINTS="613 3175 613 3465 2713 3465 2713 3175"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

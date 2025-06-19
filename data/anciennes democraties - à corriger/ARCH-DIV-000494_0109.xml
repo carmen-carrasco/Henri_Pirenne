@@ -36,7 +36,7 @@
                     VPOS="51"
                     WIDTH="1988"
                     HEIGHT="104">
-            <Shape><Polygon POINTS="2620 83 2418 80 2389 77 2129 75 2100 72 1984 72 1956 69 1840 69 1811 66 1695 66 1667 63 1551 63 1545 60 1534 72 1516 72 1366 57 1118 54 1109 51 1054 54 1002 75 927 63 918 63 918 66 907 75 878 57 866 57 808 77 785 57 710 57 655 75 658 155 2640 127 2643 103 2620 83"/></Shape>
+            <Shape><Polygon POINTS="2418 80 2389 77 2129 75 2100 72 1984 72 1956 69 1840 69 1811 66 1695 66 1667 63 1551 63 1545 60 1534 72 1516 72 1366 57 1118 54 1109 51 1054 54 1002 75 927 63 918 63 918 66 907 75 878 57 866 57 808 77 785 57 710 57 655 75 658 155 2640 127 2643 103 2620 83"/></Shape>
 	    <String CONTENT="La réalité est lieu différente. De recherches Mmim¬"
                     HPOS="655"
                     VPOS="51"
@@ -524,6 +524,14 @@
                     HEIGHT="147"
                     WC="0.9707691714448748"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2396.0"
+                   VPOS="10.0"
+                   WIDTH="198.0"
+                   HEIGHT="63.0"
+                   ID="eSc_textblock_d39321b7"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2396 10 2396 73 2594 73 2594 10"/></Shape>
           <TextLine ID="eSc_line_c9acf170"
                     TAGREFS="LT41"
                     BASELINE="2394 59 2545 48" 
@@ -539,14 +547,6 @@
                     HEIGHT="75"
                     WC="0.9999999602635702"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2396.0"
-                   VPOS="10.0"
-                   WIDTH="198.0"
-                   HEIGHT="63.0"
-                   ID="eSc_textblock_d39321b7"
-                   TAGREFS="BT60">
-          <Shape><Polygon POINTS="2396 10 2396 73 2594 73 2594 10"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

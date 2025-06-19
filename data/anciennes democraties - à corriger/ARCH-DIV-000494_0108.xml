@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2713"
                   HEIGHT="3469">
-        <TextBlock HPOS="558.0"
-                   VPOS="61.0"
-                   WIDTH="2144.0"
-                   HEIGHT="3116.0"
+        <TextBlock HPOS="558"
+                   VPOS="61"
+                   WIDTH="2144"
+                   HEIGHT="3116"
                    ID="52e08606-2dfc-471f-aa8f-bec4afb0921a"
                    TAGREFS="BT59">
-          <Shape><Polygon POINTS="2697 99 2699 1768 2702 3175 1162 3167 733 3174 580 3177 558 1800 567 799 573 61 814 62 1898 69"/></Shape>
+          <Shape><Polygon POINTS="2697 107 2699 1768 2702 3175 1162 3167 733 3174 580 3177 558 1800 567 799 573 61 814 62 1898 69"/></Shape>
           <TextLine ID="eSc_line_3b5fd1e4"
                     TAGREFS="LT41"
                     BASELINE="647 130 2192 118 2672 132" 
@@ -44,21 +44,6 @@
                     HEIGHT="101"
                     WC="0.9874634932964406"></String>
           </TextLine>
-          <TextLine ID="eSc_line_aad55165"
-                    TAGREFS="LT41"
-                    BASELINE="2470 94 2585 99" 
-                    HPOS="2464"
-                    VPOS="89"
-                    WIDTH="118"
-                    HEIGHT="29">
-            <Shape><Polygon POINTS="2579 95 2551 95 2522 92 2493 92 2467 89 2467 92 2464 104 2577 118 2582 98 2582 95 2579 95"/></Shape>
-	    <String CONTENT="I18)"
-                    HPOS="2464"
-                    VPOS="89"
-                    WIDTH="118"
-                    HEIGHT="29"
-                    WC="0.9999923706054688"></String>
-          </TextLine>
           <TextLine ID="eSc_line_dc9d0715"
                     TAGREFS="LT41"
                     BASELINE="639 213 2643 202" 
@@ -66,7 +51,7 @@
                     VPOS="144"
                     WIDTH="2007"
                     HEIGHT="104">
-            <Shape><Polygon POINTS="636 211 636 237 931 248 940 248 954 237 957 231 1399 231 1425 248 1634 248 1634 245 1720 231 2015 242 2044 228 2134 239 2175 225 2637 225 2640 199 2634 164 2371 164 2336 147 2328 147 2299 161 2238 144 2146 164 2128 164 2094 147 2085 147 2041 167 1966 167 1946 147 1932 147 1906 164 1894 164 1825 147 1625 170 1449 170 1408 150 1292 164 1261 164 1194 150 1174 167 1000 153 633 161 636 211"/></Shape>
+            <Shape><Polygon POINTS="636 237 931 248 940 248 954 237 957 231 1399 231 1425 248 1634 248 1634 245 1720 231 2015 242 2044 228 2134 239 2175 225 2637 225 2640 199 2634 164 2371 164 2336 147 2328 147 2299 161 2238 144 2146 164 2128 164 2094 147 2085 147 2041 167 1966 167 1946 147 1932 147 1906 164 1894 164 1825 147 1625 170 1449 170 1408 150 1292 164 1261 164 1194 150 1174 167 1000 153 633 161 636 211"/></Shape>
 	    <String CONTENT="nit le &lt;&gt; moy en d&#x27;aborder, dans des conditrons"
                     HPOS="633"
                     VPOS="144"
@@ -592,6 +577,21 @@
                    ID="eSc_textblock_4144b7a8"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2452 60 2499 153 2578 169 2607 55"/></Shape>
+          <TextLine ID="eSc_line_aad55165"
+                    TAGREFS="LT41"
+                    BASELINE="2470 94 2585 99" 
+                    HPOS="2464"
+                    VPOS="89"
+                    WIDTH="118"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="2551 95 2522 92 2493 92 2467 89 2467 92 2464 104 2577 118 2582 98 2582 95 2579 95"/></Shape>
+	    <String CONTENT="I18)"
+                    HPOS="2464"
+                    VPOS="89"
+                    WIDTH="118"
+                    HEIGHT="29"
+                    WC="0.9999923706054688"></String>
+          </TextLine>
         </TextBlock>
         <TextBlock HPOS="578.0"
                    VPOS="3165.0"
@@ -600,8 +600,6 @@
                    ID="eSc_textblock_ccef347a"
                    TAGREFS="BT78">
           <Shape><Polygon POINTS="592 3182 578 3368 1151 3376 1402 3380 1421 3165 899 3188"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_ccd5a182"
                     TAGREFS="LT41"
                     BASELINE="673 3255 1261 3234" 

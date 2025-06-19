@@ -44,20 +44,6 @@
                     HEIGHT="116"
                     WC="0.9925804683502685"></String>
           </TextLine>
-          <TextLine ID="eSc_line_b544fa56"
-                    BASELINE="2506 103 2625 101" 
-                    HPOS="2500"
-                    VPOS="31"
-                    WIDTH="122"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="2503 101 2503 145 2620 124 2622 98 2617 37 2500 31 2503 101"/></Shape>
-	    <String CONTENT="124"
-                    HPOS="2500"
-                    VPOS="31"
-                    WIDTH="122"
-                    HEIGHT="114"
-                    WC="0.9999944368998209"></String>
-          </TextLine>
           <TextLine ID="eSc_line_13b9437e"
                     TAGREFS="LT41"
                     BASELINE="566 226 2657 200" 
@@ -200,7 +186,7 @@
                     VPOS="946"
                     WIDTH="2048"
                     HEIGHT="122">
-            <Shape><Polygon POINTS="566 1030 569 1068 615 1051 752 1068 1141 1042 1536 1051 1571 1036 1676 1051 1792 1033 1890 1051 2004 1030 2198 1045 2466 1042 2524 1024 2608 1036 2611 1004 2608 961 2509 946 2416 961 1731 958 1702 972 1542 961 1510 975 1321 963 1289 978 1219 966 563 987 566 1030"/></Shape>
+            <Shape><Polygon POINTS="569 1068 615 1051 752 1068 1141 1042 1536 1051 1571 1036 1676 1051 1792 1033 1890 1051 2004 1030 2198 1045 2466 1042 2524 1024 2608 1036 2611 1004 2608 961 2509 946 2416 961 1731 958 1702 972 1542 961 1510 975 1321 963 1289 978 1219 966 563 987 566 1030"/></Shape>
 	    <String CONTENT="geris et, par leurs valchs, celles des&quot;moyennes gens&quot;. A l&#x27;é¬"
                     HPOS="563"
                     VPOS="946"
@@ -696,6 +682,20 @@
                    ID="eSc_textblock_51baae95"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2502 50 2502 148 2671 152 2676 52"/></Shape>
+          <TextLine ID="eSc_line_b544fa56"
+                    BASELINE="2506 103 2625 101" 
+                    HPOS="2500"
+                    VPOS="31"
+                    WIDTH="122"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="2503 101 2503 145 2620 124 2622 98 2617 37 2500 31 2503 101"/></Shape>
+	    <String CONTENT="124"
+                    HPOS="2500"
+                    VPOS="31"
+                    WIDTH="122"
+                    HEIGHT="114"
+                    WC="0.9999944368998209"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

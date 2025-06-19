@@ -66,28 +66,13 @@
                     VPOS="20"
                     WIDTH="355"
                     HEIGHT="96">
-            <Shape><Polygon POINTS="1806 72 1803 98 2152 116 2158 84 2149 23 2097 43 2047 23 2036 20 2033 20 2030 20 2027 20 2010 23 1960 37 1806 29 1806 72"/></Shape>
+            <Shape><Polygon POINTS="1803 98 2152 116 2158 84 2149 23 2097 43 2047 23 2036 20 2033 20 2030 20 2027 20 2010 23 1960 37 1806 29 1806 72"/></Shape>
 	    <String CONTENT="uue foule"
                     HPOS="1803"
                     VPOS="20"
                     WIDTH="355"
                     HEIGHT="96"
                     WC="0.9964851339658102"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_3fa77e2e"
-                    TAGREFS="LT41"
-                    BASELINE="2429 52 2606 57" 
-                    HPOS="2425"
-                    VPOS="2"
-                    WIDTH="180"
-                    HEIGHT="82">
-            <Shape><Polygon POINTS="2428 49 2425 78 2454 81 2483 81 2512 84 2512 84 2602 78 2605 55 2602 11 2428 2 2428 49"/></Shape>
-	    <String CONTENT="105"
-                    HPOS="2425"
-                    VPOS="2"
-                    WIDTH="180"
-                    HEIGHT="82"
-                    WC="1.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_8fc35fba"
                     TAGREFS="LT41"
@@ -667,6 +652,21 @@
                    ID="eSc_textblock_83943d38"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2409 18 2409 83 2625 83 2625 18"/></Shape>
+          <TextLine ID="eSc_line_3fa77e2e"
+                    TAGREFS="LT41"
+                    BASELINE="2429 52 2606 57" 
+                    HPOS="2425"
+                    VPOS="2"
+                    WIDTH="180"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2428 49 2425 78 2454 81 2483 81 2512 84 2512 84 2602 78 2605 55 2602 11 2428 2 2428 49"/></Shape>
+	    <String CONTENT="105"
+                    HPOS="2425"
+                    VPOS="2"
+                    WIDTH="180"
+                    HEIGHT="82"
+                    WC="1.0"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
