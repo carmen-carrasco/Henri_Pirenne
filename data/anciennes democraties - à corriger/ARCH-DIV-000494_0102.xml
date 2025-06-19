@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2713"
                   HEIGHT="3489">
-        <TextBlock HPOS="584.0"
-                   VPOS="60.0"
-                   WIDTH="2129.0"
-                   HEIGHT="3206.0"
+        <TextBlock HPOS="584"
+                   VPOS="60"
+                   WIDTH="2129"
+                   HEIGHT="3206"
                    ID="32f73611-3e42-4027-b603-97904849fa22"
                    TAGREFS="BT59">
-          <Shape><Polygon POINTS="2704 116 2713 3266 617 3234 584 2181 588 60 2465 70 2488 113 2488 114"/></Shape>
+          <Shape><Polygon POINTS="2700 127 2713 3266 617 3234 584 2181 588 60 2465 70 2488 113 2488 114"/></Shape>
           <TextLine ID="eSc_line_77e6da50"
                     TAGREFS="LT41"
                     BASELINE="645 125 2619 125" 
@@ -359,6 +359,21 @@
                     HEIGHT="102"
                     WC="0.9760230700174968"></String>
           </TextLine>
+          <TextLine ID="eSc_line_3ad7c259"
+                    TAGREFS="LT42"
+                    BASELINE="1332 1888 1626 1883" 
+                    HPOS="1328"
+                    VPOS="1846"
+                    WIDTH="297"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1331 1886 1331 1916 1622 1901 1625 1881 1616 1846 1328 1846 1331 1886"/></Shape>
+	    <String CONTENT="insiniers"
+                    HPOS="1328"
+                    VPOS="1846"
+                    WIDTH="297"
+                    HEIGHT="70"
+                    WC="0.9990288350317214"></String>
+          </TextLine>
           <TextLine ID="eSc_line_40fc3079"
                     TAGREFS="LT41"
                     BASELINE="639 2020 1337 2014 2669 2035" 
@@ -599,51 +614,6 @@
                     HEIGHT="130"
                     WC="0.997829432117528"></String>
           </TextLine>
-          <TextLine ID="eSc_line_f0770a35"
-                    TAGREFS="LT41"
-                    BASELINE="655 3352 2697 3349" 
-                    HPOS="651"
-                    VPOS="3265"
-                    WIDTH="2044"
-                    HEIGHT="130">
-            <Shape><Polygon POINTS="654 3349 654 3395 782 3369 977 3369 1003 3390 1003 3393 1014 3393 1064 3369 1311 3369 1328 3384 1340 3384 1398 3369 1427 3393 1439 3393 1506 3369 2009 3369 2111 3393 2692 3387 2695 3346 2686 3276 2483 3297 2451 3270 2439 3270 2378 3285 2323 3273 2294 3270 2253 3297 2169 3265 2041 3265 1980 3300 1503 3300 1465 3265 1453 3265 1392 3279 1360 3265 1349 3265 1320 3282 1232 3268 1192 3265 1151 3297 1055 3282 1049 3282 1023 3297 985 3270 651 3268 654 3349"/></Shape>
-	    <String CONTENT="(1) Gublies par MM. G. Espinas dans la Vertelatrschrift"
-                    HPOS="651"
-                    VPOS="3265"
-                    WIDTH="2044"
-                    HEIGHT="130"
-                    WC="0.9826405774463307"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_defe784f"
-                    TAGREFS="LT41"
-                    BASELINE="662 3430 811 3416 1209 3410 2166 3416" 
-                    HPOS="657"
-                    VPOS="3352"
-                    WIDTH="1506"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="660 3427 657 3471 1145 3471 1145 3468 1203 3462 1285 3451 1509 3457 1834 3465 1837 3465 2160 3445 2163 3413 2160 3366 1230 3352 1227 3352 660 3366 660 3427"/></Shape>
-	    <String CONTENT="fur social und voits chaftijuitechte, an¬"
-                    HPOS="657"
-                    VPOS="3352"
-                    WIDTH="1506"
-                    HEIGHT="119"
-                    WC="0.9872713815875169"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_3ad7c259"
-                    TAGREFS="LT42"
-                    BASELINE="1332 1888 1626 1883" 
-                    HPOS="1328"
-                    VPOS="1846"
-                    WIDTH="297"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="1331 1886 1331 1916 1622 1901 1625 1881 1616 1846 1328 1846 1331 1886"/></Shape>
-	    <String CONTENT="insiniers"
-                    HPOS="1328"
-                    VPOS="1846"
-                    WIDTH="297"
-                    HEIGHT="70"
-                    WC="0.9990288350317214"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="2505.0"
                    VPOS="22.0"
@@ -675,6 +645,36 @@
                    ID="eSc_textblock_64a32dee"
                    TAGREFS="BT78">
           <Shape><Polygon POINTS="610 3258 614 3487 2713 3484 2713 3265"/></Shape>
+          <TextLine ID="eSc_line_f0770a35"
+                    TAGREFS="LT41"
+                    BASELINE="655 3352 2697 3349" 
+                    HPOS="651"
+                    VPOS="3265"
+                    WIDTH="2044"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="654 3395 782 3369 977 3369 1003 3390 1003 3393 1014 3393 1064 3369 1311 3369 1328 3384 1340 3384 1398 3369 1427 3393 1439 3393 1506 3369 2009 3369 2111 3393 2692 3387 2695 3346 2686 3276 2483 3297 2451 3270 2439 3270 2378 3285 2323 3273 2294 3270 2253 3297 2169 3265 2041 3265 1980 3300 1503 3300 1465 3265 1453 3265 1392 3279 1360 3265 1349 3265 1320 3282 1232 3268 1192 3265 1151 3297 1055 3282 1049 3282 1023 3297 985 3270 651 3268 654 3349"/></Shape>
+	    <String CONTENT="(1) Gublies par MM. G. Espinas dans la Vertelatrschrift"
+                    HPOS="651"
+                    VPOS="3265"
+                    WIDTH="2044"
+                    HEIGHT="130"
+                    WC="0.9826405774463307"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_defe784f"
+                    TAGREFS="LT41"
+                    BASELINE="662 3430 811 3416 1209 3410 2166 3416" 
+                    HPOS="657"
+                    VPOS="3352"
+                    WIDTH="1506"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="660 3427 657 3471 1145 3471 1145 3468 1203 3462 1285 3451 1509 3457 1834 3465 1837 3465 2160 3445 2163 3413 2160 3366 1230 3352 1227 3352 660 3366 660 3427"/></Shape>
+	    <String CONTENT="fur social und voits chaftijuitechte, an¬"
+                    HPOS="657"
+                    VPOS="3352"
+                    WIDTH="1506"
+                    HEIGHT="119"
+                    WC="0.9872713815875169"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

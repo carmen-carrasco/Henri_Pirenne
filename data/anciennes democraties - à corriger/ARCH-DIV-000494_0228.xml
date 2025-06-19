@@ -29,21 +29,6 @@
                    ID="c1fc0c6b-eac7-46ae-a12f-57d108f89025"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2545 125 2705 115 2705 3302 603 3302 603 53 2542 53"/></Shape>
-          <TextLine ID="eSc_line_e456615b"
-                    TAGREFS="LT41"
-                    BASELINE="2564 81 2670 72" 
-                    HPOS="2556"
-                    VPOS="14"
-                    WIDTH="112"
-                    HEIGHT="98">
-            <Shape><Polygon POINTS="2561 112 2668 103 2668 70 2662 22 2556 14 2561 78 2561 112"/></Shape>
-	    <String CONTENT="991"
-                    HPOS="2556"
-                    VPOS="14"
-                    WIDTH="112"
-                    HEIGHT="98"
-                    WC="0.9999630451202393"></String>
-          </TextLine>
           <TextLine ID="eSc_line_f5a7becc"
                     TAGREFS="LT41"
                     BASELINE="669 142 2676 148" 
@@ -126,7 +111,7 @@
                     VPOS="562"
                     WIDTH="1177"
                     HEIGHT="101">
-            <Shape><Polygon POINTS="655 618 653 641 1045 660 1098 646 1230 660 1275 644 1412 644 1485 660 1569 649 1824 663 1830 627 1824 585 1690 588 1661 571 1647 571 1628 588 1594 571 1586 571 1519 588 1440 565 1359 582 1334 565 1320 565 1289 585 1241 565 1233 565 1205 576 1188 588 1073 588 1020 565 1011 565 952 582 905 568 793 579 770 562 762 562 655 571 655 618"/></Shape>
+            <Shape><Polygon POINTS="653 641 1045 660 1098 646 1230 660 1275 644 1412 644 1485 660 1569 649 1824 663 1830 627 1824 585 1690 588 1661 571 1647 571 1628 588 1594 571 1586 571 1519 588 1440 565 1359 582 1334 565 1320 565 1289 585 1241 565 1233 565 1205 576 1188 588 1073 588 1020 565 1011 565 952 582 905 568 793 579 770 562 762 562 655 571 655 618"/></Shape>
 	    <String CONTENT="sévérant genie du Taciturne"
                     HPOS="653"
                     VPOS="562"
@@ -562,6 +547,21 @@
                    ID="eSc_textblock_3d99fd95"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2550 26 2550 110 2701 110 2701 26"/></Shape>
+          <TextLine ID="eSc_line_e456615b"
+                    TAGREFS="LT41"
+                    BASELINE="2564 81 2670 72" 
+                    HPOS="2556"
+                    VPOS="14"
+                    WIDTH="112"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2561 112 2668 103 2668 70 2662 22 2556 14 2561 78 2561 112"/></Shape>
+	    <String CONTENT="991"
+                    HPOS="2556"
+                    VPOS="14"
+                    WIDTH="112"
+                    HEIGHT="98"
+                    WC="0.9999630451202393"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

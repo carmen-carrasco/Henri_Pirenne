@@ -44,21 +44,6 @@
                     HEIGHT="122"
                     WC="0.9876043273478138"></String>
           </TextLine>
-          <TextLine ID="eSc_line_e38a409b"
-                    TAGREFS="LT41"
-                    BASELINE="2535 104 2654 110" 
-                    HPOS="2529"
-                    VPOS="49"
-                    WIDTH="122"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="2532 101 2529 130 2648 130 2651 107 2648 55 2532 49 2532 101"/></Shape>
-	    <String CONTENT="212"
-                    HPOS="2529"
-                    VPOS="49"
-                    WIDTH="122"
-                    HEIGHT="81"
-                    WC="0.9999914169311523"></String>
-          </TextLine>
           <TextLine ID="eSc_line_5dd7fb46"
                     TAGREFS="LT41"
                     BASELINE="547 244 2648 267" 
@@ -96,7 +81,7 @@
                     VPOS="372"
                     WIDTH="2087"
                     HEIGHT="134">
-            <Shape><Polygon POINTS="553 442 553 465 713 456 817 479 893 459 995 479 1085 462 1149 482 1423 468 1461 488 1737 494 1836 474 1912 491 2255 479 2433 482 2451 500 2453 506 2637 503 2640 465 2637 407 2107 415 2034 395 1918 412 1857 392 1691 410 1554 386 1548 386 1499 407 1307 383 1301 383 1254 404 1120 404 1071 386 1001 398 975 380 963 380 925 398 870 375 751 392 713 372 553 386 553 442"/></Shape>
+            <Shape><Polygon POINTS="553 465 713 456 817 479 893 459 995 479 1085 462 1149 482 1423 468 1461 488 1737 494 1836 474 1912 491 2255 479 2433 482 2451 500 2453 506 2637 503 2640 465 2637 407 2107 415 2034 395 1918 412 1857 392 1691 410 1554 386 1548 386 1499 407 1307 383 1301 383 1254 404 1120 404 1071 386 1001 398 975 380 963 380 925 398 870 375 751 392 713 372 553 386 553 442"/></Shape>
 	    <String CONTENT="Per sortis d&#x27;embarras, les jouvernautes aussilien que"
                     HPOS="553"
                     VPOS="372"
@@ -592,6 +577,21 @@
                    ID="eSc_textblock_6ef443ed"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2512 48 2523 136 2679 136 2679 49"/></Shape>
+          <TextLine ID="eSc_line_e38a409b"
+                    TAGREFS="LT41"
+                    BASELINE="2535 104 2654 110" 
+                    HPOS="2529"
+                    VPOS="49"
+                    WIDTH="122"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2532 101 2529 130 2648 130 2651 107 2648 55 2532 49 2532 101"/></Shape>
+	    <String CONTENT="212"
+                    HPOS="2529"
+                    VPOS="49"
+                    WIDTH="122"
+                    HEIGHT="81"
+                    WC="0.9999914169311523"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

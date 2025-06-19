@@ -29,21 +29,6 @@
                    ID="f578d9b9-bb37-4d35-802a-2e65d120cd59"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="480 30 2707 30 2707 3536 480 3536 480 30"/></Shape>
-          <TextLine ID="eSc_line_65ab7b9f"
-                    TAGREFS="LT41"
-                    BASELINE="2558 86 2660 87" 
-                    HPOS="2552"
-                    VPOS="32"
-                    WIDTH="107"
-                    HEIGHT="101">
-            <Shape><Polygon POINTS="2641 32 2611 32 2582 32 2555 32 2555 83 2552 127 2653 133 2659 86 2653 32 2641 32"/></Shape>
-	    <String CONTENT="118"
-                    HPOS="2552"
-                    VPOS="32"
-                    WIDTH="107"
-                    HEIGHT="101"
-                    WC="0.9999469518661499"></String>
-          </TextLine>
           <TextLine ID="eSc_line_aecd7def"
                     TAGREFS="LT41"
                     BASELINE="535 166 2198 184 2501 199 2677 222" 
@@ -51,7 +36,7 @@
                     VPOS="92"
                     WIDTH="2145"
                     HEIGHT="145">
-            <Shape><Polygon POINTS="532 163 529 190 1106 219 1172 202 1255 202 1276 219 1463 202 1645 216 1677 216 1775 205 1805 219 2002 208 2091 208 2115 225 2115 228 2126 228 2195 210 2668 237 2674 219 2674 145 2376 130 2290 142 2251 118 2240 118 2168 139 1915 109 1651 130 1552 104 1436 104 1380 130 1210 101 928 124 660 92 532 118 532 163"/></Shape>
+            <Shape><Polygon POINTS="529 190 1106 219 1172 202 1255 202 1276 219 1463 202 1645 216 1677 216 1775 205 1805 219 2002 208 2091 208 2115 225 2115 228 2126 228 2195 210 2668 237 2674 219 2674 145 2376 130 2290 142 2251 118 2240 118 2168 139 1915 109 1651 130 1552 104 1436 104 1380 130 1210 101 928 124 660 92 532 118 532 163"/></Shape>
 	    <String CONTENT="et les usages locaux. L&#x27;intervention de ces commistaires"
                     HPOS="529"
                     VPOS="92"
@@ -637,6 +622,21 @@
                    ID="bf39e1f5-7a28-45cc-9280-d985d1209079"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2503 18 2677 18 2677 128 2503 128 2503 18"/></Shape>
+          <TextLine ID="eSc_line_65ab7b9f"
+                    TAGREFS="LT41"
+                    BASELINE="2558 86 2660 87" 
+                    HPOS="2552"
+                    VPOS="32"
+                    WIDTH="107"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="2641 32 2611 32 2582 32 2555 32 2555 83 2552 127 2653 133 2659 86 2653 32 2641 32"/></Shape>
+	    <String CONTENT="118"
+                    HPOS="2552"
+                    VPOS="32"
+                    WIDTH="107"
+                    HEIGHT="101"
+                    WC="0.9999469518661499"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

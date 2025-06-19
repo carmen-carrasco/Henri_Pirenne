@@ -29,20 +29,6 @@
                    ID="99c64654-14b6-4b2e-a084-f9eb38258a52"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2532 160 2703 145 2703 2747 508 2747 508 7 2537 7"/></Shape>
-          <TextLine ID="eSc_line_41265d6a"
-                    BASELINE="2546 93 2658 94" 
-                    HPOS="2543"
-                    VPOS="25"
-                    WIDTH="112"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="2543 91 2543 120 2652 125 2655 91 2652 25 2543 25 2543 91"/></Shape>
-	    <String CONTENT="123"
-                    HPOS="2543"
-                    VPOS="25"
-                    WIDTH="112"
-                    HEIGHT="100"
-                    WC="0.9999987681706747"></String>
-          </TextLine>
           <TextLine ID="eSc_line_795b2eee"
                     TAGREFS="LT41"
                     BASELINE="550 120 2011 91 2533 93" 
@@ -125,7 +111,7 @@
                     VPOS="541"
                     WIDTH="2097"
                     HEIGHT="83">
-            <Shape><Polygon POINTS="538 598 538 624 2632 607 2632 586 2629 541 575 541 572 541 570 541 535 552 538 598"/></Shape>
+            <Shape><Polygon POINTS="538 624 2632 607 2632 586 2629 541 575 541 572 541 570 541 535 552 538 598"/></Shape>
 	    <String CONTENT="les extorte à la modération, au maintien de la liberté de"
                     HPOS="535"
                     VPOS="541"
@@ -471,6 +457,20 @@
                    ID="eSc_textblock_8dcb863c"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2542 25 2534 149 2677 125 2677 24"/></Shape>
+          <TextLine ID="eSc_line_41265d6a"
+                    BASELINE="2546 93 2658 94" 
+                    HPOS="2543"
+                    VPOS="25"
+                    WIDTH="112"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2543 91 2543 120 2652 125 2655 91 2652 25 2543 25 2543 91"/></Shape>
+	    <String CONTENT="123"
+                    HPOS="2543"
+                    VPOS="25"
+                    WIDTH="112"
+                    HEIGHT="100"
+                    WC="0.9999987681706747"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

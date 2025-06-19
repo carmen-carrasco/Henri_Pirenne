@@ -29,20 +29,6 @@
                    ID="f64000ed-fb6c-4716-ba31-82bd87002674"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2509 187 2704 186 2704 3492 467 3492 467 12 2508 12"/></Shape>
-          <TextLine ID="eSc_line_438f6ce7"
-                    BASELINE="2526 114 2625 111" 
-                    HPOS="2519"
-                    VPOS="17"
-                    WIDTH="103"
-                    HEIGHT="135">
-            <Shape><Polygon POINTS="2525 111 2525 152 2622 134 2622 108 2613 17 2519 20 2525 111"/></Shape>
-	    <String CONTENT="156"
-                    HPOS="2519"
-                    VPOS="17"
-                    WIDTH="103"
-                    HEIGHT="135"
-                    WC="0.9657652775446574"></String>
-          </TextLine>
           <TextLine ID="eSc_line_b525016e"
                     TAGREFS="LT41"
                     BASELINE="547 146 1933 134 2496 115" 
@@ -155,7 +141,7 @@
                     VPOS="688"
                     WIDTH="2086"
                     HEIGHT="117">
-            <Shape><Polygon POINTS="946 699 931 702 565 699 565 776 720 764 735 778 922 767 1139 784 1221 773 1315 787 1854 781 1878 796 2062 784 2645 805 2651 770 2648 729 2531 711 2472 726 2440 708 2288 720 2270 705 2003 717 1965 702 1904 717 1836 699 1713 714 1696 699 1696 696 1684 696 1634 711 1497 694 1218 705 1116 688 1066 702 960 688 949 691 946 699"/></Shape>
+            <Shape><Polygon POINTS="931 702 565 699 565 776 720 764 735 778 922 767 1139 784 1221 773 1315 787 1854 781 1878 796 2062 784 2645 805 2651 770 2648 729 2531 711 2472 726 2440 708 2288 720 2270 705 2003 717 1965 702 1904 717 1836 699 1713 714 1696 699 1696 696 1684 696 1634 711 1497 694 1218 705 1116 688 1066 702 960 688 949 691 946 699"/></Shape>
 	    <String CONTENT="&lt;&gt; ne découlent point directement de la chase"
                     HPOS="565"
                     VPOS="688"
@@ -546,6 +532,20 @@
                    ID="eSc_textblock_c5a961f7"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2518 21 2515 174 2664 171 2664 22"/></Shape>
+          <TextLine ID="eSc_line_438f6ce7"
+                    BASELINE="2526 114 2625 111" 
+                    HPOS="2519"
+                    VPOS="17"
+                    WIDTH="103"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="2525 111 2525 152 2622 134 2622 108 2613 17 2519 20 2525 111"/></Shape>
+	    <String CONTENT="156"
+                    HPOS="2519"
+                    VPOS="17"
+                    WIDTH="103"
+                    HEIGHT="135"
+                    WC="0.9657652775446574"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

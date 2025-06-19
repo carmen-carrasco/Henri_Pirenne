@@ -29,21 +29,6 @@
                    ID="684d0e29-c956-4ced-87b2-a094e8abee2e"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2401 95 2662 84 2662 3392 573 3392 573 33 2356 33"/></Shape>
-          <TextLine ID="eSc_line_8c05c6bc"
-                    TAGREFS="LT41"
-                    BASELINE="2400 67 2550 59" 
-                    HPOS="2391"
-                    VPOS="5"
-                    WIDTH="158"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="2397 65 2397 80 2549 80 2549 57 2543 17 2391 5 2397 65"/></Shape>
-	    <String CONTENT="141"
-                    HPOS="2391"
-                    VPOS="5"
-                    WIDTH="158"
-                    HEIGHT="75"
-                    WC="0.999999483426412"></String>
-          </TextLine>
           <TextLine ID="eSc_line_6e372913"
                     TAGREFS="LT41"
                     BASELINE="625 157 1846 111 2552 106" 
@@ -171,7 +156,7 @@
                     VPOS="670"
                     WIDTH="1988"
                     HEIGHT="115">
-            <Shape><Polygon POINTS="613 756 613 785 2595 742 2598 713 2589 670 610 707 613 756"/></Shape>
+            <Shape><Polygon POINTS="613 785 2595 742 2598 713 2589 670 610 707 613 756"/></Shape>
 	    <String CONTENT="tre sur pied de nouvelles Troupes et les conduire lui-même"
                     HPOS="610"
                     VPOS="670"
@@ -622,6 +607,21 @@
                    ID="eSc_textblock_8d33838a"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2374 18 2410 91 2570 78 2570 18"/></Shape>
+          <TextLine ID="eSc_line_8c05c6bc"
+                    TAGREFS="LT41"
+                    BASELINE="2400 67 2550 59" 
+                    HPOS="2391"
+                    VPOS="5"
+                    WIDTH="158"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2397 65 2397 80 2549 80 2549 57 2543 17 2391 5 2397 65"/></Shape>
+	    <String CONTENT="141"
+                    HPOS="2391"
+                    VPOS="5"
+                    WIDTH="158"
+                    HEIGHT="75"
+                    WC="0.999999483426412"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

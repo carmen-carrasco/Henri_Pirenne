@@ -29,20 +29,6 @@
                    ID="5fa5eef9-1877-4362-93b2-438659050337"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2451 167 2713 158 2713 3467 505 3467 505 25 2448 25"/></Shape>
-          <TextLine ID="eSc_line_bcd380c5"
-                    BASELINE="2451 104 2579 104" 
-                    HPOS="2449"
-                    VPOS="20"
-                    WIDTH="127"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="2449 101 2452 144 2492 127 2574 138 2576 101 2576 40 2495 20 2492 20 2490 20 2487 20 2449 28 2449 101"/></Shape>
-	    <String CONTENT="209"
-                    HPOS="2449"
-                    VPOS="20"
-                    WIDTH="127"
-                    HEIGHT="124"
-                    WC="0.9994681278864542"></String>
-          </TextLine>
           <TextLine ID="eSc_line_579a1673"
                     TAGREFS="LT41"
                     BASELINE="541 115 859 104 2438 104" 
@@ -50,7 +36,7 @@
                     VPOS="40"
                     WIDTH="1902"
                     HEIGHT="98">
-            <Shape><Polygon POINTS="538 112 538 133 2432 138 2437 101 2435 57 1731 40 1728 40 1583 57 1554 43 1551 43 1549 43 1546 43 1522 54 1491 40 1488 40 1271 40 1268 40 1169 60 859 60 836 40 833 40 830 40 741 40 738 40 735 40 732 40 715 57 535 60 538 112"/></Shape>
+            <Shape><Polygon POINTS="538 133 2432 138 2437 101 2435 57 1731 40 1728 40 1583 57 1554 43 1551 43 1549 43 1546 43 1522 54 1491 40 1488 40 1271 40 1268 40 1169 60 859 60 836 40 833 40 830 40 741 40 738 40 735 40 732 40 715 57 535 60 538 112"/></Shape>
 	    <String CONTENT="une amende de 150. 000 &quot;carolus à d&#x27;os, une"
                     HPOS="535"
                     VPOS="40"
@@ -591,6 +577,20 @@
                    ID="eSc_textblock_0bbbe1ec"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2448 19 2456 161 2641 161 2641 19"/></Shape>
+          <TextLine ID="eSc_line_bcd380c5"
+                    BASELINE="2451 104 2579 104" 
+                    HPOS="2449"
+                    VPOS="20"
+                    WIDTH="127"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2449 101 2452 144 2492 127 2574 138 2576 101 2576 40 2495 20 2492 20 2490 20 2487 20 2449 28 2449 101"/></Shape>
+	    <String CONTENT="209"
+                    HPOS="2449"
+                    VPOS="20"
+                    WIDTH="127"
+                    HEIGHT="124"
+                    WC="0.9994681278864542"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

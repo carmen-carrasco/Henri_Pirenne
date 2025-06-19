@@ -29,21 +29,6 @@
                    ID="bfbb3341-a04c-4353-b569-d65c13758c6b"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2480 109 2692 117 2692 3499 466 3499 466 0 2475 0"/></Shape>
-          <TextLine ID="eSc_line_4f630016"
-                    TAGREFS="LT41"
-                    BASELINE="2493 55 2615 60" 
-                    HPOS="2488"
-                    VPOS="2"
-                    WIDTH="125"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="2605 2 2575 2 2546 2 2491 2 2491 52 2488 104 2517 104 2546 104 2575 107 2578 107 2610 93 2613 58 2607 2 2605 2"/></Shape>
-	    <String CONTENT="183"
-                    HPOS="2488"
-                    VPOS="2"
-                    WIDTH="125"
-                    HEIGHT="105"
-                    WC="0.9888966282208761"></String>
-          </TextLine>
           <TextLine ID="eSc_line_b9af94fa"
                     TAGREFS="LT41"
                     BASELINE="501 116 775 102 2459 83" 
@@ -246,7 +231,7 @@
                     VPOS="1218"
                     WIDTH="2118"
                     HEIGHT="143">
-            <Shape><Polygon POINTS="525 1268 522 1294 857 1320 860 1320 953 1309 968 1309 1000 1312 1190 1329 2634 1361 2640 1323 2640 1277 525 1218 525 1268"/></Shape>
+            <Shape><Polygon POINTS="522 1294 857 1320 860 1320 953 1309 968 1309 1000 1312 1190 1329 2634 1361 2640 1323 2640 1277 525 1218 525 1268"/></Shape>
 	    <String CONTENT="comme les villes s’étaient trouvées elles même, à l&#x27;origine, en"
                     HPOS="522"
                     VPOS="1218"
@@ -667,6 +652,21 @@
                    ID="eSc_textblock_cb20a366"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2473 10 2476 50 2481 107 2669 111 2655 26"/></Shape>
+          <TextLine ID="eSc_line_4f630016"
+                    TAGREFS="LT41"
+                    BASELINE="2493 55 2615 60" 
+                    HPOS="2488"
+                    VPOS="2"
+                    WIDTH="125"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2605 2 2575 2 2546 2 2491 2 2491 52 2488 104 2517 104 2546 104 2575 107 2578 107 2610 93 2613 58 2607 2 2605 2"/></Shape>
+	    <String CONTENT="183"
+                    HPOS="2488"
+                    VPOS="2"
+                    WIDTH="125"
+                    HEIGHT="105"
+                    WC="0.9888966282208761"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

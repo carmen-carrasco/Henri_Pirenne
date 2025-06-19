@@ -44,21 +44,6 @@
                     HEIGHT="133"
                     WC="0.9292400639231612"></String>
           </TextLine>
-          <TextLine ID="eSc_line_394cfb13"
-                    TAGREFS="LT41"
-                    BASELINE="2473 45 2569 50" 
-                    HPOS="2467"
-                    VPOS="8"
-                    WIDTH="99"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="2470 42 2467 84 2563 67 2566 47 2563 8 2470 8 2470 42"/></Shape>
-	    <String CONTENT="193"
-                    HPOS="2467"
-                    VPOS="8"
-                    WIDTH="99"
-                    HEIGHT="76"
-                    WC="0.9999807278315226"></String>
-          </TextLine>
           <TextLine ID="eSc_line_af784a79"
                     TAGREFS="LT41"
                     BASELINE="516 247 1342 239 2188 250 2605 272 2663 294" 
@@ -111,7 +96,7 @@
                     VPOS="495"
                     WIDTH="2132"
                     HEIGHT="136">
-            <Shape><Polygon POINTS="521 563 521 586 899 586 978 608 1091 588 1125 611 1136 611 1195 591 1398 591 1449 617 1458 617 1522 594 1711 594 1751 619 2007 608 2055 625 2363 608 2436 628 2648 631 2653 597 2645 526 2603 543 2557 529 2456 543 2298 521 2292 521 2256 540 2236 526 1895 535 1852 512 1844 512 1830 518 1807 532 1785 512 1576 529 1539 512 1531 512 1494 529 1443 509 1359 524 1339 507 1136 524 1082 507 1023 521 705 521 657 495 651 495 521 507 521 563"/></Shape>
+            <Shape><Polygon POINTS="521 586 899 586 978 608 1091 588 1125 611 1136 611 1195 591 1398 591 1449 617 1458 617 1522 594 1711 594 1751 619 2007 608 2055 625 2363 608 2436 628 2648 631 2653 597 2645 526 2603 543 2557 529 2456 543 2298 521 2292 521 2256 540 2236 526 1895 535 1852 512 1844 512 1830 518 1807 532 1785 512 1576 529 1539 512 1531 512 1494 529 1443 509 1359 524 1339 507 1136 524 1082 507 1023 521 705 521 657 495 651 495 521 507 521 563"/></Shape>
 	    <String CONTENT="Penonne ne regretta du reste le régime de métiers. La la"
                     HPOS="521"
                     VPOS="495"
@@ -269,16 +254,6 @@
                     HEIGHT="197"
                     WC="0.9962878359688653"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2456.0"
-                   VPOS="0.0"
-                   WIDTH="209.0"
-                   HEIGHT="78.0"
-                   ID="eSc_textblock_6cfc6c11"
-                   TAGREFS="BT60">
-          <Shape><Polygon POINTS="2456 78 2456 0 2665 0 2665 78"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_5c085566"
                     TAGREFS="LT41"
                     BASELINE="888 2127 1319 2118" 
@@ -293,6 +268,29 @@
                     WIDTH="435"
                     HEIGHT="144"
                     WC="0.936122715473175"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2456.0"
+                   VPOS="0.0"
+                   WIDTH="209.0"
+                   HEIGHT="78.0"
+                   ID="eSc_textblock_6cfc6c11"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2456 78 2456 0 2665 0 2665 78"/></Shape>
+          <TextLine ID="eSc_line_394cfb13"
+                    TAGREFS="LT41"
+                    BASELINE="2473 45 2569 50" 
+                    HPOS="2467"
+                    VPOS="8"
+                    WIDTH="99"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2470 42 2467 84 2563 67 2566 47 2563 8 2470 8 2470 42"/></Shape>
+	    <String CONTENT="193"
+                    HPOS="2467"
+                    VPOS="8"
+                    WIDTH="99"
+                    HEIGHT="76"
+                    WC="0.9999807278315226"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

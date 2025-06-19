@@ -97,21 +97,6 @@
                     HEIGHT="121"
                     WC="0.9949304249327061"></String>
           </TextLine>
-          <TextLine ID="eSc_line_a4a5a671"
-                    TAGREFS="LT41"
-                    BASELINE="2520 103 2646 125" 
-                    HPOS="2515"
-                    VPOS="52"
-                    WIDTH="134"
-                    HEIGHT="78">
-            <Shape><Polygon POINTS="2521 81 2518 101 2515 110 2640 130 2643 124 2649 55 2536 52 2521 81"/></Shape>
-	    <String CONTENT="1V,41"
-                    HPOS="2515"
-                    VPOS="52"
-                    WIDTH="134"
-                    HEIGHT="78"
-                    WC="0.9955902576446534"></String>
-          </TextLine>
           <TextLine ID="eSc_line_8cafee44"
                     TAGREFS="LT41"
                     BASELINE="568 208 1855 208 2663 231" 
@@ -224,7 +209,7 @@
                     VPOS="674"
                     WIDTH="2107"
                     HEIGHT="87">
-            <Shape><Polygon POINTS="565 724 565 753 846 753 855 738 884 744 913 750 942 756 944 756 1492 761 1495 761 1533 756 1620 744 1750 758 1770 758 1773 758 1805 758 2017 744 2034 758 2037 758 2040 758 2043 761 2666 761 2669 718 2663 677 562 674 565 724"/></Shape>
+            <Shape><Polygon POINTS="565 753 846 753 855 738 884 744 913 750 942 756 944 756 1492 761 1495 761 1533 756 1620 744 1750 758 1770 758 1773 758 1805 758 2017 744 2034 758 2037 758 2040 758 2043 761 2666 761 2669 718 2663 677 562 674 565 724"/></Shape>
 	    <String CONTENT="apparaîts, grands marchands, banginers, spéculateurs, ausci"
                     HPOS="562"
                     VPOS="674"
@@ -735,6 +720,21 @@
                    ID="eSc_textblock_543c2bbb"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2545 73 2526 120 2577 148 2572 187 2655 184 2654 57"/></Shape>
+          <TextLine ID="eSc_line_a4a5a671"
+                    TAGREFS="LT41"
+                    BASELINE="2520 103 2646 125" 
+                    HPOS="2515"
+                    VPOS="52"
+                    WIDTH="134"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2521 81 2518 101 2515 110 2640 130 2643 124 2649 55 2536 52 2521 81"/></Shape>
+	    <String CONTENT="1V,41"
+                    HPOS="2515"
+                    VPOS="52"
+                    WIDTH="134"
+                    HEIGHT="78"
+                    WC="0.9955902576446534"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -29,21 +29,6 @@
                    ID="ff1edc26-b74a-4453-9db6-2606697a41d7"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2492 114 2708 105 2708 3496 486 3496 486 13 2489 13"/></Shape>
-          <TextLine ID="eSc_line_f1dc9f03"
-                    TAGREFS="LT41"
-                    BASELINE="2524 73 2610 73" 
-                    HPOS="2521"
-                    VPOS="2"
-                    WIDTH="86"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="2521 70 2521 105 2551 105 2580 102 2607 102 2607 70 2604 2 2521 2 2521 70"/></Shape>
-	    <String CONTENT="187"
-                    HPOS="2521"
-                    VPOS="2"
-                    WIDTH="86"
-                    HEIGHT="103"
-                    WC="0.9998673399289449"></String>
-          </TextLine>
           <TextLine ID="eSc_line_38903b5f"
                     TAGREFS="LT41"
                     BASELINE="526 123 1544 117 2633 150" 
@@ -51,7 +36,7 @@
                     VPOS="38"
                     WIDTH="2110"
                     HEIGHT="147">
-            <Shape><Polygon POINTS="2580 108 2551 111 2492 111 2483 91 2433 91 2330 61 2189 88 2089 55 1936 70 1906 52 1733 50 1562 79 1471 47 1365 47 1318 76 868 73 803 38 794 38 747 55 523 41 523 120 520 132 650 158 773 141 865 161 997 147 1062 164 1071 164 1106 150 1268 164 1356 144 1406 164 1515 144 2027 150 2083 170 2174 153 2236 179 2401 167 2436 185 2627 185 2630 147 2604 108 2580 108"/></Shape>
+            <Shape><Polygon POINTS="2551 111 2492 111 2483 91 2433 91 2330 61 2189 88 2089 55 1936 70 1906 52 1733 50 1562 79 1471 47 1365 47 1318 76 868 73 803 38 794 38 747 55 523 41 523 120 520 132 650 158 773 141 865 161 997 147 1062 164 1071 164 1106 150 1268 164 1356 144 1406 164 1515 144 2027 150 2083 170 2174 153 2236 179 2401 167 2436 185 2627 185 2630 147 2604 108 2580 108"/></Shape>
 	    <String CONTENT="et à l&#x27;hégemonie territoriale dont il avait joui pro¬"
                     HPOS="520"
                     VPOS="38"
@@ -562,6 +547,21 @@
                    ID="eSc_textblock_9bc94173"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2501 14 2501 101 2665 101 2665 14"/></Shape>
+          <TextLine ID="eSc_line_f1dc9f03"
+                    TAGREFS="LT41"
+                    BASELINE="2524 73 2610 73" 
+                    HPOS="2521"
+                    VPOS="2"
+                    WIDTH="86"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="2521 70 2521 105 2551 105 2580 102 2607 102 2607 70 2604 2 2521 2 2521 70"/></Shape>
+	    <String CONTENT="187"
+                    HPOS="2521"
+                    VPOS="2"
+                    WIDTH="86"
+                    HEIGHT="103"
+                    WC="0.9998673399289449"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

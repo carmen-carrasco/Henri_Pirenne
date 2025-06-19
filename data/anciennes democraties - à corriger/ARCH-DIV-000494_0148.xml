@@ -44,20 +44,6 @@
                     HEIGHT="112"
                     WC="0.9913564531699471"></String>
           </TextLine>
-          <TextLine ID="eSc_line_bfbeab94"
-                    BASELINE="2429 89 2563 83" 
-                    HPOS="2422"
-                    VPOS="8"
-                    WIDTH="138"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="2428 86 2428 132 2560 120 2560 80 2551 8 2422 34 2428 86"/></Shape>
-	    <String CONTENT="140"
-                    HPOS="2422"
-                    VPOS="8"
-                    WIDTH="138"
-                    HEIGHT="124"
-                    WC="0.9999294479688009"></String>
-          </TextLine>
           <TextLine ID="eSc_line_0e1f30c2"
                     TAGREFS="LT41"
                     BASELINE="572 195 2623 189" 
@@ -80,7 +66,7 @@
                     VPOS="253"
                     WIDTH="2057"
                     HEIGHT="83">
-            <Shape><Polygon POINTS="558 290 558 327 707 313 796 330 805 330 828 316 1027 330 1078 313 1447 313 1475 327 1496 327 1536 316 1585 333 1593 333 1648 316 1691 324 1729 336 1875 336 1875 333 1881 333 1907 316 2036 333 2215 316 2393 333 2612 322 2615 296 2612 253 558 253 558 290"/></Shape>
+            <Shape><Polygon POINTS="558 327 707 313 796 330 805 330 828 316 1027 330 1078 313 1447 313 1475 327 1496 327 1536 316 1585 333 1593 333 1648 316 1691 324 1729 336 1875 336 1875 333 1881 333 1907 316 2036 333 2215 316 2393 333 2612 322 2615 296 2612 253 558 253 558 290"/></Shape>
 	    <String CONTENT="que de l&#x27;excluseisme roumiciprel intèrent à ces petits"
                     HPOS="558"
                     VPOS="253"
@@ -636,6 +622,20 @@
                    ID="4f5643d4-4714-46c5-80c2-3a14b9fd53bd"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2576 31 2576 128 2431 128 2431 31"/></Shape>
+          <TextLine ID="eSc_line_bfbeab94"
+                    BASELINE="2429 89 2563 83" 
+                    HPOS="2422"
+                    VPOS="8"
+                    WIDTH="138"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2428 86 2428 132 2560 120 2560 80 2551 8 2422 34 2428 86"/></Shape>
+	    <String CONTENT="140"
+                    HPOS="2422"
+                    VPOS="8"
+                    WIDTH="138"
+                    HEIGHT="124"
+                    WC="0.9999294479688009"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

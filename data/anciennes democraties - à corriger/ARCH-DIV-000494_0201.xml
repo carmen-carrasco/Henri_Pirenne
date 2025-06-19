@@ -44,21 +44,6 @@
                     HEIGHT="150"
                     WC="0.97959551857967"></String>
           </TextLine>
-          <TextLine ID="eSc_line_23b5752d"
-                    TAGREFS="LT41"
-                    BASELINE="2498 70 2603 65" 
-                    HPOS="2493"
-                    VPOS="5"
-                    WIDTH="108"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="2495 67 2495 111 2525 111 2554 111 2583 111 2598 111 2601 64 2592 5 2493 17 2495 67"/></Shape>
-	    <String CONTENT="1193"
-                    HPOS="2493"
-                    VPOS="5"
-                    WIDTH="108"
-                    HEIGHT="106"
-                    WC="0.9999531507492065"></String>
-          </TextLine>
           <TextLine ID="eSc_line_f5fb8a1a"
                     TAGREFS="LT41"
                     BASELINE="483 219 1076 219 2636 281" 
@@ -89,6 +74,21 @@
                     HEIGHT="176"
                     WC="0.9930459407337925"></String>
           </TextLine>
+          <TextLine ID="eSc_line_71d7ff21"
+                    TAGREFS="LT41"
+                    BASELINE="487 412 1513 431 2044 466 2663 486" 
+                    HPOS="483"
+                    VPOS="351"
+                    WIDTH="2177"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="483 448 624 428 665 445 730 431 841 451 891 436 1132 439 1252 466 1331 448 1349 463 1481 454 1536 475 1704 463 1859 492 1988 483 2044 498 2311 492 2654 513 2660 483 2657 419 2495 425 2449 401 2440 401 2390 422 2311 401 2088 413 2053 387 2041 387 1970 410 1935 392 1924 392 1903 407 1789 407 1736 378 1648 395 1636 390 1627 381 1551 390 1531 372 1404 390 1363 369 1234 363 1105 384 827 351 642 372 486 357 486 410"/></Shape>
+	    <String CONTENT="que où, dès la couronne de roi des Romaires lui était"
+                    HPOS="483"
+                    VPOS="351"
+                    WIDTH="2177"
+                    HEIGHT="162"
+                    WC="0.9884275332936701"></String>
+          </TextLine>
           <TextLine ID="eSc_line_2df7882c"
                     TAGREFS="LT41"
                     BASELINE="483 510 1228 527 2657 595" 
@@ -103,21 +103,6 @@
                     WIDTH="2176"
                     HEIGHT="188"
                     WC="0.9921660820643107"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_71d7ff21"
-                    TAGREFS="LT41"
-                    BASELINE="487 412 1513 431 2044 466 2663 486" 
-                    HPOS="483"
-                    VPOS="351"
-                    WIDTH="2177"
-                    HEIGHT="162">
-            <Shape><Polygon POINTS="486 410 483 448 624 428 665 445 730 431 841 451 891 436 1132 439 1252 466 1331 448 1349 463 1481 454 1536 475 1704 463 1859 492 1988 483 2044 498 2311 492 2654 513 2660 483 2657 419 2495 425 2449 401 2440 401 2390 422 2311 401 2088 413 2053 387 2041 387 1970 410 1935 392 1924 392 1903 407 1789 407 1736 378 1648 395 1636 390 1627 381 1551 390 1531 372 1404 390 1363 369 1234 363 1105 384 827 351 642 372 486 357 486 410"/></Shape>
-	    <String CONTENT="que où, dès la couronne de roi des Romaires lui était"
-                    HPOS="483"
-                    VPOS="351"
-                    WIDTH="2177"
-                    HEIGHT="162"
-                    WC="0.9884275332936701"></String>
           </TextLine>
           <TextLine ID="eSc_line_e1df7a7e"
                     TAGREFS="LT41"
@@ -562,6 +547,21 @@
                    ID="7bb7516c-6c13-4b56-a33c-792e9b80ada4"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2617 12 2617 111 2474 111 2474 12"/></Shape>
+          <TextLine ID="eSc_line_23b5752d"
+                    TAGREFS="LT41"
+                    BASELINE="2498 70 2603 65" 
+                    HPOS="2493"
+                    VPOS="5"
+                    WIDTH="108"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2495 67 2495 111 2525 111 2554 111 2583 111 2598 111 2601 64 2592 5 2493 17 2495 67"/></Shape>
+	    <String CONTENT="1193"
+                    HPOS="2493"
+                    VPOS="5"
+                    WIDTH="108"
+                    HEIGHT="106"
+                    WC="0.9999531507492065"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

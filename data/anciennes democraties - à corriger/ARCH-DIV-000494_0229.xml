@@ -44,21 +44,6 @@
                     HEIGHT="121"
                     WC="0.9881570308372892"></String>
           </TextLine>
-          <TextLine ID="eSc_line_5c71e8c2"
-                    TAGREFS="LT41"
-                    BASELINE="2482 80 2659 85" 
-                    HPOS="2478"
-                    VPOS="25"
-                    WIDTH="180"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="2481 77 2478 86 2554 109 2565 109 2582 109 2655 92 2658 83 2658 34 2481 25 2481 77"/></Shape>
-	    <String CONTENT="225"
-                    HPOS="2478"
-                    VPOS="25"
-                    WIDTH="180"
-                    HEIGHT="84"
-                    WC="1.0"></String>
-          </TextLine>
           <TextLine ID="eSc_line_2bdb094c"
                     TAGREFS="LT41"
                     BASELINE="551 205 2678 219" 
@@ -81,7 +66,7 @@
                     VPOS="231"
                     WIDTH="2132"
                     HEIGHT="115">
-            <Shape><Polygon POINTS="534 288 531 314 583 335 797 314 823 314 959 337 1121 323 1193 337 1230 317 1435 335 1444 335 1461 320 1742 320 1808 343 2042 323 2178 323 2218 343 2227 343 2282 326 2392 346 2528 326 2556 346 2565 346 2660 332 2663 303 2658 257 2276 259 2054 242 1889 257 1866 245 1849 242 1817 257 1762 239 1750 239 1727 257 1398 257 1204 236 1152 236 965 251 846 233 641 248 534 231 534 288"/></Shape>
+            <Shape><Polygon POINTS="531 314 583 335 797 314 823 314 959 337 1121 323 1193 337 1230 317 1435 335 1444 335 1461 320 1742 320 1808 343 2042 323 2178 323 2218 343 2227 343 2282 326 2392 346 2528 326 2556 346 2565 346 2660 332 2663 303 2658 257 2276 259 2054 242 1889 257 1866 245 1849 242 1817 257 1762 239 1750 239 1727 257 1398 257 1204 236 1152 236 965 251 846 233 641 248 534 231 534 288"/></Shape>
 	    <String CONTENT="Barthéleux et qui reconnaissent formellement au peuple"
                     HPOS="531"
                     VPOS="231"
@@ -652,6 +637,21 @@
                    ID="eSc_textblock_372639d3"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2473 16 2473 111 2661 111 2661 16"/></Shape>
+          <TextLine ID="eSc_line_5c71e8c2"
+                    TAGREFS="LT41"
+                    BASELINE="2482 80 2659 85" 
+                    HPOS="2478"
+                    VPOS="25"
+                    WIDTH="180"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2481 77 2478 86 2554 109 2565 109 2582 109 2655 92 2658 83 2658 34 2481 25 2481 77"/></Shape>
+	    <String CONTENT="225"
+                    HPOS="2478"
+                    VPOS="25"
+                    WIDTH="180"
+                    HEIGHT="84"
+                    WC="1.0"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

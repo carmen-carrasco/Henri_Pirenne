@@ -44,21 +44,6 @@
                     HEIGHT="140"
                     WC="0.9707348411733454"></String>
           </TextLine>
-          <TextLine ID="eSc_line_4b9ce873"
-                    TAGREFS="LT41"
-                    BASELINE="2491 93 2591 104" 
-                    HPOS="2484"
-                    VPOS="11"
-                    WIDTH="109"
-                    HEIGHT="123">
-            <Shape><Polygon POINTS="2490 90 2484 131 2572 134 2581 134 2590 102 2593 23 2493 11 2490 90"/></Shape>
-	    <String CONTENT="91"
-                    HPOS="2484"
-                    VPOS="11"
-                    WIDTH="109"
-                    HEIGHT="123"
-                    WC="0.826970636844635"></String>
-          </TextLine>
           <TextLine ID="eSc_line_e0c2b721"
                     TAGREFS="LT41"
                     BASELINE="575 242 2596 265" 
@@ -171,7 +156,7 @@
                     VPOS="858"
                     WIDTH="2072"
                     HEIGHT="147">
-            <Shape><Polygon POINTS="570 920 567 943 2634 1005 2639 972 2639 934 2268 926 2233 899 2221 899 2180 920 2166 902 2154 902 2113 917 1961 899 1695 908 1645 891 1540 905 1505 882 1493 882 1447 902 1254 902 1137 870 1008 879 780 861 727 879 616 858 570 873 570 920"/></Shape>
+            <Shape><Polygon POINTS="567 943 2634 1005 2639 972 2639 934 2268 926 2233 899 2221 899 2180 920 2166 902 2154 902 2113 917 1961 899 1695 908 1645 891 1540 905 1505 882 1493 882 1447 902 1254 902 1137 870 1008 879 780 861 727 879 616 858 570 873 570 920"/></Shape>
 	    <String CONTENT="ceux de l&#x27;Etat. Mais ses métiers sentaient bien eux mê¬"
                     HPOS="567"
                     VPOS="858"
@@ -637,6 +622,21 @@
                    ID="eSc_textblock_513ac5a0"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2466 36 2475 141 2647 136 2647 43"/></Shape>
+          <TextLine ID="eSc_line_4b9ce873"
+                    TAGREFS="LT41"
+                    BASELINE="2491 93 2591 104" 
+                    HPOS="2484"
+                    VPOS="11"
+                    WIDTH="109"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="2490 90 2484 131 2572 134 2581 134 2590 102 2593 23 2493 11 2490 90"/></Shape>
+	    <String CONTENT="91"
+                    HPOS="2484"
+                    VPOS="11"
+                    WIDTH="109"
+                    HEIGHT="123"
+                    WC="0.826970636844635"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -570,20 +570,6 @@
                    ID="eSc_textblock_e38cf7c9"
                    TAGREFS="BT78">
           <Shape><Polygon POINTS="471 3229 487 3570 2713 3564 2713 3175"/></Shape>
-          <TextLine ID="eSc_line_5a620356"
-                    TAGREFS="LT41"
-                    BASELINE="544 3230 568 3230" 
-                    HPOS="542"
-                    VPOS="3221"
-                    WIDTH="23"
-                    HEIGHT="48">
-            <Shape><Polygon POINTS="542 3221 542 3227 542 3269 565 3269 565 3227 565 3221 542 3221"/></Shape>
-	    <String CONTENT=""
-                    HPOS="542"
-                    VPOS="3221"
-                    WIDTH="23"
-                    HEIGHT="48"></String>
-          </TextLine>
           <TextLine ID="eSc_line_80ff5abd"
                     TAGREFS="LT41"
                     BASELINE="557 3342 2479 3284 2479 3284 2696 3293" 

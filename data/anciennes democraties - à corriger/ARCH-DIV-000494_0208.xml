@@ -29,21 +29,6 @@
                    ID="84d24a05-2bcb-4f77-99b0-18beb7ca4316"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2474 155 2702 158 2702 3468 420 3468 420 10 2471 89"/></Shape>
-          <TextLine ID="eSc_line_b7695644"
-                    TAGREFS="LT41"
-                    BASELINE="2519 124 2632 112" 
-                    HPOS="2507"
-                    VPOS="31"
-                    WIDTH="122"
-                    HEIGHT="116">
-            <Shape><Polygon POINTS="2516 121 2516 147 2629 147 2629 109 2620 46 2562 31 2559 31 2556 31 2507 52 2516 121"/></Shape>
-	    <String CONTENT="20s"
-                    HPOS="2507"
-                    VPOS="31"
-                    WIDTH="122"
-                    HEIGHT="116"
-                    WC="0.9999073545138041"></String>
-          </TextLine>
           <TextLine ID="eSc_line_7b58724a"
                     TAGREFS="LT41"
                     BASELINE="537 167 1608 164 2550 190 2632 205" 
@@ -126,7 +111,7 @@
                     VPOS="569"
                     WIDTH="2080"
                     HEIGHT="127">
-            <Shape><Polygon POINTS="549 627 549 656 743 644 812 661 925 650 942 664 957 664 989 647 1261 650 1327 673 1596 664 1619 679 1880 684 1937 667 2146 690 2212 676 2261 696 2626 696 2629 661 2626 621 2137 598 1958 606 1937 589 1671 580 1584 598 1564 580 1477 592 1405 575 1272 589 1099 569 1044 586 940 572 549 575 549 627"/></Shape>
+            <Shape><Polygon POINTS="549 656 743 644 812 661 925 650 942 664 957 664 989 647 1261 650 1327 673 1596 664 1619 679 1880 684 1937 667 2146 690 2212 676 2261 696 2626 696 2629 661 2626 621 2137 598 1958 606 1937 589 1671 580 1584 598 1564 580 1477 592 1405 575 1272 589 1099 569 1044 586 940 572 549 575 549 627"/></Shape>
 	    <String CONTENT="&lt;.i dans bsquelles la règlementation urbaine"
                     HPOS="549"
                     VPOS="569"
@@ -547,6 +532,21 @@
                    ID="605dd57b-ca29-40c3-89f3-9f30c108b53e"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2642 29 2642 149 2482 149 2482 29"/></Shape>
+          <TextLine ID="eSc_line_b7695644"
+                    TAGREFS="LT41"
+                    BASELINE="2519 124 2632 112" 
+                    HPOS="2507"
+                    VPOS="31"
+                    WIDTH="122"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="2516 121 2516 147 2629 147 2629 109 2620 46 2562 31 2559 31 2556 31 2507 52 2516 121"/></Shape>
+	    <String CONTENT="20s"
+                    HPOS="2507"
+                    VPOS="31"
+                    WIDTH="122"
+                    HEIGHT="116"
+                    WC="0.9999073545138041"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

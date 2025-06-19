@@ -44,20 +44,6 @@
                     HEIGHT="110"
                     WC="0.9869801759719848"></String>
           </TextLine>
-          <TextLine ID="eSc_line_c0a9c442"
-                    BASELINE="2399 96 2536 95" 
-                    HPOS="2395"
-                    VPOS="20"
-                    WIDTH="138"
-                    HEIGHT="121">
-            <Shape><Polygon POINTS="2398 95 2398 141 2409 141 2530 127 2533 92 2525 20 2395 31 2398 95"/></Shape>
-	    <String CONTENT="1276"
-                    HPOS="2395"
-                    VPOS="20"
-                    WIDTH="138"
-                    HEIGHT="121"
-                    WC="0.9997567683458328"></String>
-          </TextLine>
           <TextLine ID="eSc_line_7cf701c4"
                     TAGREFS="LT41"
                     BASELINE="563 208 2559 190" 
@@ -313,6 +299,21 @@
                     HEIGHT="93"
                     WC="0.9875607625130685"></String>
           </TextLine>
+          <TextLine ID="eSc_line_71c2be49"
+                    TAGREFS="LT43"
+                    BASELINE="1022 1769 1442 1766" 
+                    HPOS="1017"
+                    VPOS="1730"
+                    WIDTH="424"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1019 1788 1219 1805 1222 1805 1438 1785 1441 1765 1433 1730 1017 1733 1019 1768"/></Shape>
+	    <String CONTENT="recpechevement."
+                    HPOS="1017"
+                    VPOS="1730"
+                    WIDTH="424"
+                    HEIGHT="75"
+                    WC="0.9859854221343994"></String>
+          </TextLine>
           <TextLine ID="eSc_line_0eeafead"
                     TAGREFS="LT41"
                     BASELINE="548 1808 2597 1825" 
@@ -327,21 +328,6 @@
                     WIDTH="2051"
                     HEIGHT="119"
                     WC="0.9949363985304105"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_71c2be49"
-                    TAGREFS="LT43"
-                    BASELINE="1022 1769 1442 1766" 
-                    HPOS="1017"
-                    VPOS="1730"
-                    WIDTH="424"
-                    HEIGHT="75">
-            <Shape><Polygon POINTS="1019 1768 1019 1788 1219 1805 1222 1805 1438 1785 1441 1765 1433 1730 1017 1733 1019 1768"/></Shape>
-	    <String CONTENT="recpechevement."
-                    HPOS="1017"
-                    VPOS="1730"
-                    WIDTH="424"
-                    HEIGHT="75"
-                    WC="0.9859854221343994"></String>
           </TextLine>
           <TextLine ID="eSc_line_1b85d457"
                     TAGREFS="LT41"
@@ -516,6 +502,20 @@
                    ID="eSc_textblock_3228b275"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2390 22 2390 145 2581 145 2581 22"/></Shape>
+          <TextLine ID="eSc_line_c0a9c442"
+                    BASELINE="2399 96 2536 95" 
+                    HPOS="2395"
+                    VPOS="20"
+                    WIDTH="138"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2398 95 2398 141 2409 141 2530 127 2533 92 2525 20 2395 31 2398 95"/></Shape>
+	    <String CONTENT="1276"
+                    HPOS="2395"
+                    VPOS="20"
+                    WIDTH="138"
+                    HEIGHT="121"
+                    WC="0.9997567683458328"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

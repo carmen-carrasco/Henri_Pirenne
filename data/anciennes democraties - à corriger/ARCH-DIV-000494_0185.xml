@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2713"
                   HEIGHT="3521">
-        <TextBlock HPOS="464.0"
-                   VPOS="978.0"
-                   WIDTH="2228.0"
-                   HEIGHT="2539.0"
+        <TextBlock HPOS="464"
+                   VPOS="185"
+                   WIDTH="2228"
+                   HEIGHT="3332"
                    ID="602b458b-ef8a-4cc3-94ec-b277c2a3198b"
                    TAGREFS="BT59">
-          <Shape><Polygon POINTS="976 988 2684 988 2692 3517 464 3517 479 978"/></Shape>
+          <Shape><Polygon POINTS="521 185 2677 292 2692 3517 464 3517 479 978"/></Shape>
           <TextLine ID="eSc_line_d3d5acea"
                     TAGREFS="LT40"
                     BASELINE="1089 425 1905 413" 
@@ -36,7 +36,7 @@
                     VPOS="272"
                     WIDTH="822"
                     HEIGHT="176">
-            <Shape><Polygon POINTS="1086 422 1086 448 1899 440 1902 410 1887 275 1861 299 1791 275 1788 275 1785 275 1782 275 1741 293 1694 278 1691 278 1688 278 1685 278 1603 325 1482 325 1359 325 1300 278 1294 272 1291 272 1288 272 1286 272 1080 278 1086 422"/></Shape>
+            <Shape><Polygon POINTS="1086 448 1899 440 1902 410 1887 275 1861 299 1791 275 1788 275 1785 275 1782 275 1741 293 1694 278 1691 278 1688 278 1685 278 1603 325 1482 325 1359 325 1300 278 1294 272 1291 272 1288 272 1286 272 1080 278 1086 422"/></Shape>
 	    <String CONTENT="Chapitre VIII)"
                     HPOS="1080"
                     VPOS="272"
@@ -591,14 +591,6 @@
                     HEIGHT="161"
                     WC="0.9998791515827179"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="568.0"
-                   VPOS="185.0"
-                   WIDTH="1932.0"
-                   HEIGHT="801.0"
-                   ID="eSc_textblock_3cef0b01"
-                   TAGREFS="BT57">
-          <Shape><Polygon POINTS="568 185 568 986 2495 986 2500 224"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

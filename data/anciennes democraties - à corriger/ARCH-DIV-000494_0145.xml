@@ -44,20 +44,6 @@
                     HEIGHT="107"
                     WC="0.984418587481722"></String>
           </TextLine>
-          <TextLine ID="eSc_line_4fe0afa1"
-                    BASELINE="2402 109 2530 112" 
-                    HPOS="2398"
-                    VPOS="37"
-                    WIDTH="130"
-                    HEIGHT="113">
-            <Shape><Polygon POINTS="2400 106 2398 150 2525 118 2528 109 2528 40 2400 37 2400 106"/></Shape>
-	    <String CONTENT="13)"
-                    HPOS="2398"
-                    VPOS="37"
-                    WIDTH="130"
-                    HEIGHT="113"
-                    WC="0.999979297320048"></String>
-          </TextLine>
           <TextLine ID="eSc_line_32e6ca12"
                     TAGREFS="LT41"
                     BASELINE="540 216 2608 202" 
@@ -88,21 +74,6 @@
                     HEIGHT="115"
                     WC="0.9656314485602908"></String>
           </TextLine>
-          <TextLine ID="eSc_line_a53651c8"
-                    TAGREFS="LT42"
-                    BASELINE="1502 329 1652 333" 
-                    HPOS="1496"
-                    VPOS="291"
-                    WIDTH="153"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="1499 326 1496 355 1643 358 1649 332 1646 297 1499 291 1499 326"/></Shape>
-	    <String CONTENT="rôles"
-                    HPOS="1496"
-                    VPOS="291"
-                    WIDTH="153"
-                    HEIGHT="67"
-                    WC="0.9971374154090882"></String>
-          </TextLine>
           <TextLine ID="eSc_line_001272a9"
                     TAGREFS="LT41"
                     BASELINE="531 398 1421 372 2588 372" 
@@ -117,6 +88,21 @@
                     WIDTH="2060"
                     HEIGHT="101"
                     WC="0.9763455958593459"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a53651c8"
+                    TAGREFS="LT42"
+                    BASELINE="1502 329 1652 333" 
+                    HPOS="1496"
+                    VPOS="291"
+                    WIDTH="153"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1499 326 1496 355 1643 358 1649 332 1646 297 1499 291 1499 326"/></Shape>
+	    <String CONTENT="rôles"
+                    HPOS="1496"
+                    VPOS="291"
+                    WIDTH="153"
+                    HEIGHT="67"
+                    WC="0.9971374154090882"></String>
           </TextLine>
           <TextLine ID="eSc_line_1a67d1f3"
                     TAGREFS="LT41"
@@ -200,7 +186,7 @@
                     VPOS="719"
                     WIDTH="211"
                     HEIGHT="75">
-            <Shape><Polygon POINTS="2019 762 2019 785 2227 794 2230 762 2227 719 2019 725 2019 762"/></Shape>
+            <Shape><Polygon POINTS="2019 785 2227 794 2230 762 2227 719 2019 725 2019 762"/></Shape>
 	    <String CONTENT="eurtont"
                     HPOS="2019"
                     VPOS="719"
@@ -343,6 +329,21 @@
                     HEIGHT="107"
                     WC="0.9981370928152552"></String>
           </TextLine>
+          <TextLine ID="eSc_line_8bb058e6"
+                    TAGREFS="LT41"
+                    BASELINE="546 1759 1490 1730 2606 1730" 
+                    HPOS="540"
+                    VPOS="1669"
+                    WIDTH="2063"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="2120 1672 1892 1693 1727 1678 1623 1695 1603 1681 1444 1681 1378 1693 1378 1698 1262 1698 1256 1687 1216 1684 1167 1701 1025 1687 979 1704 875 1690 869 1690 837 1704 540 1704 543 1788 837 1771 967 1782 991 1765 1167 1779 1225 1756 1516 1756 1620 1773 1690 1753 2013 1753 2036 1765 2051 1768 2175 1750 2244 1762 2282 1765 2372 1747 2597 1753 2603 1727 2597 1684 2398 1684 2377 1669 2366 1669 2322 1687 2291 1687 2120 1672"/></Shape>
+	    <String CONTENT="que au sociale de la &lt;...&gt; de Liège. Dans cette ville où aucune"
+                    HPOS="540"
+                    VPOS="1669"
+                    WIDTH="2063"
+                    HEIGHT="119"
+                    WC="0.9740144184657505"></String>
+          </TextLine>
           <TextLine ID="eSc_line_736c29ed"
                     TAGREFS="LT42"
                     BASELINE="1250 1698 1397 1701" 
@@ -372,21 +373,6 @@
                     WIDTH="488"
                     HEIGHT="78"
                     WC="0.9998259970120021"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_8bb058e6"
-                    TAGREFS="LT41"
-                    BASELINE="546 1759 1490 1730 2606 1730" 
-                    HPOS="540"
-                    VPOS="1669"
-                    WIDTH="2063"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="2120 1672 1892 1693 1727 1678 1623 1695 1603 1681 1444 1681 1378 1693 1378 1698 1262 1698 1256 1687 1216 1684 1167 1701 1025 1687 979 1704 875 1690 869 1690 837 1704 540 1704 543 1788 837 1771 967 1782 991 1765 1167 1779 1225 1756 1516 1756 1620 1773 1690 1753 2013 1753 2036 1765 2051 1768 2175 1750 2244 1762 2282 1765 2372 1747 2597 1753 2603 1727 2597 1684 2398 1684 2377 1669 2366 1669 2322 1687 2291 1687 2120 1672"/></Shape>
-	    <String CONTENT="que au sociale de la &lt;...&gt; de Liège. Dans cette ville où aucune"
-                    HPOS="540"
-                    VPOS="1669"
-                    WIDTH="2063"
-                    HEIGHT="119"
-                    WC="0.9740144184657505"></String>
           </TextLine>
           <TextLine ID="eSc_line_08f9387d"
                     TAGREFS="LT42"
@@ -726,6 +712,20 @@
                    ID="4a1a9c07-174f-41ac-87a5-1166aff8ab3a"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2561 38 2561 153 2353 153 2353 38"/></Shape>
+          <TextLine ID="eSc_line_4fe0afa1"
+                    BASELINE="2402 109 2530 112" 
+                    HPOS="2398"
+                    VPOS="37"
+                    WIDTH="130"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2400 106 2398 150 2525 118 2528 109 2528 40 2400 37 2400 106"/></Shape>
+	    <String CONTENT="13)"
+                    HPOS="2398"
+                    VPOS="37"
+                    WIDTH="130"
+                    HEIGHT="113"
+                    WC="0.999979297320048"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

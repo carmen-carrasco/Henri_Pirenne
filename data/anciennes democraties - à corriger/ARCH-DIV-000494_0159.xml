@@ -29,20 +29,6 @@
                    ID="e00c2ce4-e6dc-437e-9a03-8d541fd0cb1f"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2389 140 2668 141 2668 3479 484 3479 484 33 2380 33"/></Shape>
-          <TextLine ID="eSc_line_e6c63e94"
-                    TAGREFS="LT41"
-                    BASELINE="2461 78 2499 78" 
-                    HPOS="2458"
-                    VPOS="8"
-                    WIDTH="38"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="2458 75 2458 87 2493 93 2496 75 2496 11 2458 8 2458 75"/></Shape>
-	    <String CONTENT=""
-                    HPOS="2458"
-                    VPOS="8"
-                    WIDTH="38"
-                    HEIGHT="85"></String>
-          </TextLine>
           <TextLine ID="eSc_line_47c346df"
                     TAGREFS="LT41"
                     BASELINE="624 157 966 143 1769 140 2602 160" 
@@ -80,7 +66,7 @@
                     VPOS="271"
                     WIDTH="2059"
                     HEIGHT="102">
-            <Shape><Polygon POINTS="531 347 531 373 1089 356 1255 373 1273 373 1276 373 1299 373 1509 356 1711 370 1717 370 1720 370 1723 370 1766 353 2581 367 2587 326 2578 288 1895 288 1804 271 1801 271 1725 288 1705 271 1702 271 1699 271 1696 271 1585 291 1433 274 1430 274 1428 274 1369 291 1229 277 1226 277 1223 277 1182 291 1098 274 1095 274 884 277 881 277 879 277 855 297 633 297 595 277 592 277 589 277 586 277 528 294 531 347"/></Shape>
+            <Shape><Polygon POINTS="531 373 1089 356 1255 373 1273 373 1276 373 1299 373 1509 356 1711 370 1717 370 1720 370 1723 370 1766 353 2581 367 2587 326 2578 288 1895 288 1804 271 1801 271 1725 288 1705 271 1702 271 1699 271 1696 271 1585 291 1433 274 1430 274 1428 274 1369 291 1229 277 1226 277 1223 277 1182 291 1098 274 1095 274 884 277 881 277 879 277 855 297 633 297 595 277 592 277 589 277 586 277 528 294 531 347"/></Shape>
 	    <String CONTENT="doutes. Parhont, en effet, où les tisserands s’emparent"
                     HPOS="528"
                     VPOS="271"
@@ -576,6 +562,20 @@
                    ID="eSc_textblock_11a0a055"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2414 28 2414 133 2523 133 2588 133 2588 28"/></Shape>
+          <TextLine ID="eSc_line_e6c63e94"
+                    TAGREFS="LT41"
+                    BASELINE="2461 78 2499 78" 
+                    HPOS="2458"
+                    VPOS="8"
+                    WIDTH="38"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2458 75 2458 87 2493 93 2496 75 2496 11 2458 8 2458 75"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2458"
+                    VPOS="8"
+                    WIDTH="38"
+                    HEIGHT="85"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -44,21 +44,6 @@
                     HEIGHT="111"
                     WC="0.9919759803093396"></String>
           </TextLine>
-          <TextLine ID="eSc_line_0fa1b452"
-                    TAGREFS="LT41"
-                    BASELINE="2460 54 2563 57" 
-                    HPOS="2455"
-                    VPOS="2"
-                    WIDTH="106"
-                    HEIGHT="89">
-            <Shape><Polygon POINTS="2541 2 2512 2 2484 2 2458 2 2458 51 2455 88 2484 88 2512 91 2541 91 2558 91 2561 54 2558 2 2541 2"/></Shape>
-	    <String CONTENT="473"
-                    HPOS="2455"
-                    VPOS="2"
-                    WIDTH="106"
-                    HEIGHT="89"
-                    WC="0.9991806546847025"></String>
-          </TextLine>
           <TextLine ID="eSc_line_ec6b3c27"
                     TAGREFS="LT41"
                     BASELINE="554 234 2072 217 2590 225" 
@@ -141,7 +126,7 @@
                     VPOS="622"
                     WIDTH="2029"
                     HEIGHT="109">
-            <Shape><Polygon POINTS="566 697 566 731 2590 711 2592 679 2584 622 2472 645 2189 637 2186 637 2118 651 1981 631 1975 631 1972 631 1969 631 1898 654 1769 637 1766 637 1663 657 1606 642 1603 642 1600 642 1598 642 1555 657 1457 642 1455 642 1452 642 1449 642 1426 662 1220 662 1183 642 1180 642 1177 642 1174 642 1166 642 1080 662 946 645 926 645 923 645 897 648 757 665 723 651 717 648 714 648 711 648 563 651 566 697"/></Shape>
+            <Shape><Polygon POINTS="566 731 2590 711 2592 679 2584 622 2472 645 2189 637 2186 637 2118 651 1981 631 1975 631 1972 631 1969 631 1898 654 1769 637 1766 637 1663 657 1606 642 1603 642 1600 642 1598 642 1555 657 1457 642 1455 642 1452 642 1449 642 1426 662 1220 662 1183 642 1180 642 1177 642 1174 642 1166 642 1080 662 946 645 926 645 923 645 897 648 757 665 723 651 717 648 714 648 711 648 563 651 566 697"/></Shape>
 	    <String CONTENT="tablir l&#x27;ordre. Le chi de sehild en vriendt repentit par les"
                     HPOS="563"
                     VPOS="622"
@@ -194,21 +179,6 @@
                     HEIGHT="103"
                     WC="0.9743079011504715"></String>
           </TextLine>
-          <TextLine ID="eSc_line_7ccbe66b"
-                    TAGREFS="LT41"
-                    BASELINE="631 1074 2584 1065" 
-                    HPOS="626"
-                    VPOS="1019"
-                    WIDTH="1955"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1540 1031 1512 1031 1483 1031 1455 1031 1426 1031 1397 1031 1369 1031 1340 1031 1335 1019 626 1019 628 1071 628 1099 2578 1099 2581 1062 2575 1019 1543 1019 1540 1031"/></Shape>
-	    <String CONTENT="Ce coup d&#x27;audace&gt; les historieus modernes &lt;....&gt;"
-                    HPOS="626"
-                    VPOS="1019"
-                    WIDTH="1955"
-                    HEIGHT="80"
-                    WC="0.9689274864892164"></String>
-          </TextLine>
           <TextLine ID="eSc_line_963de2fb"
                     TAGREFS="LT42"
                     BASELINE="1318 1034 1544 1031" 
@@ -223,6 +193,21 @@
                     WIDTH="228"
                     HEIGHT="80"
                     WC="0.9999670584996542"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7ccbe66b"
+                    TAGREFS="LT41"
+                    BASELINE="631 1074 2584 1065" 
+                    HPOS="626"
+                    VPOS="1019"
+                    WIDTH="1955"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1540 1031 1512 1031 1483 1031 1455 1031 1426 1031 1397 1031 1369 1031 1340 1031 1335 1019 626 1019 628 1071 628 1099 2578 1099 2581 1062 2575 1019 1543 1019 1540 1031"/></Shape>
+	    <String CONTENT="Ce coup d&#x27;audace&gt; les historieus modernes &lt;....&gt;"
+                    HPOS="626"
+                    VPOS="1019"
+                    WIDTH="1955"
+                    HEIGHT="80"
+                    WC="0.9689274864892164"></String>
           </TextLine>
           <TextLine ID="eSc_line_4e62d5ac"
                     TAGREFS="LT41"
@@ -592,6 +577,21 @@
                    ID="ea514408-7a0f-439c-8ad2-290ad6ee5efe"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2576 12 2576 92 2437 92 2437 12"/></Shape>
+          <TextLine ID="eSc_line_0fa1b452"
+                    TAGREFS="LT41"
+                    BASELINE="2460 54 2563 57" 
+                    HPOS="2455"
+                    VPOS="2"
+                    WIDTH="106"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2541 2 2512 2 2484 2 2458 2 2458 51 2455 88 2484 88 2512 91 2541 91 2558 91 2561 54 2558 2 2541 2"/></Shape>
+	    <String CONTENT="473"
+                    HPOS="2455"
+                    VPOS="2"
+                    WIDTH="106"
+                    HEIGHT="89"
+                    WC="0.9991806546847025"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -29,21 +29,6 @@
                    ID="bae09f07-e654-4d29-877a-39eea44e6f20"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2531 115 2713 124 2713 3484 487 3484 487 31 2528 69"/></Shape>
-          <TextLine ID="eSc_line_6560f484"
-                    TAGREFS="LT41"
-                    BASELINE="2555 78 2646 67" 
-                    HPOS="2546"
-                    VPOS="17"
-                    WIDTH="99"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="2637 17 2546 17 2552 75 2555 107 2645 84 2645 64 2637 17"/></Shape>
-	    <String CONTENT="111"
-                    HPOS="2546"
-                    VPOS="17"
-                    WIDTH="99"
-                    HEIGHT="90"
-                    WC="0.9999405741691589"></String>
-          </TextLine>
           <TextLine ID="eSc_line_61722a8a"
                     TAGREFS="LT41"
                     BASELINE="617 154 2654 142" 
@@ -66,7 +51,7 @@
                     VPOS="192"
                     WIDTH="2125"
                     HEIGHT="81">
-            <Shape><Polygon POINTS="553 238 553 273 2675 268 2678 238 2672 192 553 198 553 238"/></Shape>
+            <Shape><Polygon POINTS="553 273 2675 268 2678 238 2672 192 553 198 553 238"/></Shape>
 	    <String CONTENT="ment de l&#x27;évolection économique, les motifs qui ont"
                     HPOS="553"
                     VPOS="192"
@@ -637,6 +622,21 @@
                    ID="b4223641-fae4-4e42-a831-4618df900447"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2690 20 2700 68 2683 87 2684 95 2686 115 2542 116 2533 35 2531 11 2663 19"/></Shape>
+          <TextLine ID="eSc_line_6560f484"
+                    TAGREFS="LT41"
+                    BASELINE="2555 78 2646 67" 
+                    HPOS="2546"
+                    VPOS="17"
+                    WIDTH="99"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2637 17 2546 17 2552 75 2555 107 2645 84 2645 64 2637 17"/></Shape>
+	    <String CONTENT="111"
+                    HPOS="2546"
+                    VPOS="17"
+                    WIDTH="99"
+                    HEIGHT="90"
+                    WC="0.9999405741691589"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

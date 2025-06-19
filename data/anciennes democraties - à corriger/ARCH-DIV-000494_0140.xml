@@ -44,21 +44,6 @@
                     HEIGHT="132"
                     WC="0.9767347250295721"></String>
           </TextLine>
-          <TextLine ID="eSc_line_c70a555c"
-                    TAGREFS="LT41"
-                    BASELINE="2440 78 2599 78" 
-                    HPOS="2437"
-                    VPOS="17"
-                    WIDTH="161"
-                    HEIGHT="97">
-            <Shape><Polygon POINTS="2437 76 2437 114 2598 108 2598 76 2598 29 2437 17 2437 76"/></Shape>
-	    <String CONTENT="132"
-                    HPOS="2437"
-                    VPOS="17"
-                    WIDTH="161"
-                    HEIGHT="97"
-                    WC="0.9999657471974691"></String>
-          </TextLine>
           <TextLine ID="eSc_line_8014e961"
                     TAGREFS="LT41"
                     BASELINE="608 222 1044 207 2660 231" 
@@ -126,7 +111,7 @@
                     VPOS="535"
                     WIDTH="2061"
                     HEIGHT="105">
-            <Shape><Polygon POINTS="602 596 599 611 699 631 702 631 705 631 760 614 763 614 796 614 1100 631 1103 631 1106 631 1109 631 1126 617 1132 617 1422 617 1451 623 1501 631 1504 631 1761 626 2019 620 2045 629 2077 640 2080 640 2083 640 2657 634 2660 608 2660 564 2133 564 2124 561 2034 541 2031 541 1928 558 1794 541 1791 541 1346 555 1290 538 1287 538 1284 538 939 555 918 555 898 538 898 535 895 535 892 535 889 535 602 552 602 596"/></Shape>
+            <Shape><Polygon POINTS="599 611 699 631 702 631 705 631 760 614 763 614 796 614 1100 631 1103 631 1106 631 1109 631 1126 617 1132 617 1422 617 1451 623 1501 631 1504 631 1761 626 2019 620 2045 629 2077 640 2080 640 2083 640 2657 634 2660 608 2660 564 2133 564 2124 561 2034 541 2031 541 1928 558 1794 541 1791 541 1346 555 1290 538 1287 538 1284 538 939 555 918 555 898 538 898 535 895 535 892 535 889 535 602 552 602 596"/></Shape>
 	    <String CONTENT="née suivante les auriers batteurs de Dinant prevaient"
                     HPOS="599"
                     VPOS="535"
@@ -329,21 +314,6 @@
                     HEIGHT="108"
                     WC="0.9870299601129123"></String>
           </TextLine>
-          <TextLine ID="eSc_line_0f29490d"
-                    TAGREFS="LT41"
-                    BASELINE="614 1992 2610 1992" 
-                    HPOS="611"
-                    VPOS="1931"
-                    WIDTH="1996"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="2426 1939 2347 1939 2335 1951 2206 1951 2156 1931 1972 1931 1925 1948 1861 1931 1767 1931 1747 1948 1703 1931 1638 1945 1548 1931 1501 1948 1235 1931 1018 1948 611 1942 611 2015 772 2015 793 2033 801 2033 936 2015 980 2012 1132 2033 1135 2036 1196 2036 1196 2033 1202 2033 1217 2018 1229 2012 1723 2012 1802 2033 1805 2036 1931 2036 1931 2033 1952 2027 1981 2012 2031 2033 2206 2018 2604 2030 2607 1951 2426 1939"/></Shape>
-	    <String CONTENT="dans un état permanent d&#x27;agitation. A Huy, les"
-                    HPOS="611"
-                    VPOS="1931"
-                    WIDTH="1996"
-                    HEIGHT="105"
-                    WC="0.9998177147429922"></String>
-          </TextLine>
           <TextLine ID="eSc_line_07c05bf8"
                     TAGREFS="LT43"
                     BASELINE="2274 1942 2663 1936" 
@@ -358,6 +328,21 @@
                     WIDTH="392"
                     HEIGHT="74"
                     WC="0.996913243085146"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f29490d"
+                    TAGREFS="LT41"
+                    BASELINE="614 1992 2610 1992" 
+                    HPOS="611"
+                    VPOS="1931"
+                    WIDTH="1996"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2426 1939 2347 1939 2335 1951 2206 1951 2156 1931 1972 1931 1925 1948 1861 1931 1767 1931 1747 1948 1703 1931 1638 1945 1548 1931 1501 1948 1235 1931 1018 1948 611 1942 611 2015 772 2015 793 2033 801 2033 936 2015 980 2012 1132 2033 1135 2036 1196 2036 1196 2033 1202 2033 1217 2018 1229 2012 1723 2012 1802 2033 1805 2036 1931 2036 1931 2033 1952 2027 1981 2012 2031 2033 2206 2018 2604 2030 2607 1951 2426 1939"/></Shape>
+	    <String CONTENT="dans un état permanent d&#x27;agitation. A Huy, les"
+                    HPOS="611"
+                    VPOS="1931"
+                    WIDTH="1996"
+                    HEIGHT="105"
+                    WC="0.9998177147429922"></String>
           </TextLine>
           <TextLine ID="eSc_line_ec882359"
                     TAGREFS="LT41"
@@ -539,6 +524,37 @@
                     HEIGHT="123"
                     WC="0.9827073415120443"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2404.0"
+                   VPOS="22.0"
+                   WIDTH="202.0"
+                   HEIGHT="89.0"
+                   ID="72cbe8dc-28e6-4350-8007-490616e7e95e"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2606 22 2606 111 2404 111 2404 22"/></Shape>
+          <TextLine ID="eSc_line_c70a555c"
+                    TAGREFS="LT41"
+                    BASELINE="2440 78 2599 78" 
+                    HPOS="2437"
+                    VPOS="17"
+                    WIDTH="161"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2437 76 2437 114 2598 108 2598 76 2598 29 2437 17 2437 76"/></Shape>
+	    <String CONTENT="132"
+                    HPOS="2437"
+                    VPOS="17"
+                    WIDTH="161"
+                    HEIGHT="97"
+                    WC="0.9999657471974691"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="542.0"
+                   VPOS="3290.0"
+                   WIDTH="1085.0"
+                   HEIGHT="190.0"
+                   ID="eSc_textblock_4d3b6ea1"
+                   TAGREFS="BT78">
+          <Shape><Polygon POINTS="542 3290 542 3480 1627 3480 1627 3290"/></Shape>
           <TextLine ID="eSc_line_28131ff2"
                     TAGREFS="LT41"
                     BASELINE="617 3393 1423 3378 1482 3381" 
@@ -554,22 +570,6 @@
                     HEIGHT="155"
                     WC="0.9763690049831684"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2404.0"
-                   VPOS="22.0"
-                   WIDTH="202.0"
-                   HEIGHT="89.0"
-                   ID="72cbe8dc-28e6-4350-8007-490616e7e95e"
-                   TAGREFS="BT60">
-          <Shape><Polygon POINTS="2606 22 2606 111 2404 111 2404 22"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="542.0"
-                   VPOS="3290.0"
-                   WIDTH="1085.0"
-                   HEIGHT="190.0"
-                   ID="eSc_textblock_4d3b6ea1"
-                   TAGREFS="BT78">
-          <Shape><Polygon POINTS="542 3290 542 3480 1627 3480 1627 3290"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

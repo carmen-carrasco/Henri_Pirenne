@@ -29,36 +29,6 @@
                    ID="48c94c77-8a74-4fe3-b5bc-f020408dcaac"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2512 129 2708 114 2708 3517 450 3517 450 22 2477 20"/></Shape>
-          <TextLine ID="eSc_line_08522e15"
-                    TAGREFS="LT42"
-                    BASELINE="992 85 1482 73 1899 82 1900 82 2092 101 2093 101 2225 146 2226 146 2522 146 2648 134" 
-                    HPOS="989"
-                    VPOS="20"
-                    WIDTH="1656"
-                    HEIGHT="138">
-            <Shape><Polygon POINTS="2592 120 2536 126 2507 126 2492 79 2290 79 2263 58 2131 76 2096 49 1870 23 1388 35 1341 20 1259 38 1174 20 1148 20 1115 44 989 44 989 129 1109 96 1177 111 1288 102 1315 120 1491 99 1697 99 1732 123 1744 123 1791 102 1978 123 2037 105 2155 155 2639 158 2645 132 2610 120 2592 120"/></Shape>
-	    <String CONTENT="que l&#x27;on avait cherché a réaliser, mois les tisserands"
-                    HPOS="989"
-                    VPOS="20"
-                    WIDTH="1656"
-                    HEIGHT="138"
-                    WC="0.9786789682176378"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_aa415b0c"
-                    TAGREFS="LT41"
-                    BASELINE="2530 65 2654 78" 
-                    HPOS="2522"
-                    VPOS="11"
-                    WIDTH="129"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="2528 64 2522 105 2586 114 2604 114 2645 96 2651 76 2651 11 2528 11 2528 64"/></Shape>
-	    <String CONTENT="171"
-                    HPOS="2522"
-                    VPOS="11"
-                    WIDTH="129"
-                    HEIGHT="103"
-                    WC="0.9999946355819702"></String>
-          </TextLine>
           <TextLine ID="eSc_line_a3d7b7d8"
                     TAGREFS="LT41"
                     BASELINE="481 149 1456 149 2072 132 2080 132" 
@@ -73,6 +43,21 @@
                     WIDTH="1603"
                     HEIGHT="94"
                     WC="0.954574171573885"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_08522e15"
+                    TAGREFS="LT42"
+                    BASELINE="992 85 1482 73 1899 82 1900 82 2092 101 2093 101 2225 146 2226 146 2522 146 2648 134" 
+                    HPOS="989"
+                    VPOS="20"
+                    WIDTH="1656"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="2536 126 2507 126 2492 79 2290 79 2263 58 2131 76 2096 49 1870 23 1388 35 1341 20 1259 38 1174 20 1148 20 1115 44 989 44 989 129 1109 96 1177 111 1288 102 1315 120 1491 99 1697 99 1732 123 1744 123 1791 102 1978 123 2037 105 2155 155 2639 158 2645 132 2610 120 2592 120"/></Shape>
+	    <String CONTENT="que l&#x27;on avait cherché a réaliser, mois les tisserands"
+                    HPOS="989"
+                    VPOS="20"
+                    WIDTH="1656"
+                    HEIGHT="138"
+                    WC="0.9786789682176378"></String>
           </TextLine>
           <TextLine ID="eSc_line_fc245ef1"
                     TAGREFS="LT41"
@@ -622,6 +607,21 @@
                    ID="eSc_textblock_73acdd97"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2526 10 2535 124 2681 111 2681 10"/></Shape>
+          <TextLine ID="eSc_line_aa415b0c"
+                    TAGREFS="LT41"
+                    BASELINE="2530 65 2654 78" 
+                    HPOS="2522"
+                    VPOS="11"
+                    WIDTH="129"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="2528 64 2522 105 2586 114 2604 114 2645 96 2651 76 2651 11 2528 11 2528 64"/></Shape>
+	    <String CONTENT="171"
+                    HPOS="2522"
+                    VPOS="11"
+                    WIDTH="129"
+                    HEIGHT="103"
+                    WC="0.9999946355819702"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

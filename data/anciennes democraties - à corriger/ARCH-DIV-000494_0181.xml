@@ -36,28 +36,13 @@
                     VPOS="34"
                     WIDTH="2158"
                     HEIGHT="140">
-            <Shape><Polygon POINTS="2628 107 2483 107 2451 81 2410 55 2398 55 2337 90 2215 90 2183 66 2044 84 2012 55 1817 75 1756 49 1747 49 1689 66 1657 46 1642 46 1622 61 1482 43 1296 43 1259 75 982 72 907 37 799 52 758 34 668 34 625 66 558 52 479 63 479 151 1712 151 2631 174 2637 142 2634 107 2628 107"/></Shape>
+            <Shape><Polygon POINTS="2483 107 2451 81 2410 55 2398 55 2337 90 2215 90 2183 66 2044 84 2012 55 1817 75 1756 49 1747 49 1689 66 1657 46 1642 46 1622 61 1482 43 1296 43 1259 75 982 72 907 37 799 52 758 34 668 34 625 66 558 52 479 63 479 151 1712 151 2631 174 2637 142 2634 107 2628 107"/></Shape>
 	    <String CONTENT="au lendemain de la bataille de Courtrai, le com¬"
                     HPOS="479"
                     VPOS="34"
                     WIDTH="2158"
                     HEIGHT="140"
                     WC="0.9931230532626311"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_04b6a31d"
-                    TAGREFS="LT41"
-                    BASELINE="2483 69 2625 69" 
-                    HPOS="2480"
-                    VPOS="23"
-                    WIDTH="142"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="2480 66 2483 95 2523 81 2619 95 2622 66 2622 23 2480 23 2480 66"/></Shape>
-	    <String CONTENT="143"
-                    HPOS="2480"
-                    VPOS="23"
-                    WIDTH="142"
-                    HEIGHT="72"
-                    WC="0.9999898672103882"></String>
           </TextLine>
           <TextLine ID="eSc_line_b5cae165"
                     TAGREFS="LT41"
@@ -592,6 +577,21 @@
                    ID="eSc_textblock_26972653"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2469 13 2469 99 2678 99 2678 13"/></Shape>
+          <TextLine ID="eSc_line_04b6a31d"
+                    TAGREFS="LT41"
+                    BASELINE="2483 69 2625 69" 
+                    HPOS="2480"
+                    VPOS="23"
+                    WIDTH="142"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2480 66 2483 95 2523 81 2619 95 2622 66 2622 23 2480 23 2480 66"/></Shape>
+	    <String CONTENT="143"
+                    HPOS="2480"
+                    VPOS="23"
+                    WIDTH="142"
+                    HEIGHT="72"
+                    WC="0.9999898672103882"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -29,21 +29,6 @@
                    ID="32afd27b-74d0-4b8d-a085-877dec5fecb1"
                    TAGREFS="BT59">
           <Shape><Polygon POINTS="2460 119 2709 115 2709 3459 451 3459 451 58 2453 58"/></Shape>
-          <TextLine ID="eSc_line_8222d04f"
-                    TAGREFS="LT41"
-                    BASELINE="2473 81 2623 68" 
-                    HPOS="2466"
-                    VPOS="11"
-                    WIDTH="154"
-                    HEIGHT="101">
-            <Shape><Polygon POINTS="2472 80 2475 112 2504 112 2507 112 2620 95 2620 66 2611 11 2466 28 2472 80"/></Shape>
-	    <String CONTENT="231"
-                    HPOS="2466"
-                    VPOS="11"
-                    WIDTH="154"
-                    HEIGHT="101"
-                    WC="0.9999831120173136"></String>
-          </TextLine>
           <TextLine ID="eSc_line_bb892897"
                     TAGREFS="LT41"
                     BASELINE="576 170 969 156 2663 141" 
@@ -186,7 +171,7 @@
                     VPOS="992"
                     WIDTH="2174"
                     HEIGHT="92">
-            <Shape><Polygon POINTS="492 1041 492 1067 619 1061 657 1084 778 1061 964 1078 1010 1061 1077 1084 1311 1061 1369 1081 1453 1064 1604 1078 1737 1058 1913 1081 1971 1055 2044 1081 2131 1081 2131 1078 2183 1055 2414 1058 2452 1078 2663 1070 2663 1032 2657 992 489 992 492 1041"/></Shape>
+            <Shape><Polygon POINTS="492 1067 619 1061 657 1084 778 1061 964 1078 1010 1061 1077 1084 1311 1061 1369 1081 1453 1064 1604 1078 1737 1058 1913 1081 1971 1055 2044 1081 2131 1081 2131 1078 2183 1055 2414 1058 2452 1078 2663 1070 2663 1032 2657 992 489 992 492 1041"/></Shape>
 	    <String CONTENT="n a point à défendre comme Brnges en Gand une posi¬"
                     HPOS="489"
                     VPOS="992"
@@ -562,6 +547,21 @@
                    ID="eSc_textblock_549bef91"
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2454 32 2463 115 2650 118 2659 20"/></Shape>
+          <TextLine ID="eSc_line_8222d04f"
+                    TAGREFS="LT41"
+                    BASELINE="2473 81 2623 68" 
+                    HPOS="2466"
+                    VPOS="11"
+                    WIDTH="154"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="2472 80 2475 112 2504 112 2507 112 2620 95 2620 66 2611 11 2466 28 2472 80"/></Shape>
+	    <String CONTENT="231"
+                    HPOS="2466"
+                    VPOS="11"
+                    WIDTH="154"
+                    HEIGHT="101"
+                    WC="0.9999831120173136"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
