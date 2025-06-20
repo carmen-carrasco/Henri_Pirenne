@@ -564,17 +564,17 @@
           <Shape><Polygon POINTS="2414 28 2414 133 2523 133 2588 133 2588 28"/></Shape>
           <TextLine ID="eSc_line_e6c63e94"
                     TAGREFS="LT41"
-                    BASELINE="2461 78 2499 78" 
-                    HPOS="2458"
+                    BASELINE="2395 124 2597 127" 
+                    HPOS="2421"
                     VPOS="8"
-                    WIDTH="38"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="2458 75 2458 87 2493 93 2496 75 2496 11 2458 8 2458 75"/></Shape>
-	    <String CONTENT=""
-                    HPOS="2458"
+                    WIDTH="154"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="2430 110 2508 128 2575 96 2496 11 2458 8 2421 66"/></Shape>
+	    <String CONTENT="151"
+                    HPOS="2421"
                     VPOS="8"
-                    WIDTH="38"
-                    HEIGHT="85"></String>
+                    WIDTH="154"
+                    HEIGHT="120"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

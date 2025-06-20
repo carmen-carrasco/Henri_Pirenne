@@ -270,12 +270,13 @@
                     WC="0.9693963706493378"></String>
           </TextLine>
           <TextLine ID="eSc_line_cd5425d9"
+                    TAGREFS="LT41"
                     BASELINE="2007 1328 2010 1328 2619 1316" 
                     HPOS="2001"
                     VPOS="1275"
                     WIDTH="615"
                     HEIGHT="94">
-            <Shape><Polygon POINTS="2004 1325 2004 1369 2376 1351 2414 1351 2575 1360 2578 1360 2581 1360 2616 1342 2616 1313 2607 1275 2001 1284 2004 1325"/></Shape>
+            <Shape><Polygon POINTS="2004 1369 2376 1351 2414 1351 2575 1360 2578 1360 2581 1360 2616 1342 2616 1313 2607 1275 2001 1284 2004 1325"/></Shape>
 	    <String CONTENT="point q&#x27;en venant"
                     HPOS="2001"
                     VPOS="1275"
@@ -643,7 +644,7 @@
                     VPOS="8"
                     WIDTH="88"
                     HEIGHT="85">
-            <Shape><Polygon POINTS="2502 67 2502 93 2581 93 2581 58 2572 8 2493 8 2502 67"/></Shape>
+            <Shape><Polygon POINTS="2502 93 2581 93 2581 58 2572 8 2493 8 2502 67"/></Shape>
 	    <String CONTENT="181"
                     HPOS="2493"
                     VPOS="8"

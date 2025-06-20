@@ -375,12 +375,13 @@
                     WC="0.9883160494094672"></String>
           </TextLine>
           <TextLine ID="eSc_line_6e93c7e6"
+                    TAGREFS="LT40"
                     BASELINE="1316 2505 1493 2498" 
                     HPOS="1312"
                     VPOS="2451"
                     WIDTH="180"
                     HEIGHT="69">
-            <Shape><Polygon POINTS="1314 2503 1314 2520 1489 2509 1492 2497 1487 2454 1312 2451 1314 2503"/></Shape>
+            <Shape><Polygon POINTS="1314 2520 1489 2509 1492 2497 1487 2454 1312 2451 1314 2503"/></Shape>
 	    <String CONTENT="II"
                     HPOS="1312"
                     VPOS="2451"
@@ -582,7 +583,7 @@
                     VPOS="28"
                     WIDTH="94"
                     HEIGHT="101">
-            <Shape><Polygon POINTS="2512 86 2509 126 2537 126 2566 129 2595 129 2598 129 2603 91 2603 28 2512 28 2512 86"/></Shape>
+            <Shape><Polygon POINTS="2509 126 2537 126 2566 129 2595 129 2598 129 2603 91 2603 28 2512 28 2512 86"/></Shape>
 	    <String CONTENT="12"
                     HPOS="2509"
                     VPOS="28"

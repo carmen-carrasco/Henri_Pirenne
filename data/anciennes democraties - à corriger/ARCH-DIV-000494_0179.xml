@@ -608,12 +608,13 @@
                    TAGREFS="BT60">
           <Shape><Polygon POINTS="2597 37 2597 138 2487 138 2487 37"/></Shape>
           <TextLine ID="eSc_line_574ed357"
+                    TAGREFS="LT41"
                     BASELINE="2490 102 2590 101" 
                     HPOS="2483"
                     VPOS="26"
                     WIDTH="104"
                     HEIGHT="116">
-            <Shape><Polygon POINTS="2489 101 2489 139 2585 142 2587 98 2582 40 2521 26 2518 26 2515 26 2483 37 2489 101"/></Shape>
+            <Shape><Polygon POINTS="2489 139 2585 142 2587 98 2582 40 2521 26 2518 26 2515 26 2483 37 2489 101"/></Shape>
 	    <String CONTENT="171"
                     HPOS="2483"
                     VPOS="26"
