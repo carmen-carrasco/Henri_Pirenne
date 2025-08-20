@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>lesanciennesdmo00piregoog.pdf_page_54.png</fileName>
+      <fileIdentifier>pdf//lesanciennesdmo00piregoog.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT63" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT64" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT65" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT66" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT67" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT69" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT70" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT71" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT72" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT73" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT74" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT75" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/><OtherTag ID="BT76" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT79" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT80" LABEL="MarginTextZone:lower" DESCRIPTION="block type MarginTextZone:lower"/>
+    <OtherTag ID="LT45" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT46" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT47" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1279"
+          HEIGHT="2062"
+          PHYSICAL_IMG_NR="53"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1279"
+                  HEIGHT="2062">
+        <TextBlock HPOS="218.0"
+                   VPOS="252.0"
+                   WIDTH="932.0"
+                   HEIGHT="1483.0"
+                   ID="4d694060-a1cd-42b8-bf88-a3e282c998dc"
+                   TAGREFS="BT74">
+          <Shape><Polygon POINTS="218 252 1150 252 1150 1735 218 1735 218 252"/></Shape>
+          <TextLine ID="eSc_line_19ca32fa"
+                    TAGREFS="LT45"
+                    BASELINE="225 295 1129 292" 
+                    HPOS="223"
+                    VPOS="254"
+                    WIDTH="906"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="225 295 225 307 1127 305 1129 292 1127 264 1091 254 1089 254 1088 254 1040 262 878 254 876 254 875 254 873 254 873 256 864 264 792 264 727 254 725 254 679 264 673 264 670 264 653 256 651 256 649 256 586 264 574 264 563 264 498 256 496 256 495 256 477 264 474 264 467 264 421 256 419 256 223 262 225 295"/></Shape>
+	    <String CONTENT="l&#x27;intervention du pouvoir public est indispensable."
+                    HPOS="223"
+                    VPOS="254"
+                    WIDTH="906"
+                    HEIGHT="53"
+                    WC="0.9940313135876375"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f594939"
+                    TAGREFS="LT45"
+                    BASELINE="223 348 1131 343" 
+                    HPOS="221"
+                    VPOS="311"
+                    WIDTH="910"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="223 348 223 360 1129 357 1131 343 1127 314 228 311 226 311 225 311 223 311 223 312 221 312 223 348"/></Shape>
+	    <String CONTENT="Elle est en même temps inévitable. Car l’intensité"
+                    HPOS="221"
+                    VPOS="311"
+                    WIDTH="910"
+                    HEIGHT="49"
+                    WC="0.9936271714714339"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c6170db2"
+                    TAGREFS="LT45"
+                    BASELINE="223 402 1131 396" 
+                    HPOS="221"
+                    VPOS="362"
+                    WIDTH="910"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="223 402 223 414 1129 408 1131 396 1127 369 534 362 532 362 531 362 512 371 281 364 280 364 221 372 223 402"/></Shape>
+	    <String CONTENT="croissante de la vie urbaine va nécessairement atti¬"
+                    HPOS="221"
+                    VPOS="362"
+                    WIDTH="910"
+                    HEIGHT="52"
+                    WC="0.999661386013031"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d0f04ea0"
+                    TAGREFS="LT45"
+                    BASELINE="223 453 1132 448" 
+                    HPOS="221"
+                    VPOS="412"
+                    WIDTH="911"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="223 453 223 463 1132 458 1132 448 1129 422 1050 412 1048 412 1046 412 1045 412 1034 422 907 422 880 412 878 412 876 412 875 412 873 412 861 420 837 412 835 412 833 412 832 412 807 422 768 414 766 414 764 414 747 422 715 414 713 414 711 414 709 414 708 414 697 422 488 415 486 415 484 415 483 415 483 417 474 424 288 415 287 415 221 426 223 453"/></Shape>
+	    <String CONTENT="rer l’attention des princes, et depuis lors, de siècle"
+                    HPOS="221"
+                    VPOS="412"
+                    WIDTH="911"
+                    HEIGHT="51"
+                    WC="0.991818968816237"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_03d16259"
+                    TAGREFS="LT45"
+                    BASELINE="223 506 1129 500" 
+                    HPOS="221"
+                    VPOS="465"
+                    WIDTH="908"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="223 506 223 518 1127 512 1129 500 1126 475 919 475 904 465 902 465 900 465 899 465 840 475 787 467 785 467 672 477 642 469 641 469 639 469 510 477 412 470 410 470 409 470 407 470 407 472 398 479 297 470 295 470 221 481 223 506"/></Shape>
+	    <String CONTENT="en siècle, leurs rapports avec les villes ne cesse¬"
+                    HPOS="221"
+                    VPOS="465"
+                    WIDTH="908"
+                    HEIGHT="53"
+                    WC="0.999081225349353"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_70382440"
+                    TAGREFS="LT45"
+                    BASELINE="223 560 1057 555" 
+                    HPOS="221"
+                    VPOS="518"
+                    WIDTH="836"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="223 560 223 570 1055 568 1057 555 1053 529 955 518 954 518 952 518 914 527 746 520 744 520 742 520 740 520 740 522 734 527 722 520 720 520 718 520 716 520 660 529 556 520 555 520 495 530 290 522 288 522 221 532 223 560"/></Shape>
+	    <String CONTENT="ront plus de se multiplier et de se compliquer."
+                    HPOS="221"
+                    VPOS="518"
+                    WIDTH="836"
+                    HEIGHT="52"
+                    WC="0.994438611446543"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_33819d5a"
+                    TAGREFS="LT45"
+                    BASELINE="263 611 1132 606" 
+                    HPOS="261"
+                    VPOS="570"
+                    WIDTH="871"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="263 611 263 625 1131 620 1132 606 1129 580 935 580 907 570 905 570 904 570 838 580 818 572 816 572 814 572 813 572 794 580 625 572 624 572 622 572 599 580 570 572 569 572 567 572 565 572 544 582 505 573 503 573 501 573 479 582 355 573 354 573 352 573 314 582 268 573 266 573 264 573 263 573 263 575 261 575 263 611"/></Shape>
+	    <String CONTENT="En général, dans les Pays-Bas, les princes laïques"
+                    HPOS="261"
+                    VPOS="570"
+                    WIDTH="871"
+                    HEIGHT="55"
+                    WC="0.9975758296138836"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b4cb8bb"
+                    TAGREFS="LT45"
+                    BASELINE="225 664 1129 659" 
+                    HPOS="223"
+                    VPOS="623"
+                    WIDTH="906"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="225 664 225 677 1127 671 1129 659 1126 634 1081 623 1079 623 1077 623 1076 623 1062 634 945 634 917 623 916 623 914 623 912 623 911 623 911 625 902 632 806 625 804 625 802 625 801 625 801 627 794 634 792 635 684 635 680 634 668 625 667 625 665 625 524 625 522 625 520 625 519 625 519 627 517 627 512 634 510 635 498 634 467 627 465 627 464 627 441 634 431 635 426 634 417 627 416 627 414 627 412 627 223 632 225 664"/></Shape>
+	    <String CONTENT="leur furent plus favorables que les princes ecclé¬"
+                    HPOS="223"
+                    VPOS="623"
+                    WIDTH="906"
+                    HEIGHT="54"
+                    WC="0.995621432276333"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_02b46c69"
+                    TAGREFS="LT45"
+                    BASELINE="225 718 1134 713" 
+                    HPOS="223"
+                    VPOS="677"
+                    WIDTH="911"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="225 718 225 726 1124 732 1126 732 1127 732 1129 732 1129 730 1131 730 1134 725 1134 713 1131 687 904 677 902 677 844 685 832 677 830 677 828 677 826 677 825 677 785 687 610 678 608 678 606 678 584 687 572 678 570 678 569 678 567 678 565 678 524 689 510 680 508 680 507 680 505 680 402 689 245 680 244 680 242 680 223 689 225 718"/></Shape>
+	    <String CONTENT="siastiques. Et il est très compréhensible qu’il en"
+                    HPOS="223"
+                    VPOS="677"
+                    WIDTH="911"
+                    HEIGHT="55"
+                    WC="0.9987603552066363"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5ef25379"
+                    TAGREFS="LT45"
+                    BASELINE="225 771 1132 766" 
+                    HPOS="223"
+                    VPOS="728"
+                    WIDTH="909"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="225 771 225 781 1129 783 1132 766 1129 738 1045 738 1031 728 1029 728 1028 728 1026 728 952 737 926 728 924 728 923 728 864 737 835 728 833 728 832 728 830 728 828 728 828 730 826 730 820 738 694 730 692 730 649 738 624 730 622 730 620 730 508 740 481 732 479 732 477 732 352 740 300 732 299 732 297 732 280 740 252 732 250 732 249 732 247 732 223 740 225 771"/></Shape>
+	    <String CONTENT="ait été ainsi. Les comtes de Flandre, de Hainaut,"
+                    HPOS="223"
+                    VPOS="728"
+                    WIDTH="909"
+                    HEIGHT="55"
+                    WC="0.9997425020909777"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cbda070f"
+                    TAGREFS="LT45"
+                    BASELINE="225 821 1131 816" 
+                    HPOS="223"
+                    VPOS="781"
+                    WIDTH="908"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="225 821 225 835 1129 829 1131 816 1127 792 976 781 974 781 973 781 971 781 971 783 962 790 630 783 629 783 575 792 539 783 538 783 536 783 534 783 532 783 519 793 285 785 283 785 281 785 280 785 271 793 240 785 238 785 237 785 235 785 233 785 223 792 225 821"/></Shape>
+	    <String CONTENT="de Hollande, les ducs de Brabant, comme d’ailleurs"
+                    HPOS="223"
+                    VPOS="781"
+                    WIDTH="908"
+                    HEIGHT="54"
+                    WC="0.9928062558174133"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6c8a4e31"
+                    TAGREFS="LT45"
+                    BASELINE="225 876 1138 871" 
+                    HPOS="223"
+                    VPOS="836"
+                    WIDTH="915"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="225 876 225 886 1138 881 1138 871 1134 843 529 836 527 836 526 836 524 836 508 845 233 838 232 838 230 838 228 838 228 840 223 843 225 876"/></Shape>
+	    <String CONTENT="toute la haute aristocratie du Moyen âge, n’étaient"
+                    HPOS="223"
+                    VPOS="836"
+                    WIDTH="915"
+                    HEIGHT="50"
+                    WC="0.9987277973156709"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e7872b00"
+                    TAGREFS="LT45"
+                    BASELINE="228 933 1136 922" 
+                    HPOS="226"
+                    VPOS="884"
+                    WIDTH="910"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="228 933 228 945 1136 933 1136 922 1132 896 1060 896 1046 884 1045 884 1043 884 1041 884 816 898 739 888 737 888 634 900 599 890 598 890 596 890 594 890 556 900 378 891 376 891 331 902 323 895 323 893 321 893 319 893 318 893 232 896 230 896 228 896 228 898 226 898 228 933"/></Shape>
+	    <String CONTENT="point sédentaires. Ils n’avaient pas de résidence"
+                    HPOS="226"
+                    VPOS="884"
+                    WIDTH="910"
+                    HEIGHT="61"
+                    WC="0.9992151470745311"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bd8950ae"
+                    TAGREFS="LT45"
+                    BASELINE="225 981 1134 976" 
+                    HPOS="223"
+                    VPOS="941"
+                    WIDTH="911"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="225 981 225 993 1132 988 1134 976 1131 950 828 941 826 941 825 941 795 950 233 945 232 945 230 945 228 945 228 946 223 950 225 981"/></Shape>
+	    <String CONTENT="fixe et se déplaçaient continuellement avec leur"
+                    HPOS="223"
+                    VPOS="941"
+                    WIDTH="911"
+                    HEIGHT="52"
+                    WC="0.9992071187496185"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_67367588"
+                    TAGREFS="LT45"
+                    BASELINE="226 1037 1136 1029" 
+                    HPOS="225"
+                    VPOS="998"
+                    WIDTH="911"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="226 1037 226 1051 1134 1044 1136 1029 1132 1001 443 998 441 998 225 1008 226 1037"/></Shape>
+	    <String CONTENT="petite cour à travers leurs terres. Ne se trouvant"
+                    HPOS="225"
+                    VPOS="998"
+                    WIDTH="911"
+                    HEIGHT="53"
+                    WC="0.9992833581625247"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cbe2a312"
+                    TAGREFS="LT45"
+                    BASELINE="225 1091 1136 1080" 
+                    HPOS="223"
+                    VPOS="1044"
+                    WIDTH="913"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="225 1091 225 1101 1136 1094 1136 1080 1132 1055 1029 1044 1028 1044 979 1055 881 1046 880 1046 878 1046 876 1046 876 1048 868 1056 756 1056 742 1048 740 1048 739 1048 737 1048 539 1058 531 1051 531 1049 529 1049 527 1049 526 1049 342 1061 240 1053 238 1053 237 1053 235 1053 223 1060 225 1091"/></Shape>
+	    <String CONTENT="point en contact permanent avec la population"
+                    HPOS="223"
+                    VPOS="1044"
+                    WIDTH="913"
+                    HEIGHT="57"
+                    WC="0.9949576960669624"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_57710b4e"
+                    TAGREFS="LT45"
+                    BASELINE="223 1140 1134 1134" 
+                    HPOS="221"
+                    VPOS="1099"
+                    WIDTH="913"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="223 1140 223 1151 1132 1146 1134 1134 1131 1108 940 1099 938 1099 892 1110 885 1110 878 1110 823 1101 821 1101 820 1101 818 1101 818 1103 809 1110 794 1110 615 1103 613 1103 611 1103 584 1111 567 1103 565 1103 563 1103 383 1113 366 1113 357 1113 263 1104 261 1104 221 1113 223 1140"/></Shape>
+	    <String CONTENT="urbaine, ils eurent donc peu d’occasions d’en¬"
+                    HPOS="221"
+                    VPOS="1099"
+                    WIDTH="913"
+                    HEIGHT="52"
+                    WC="0.9988119083902111"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f6f3ecc9"
+                    TAGREFS="LT45"
+                    BASELINE="225 1192 1136 1187" 
+                    HPOS="223"
+                    VPOS="1156"
+                    WIDTH="913"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="225 1192 225 1204 1134 1199 1136 1187 1132 1161 232 1156 230 1156 228 1156 226 1156 226 1158 225 1158 223 1158 225 1192"/></Shape>
+	    <String CONTENT="trer en conflit avec elle. Avant le XIIe siècle, la con¬"
+                    HPOS="223"
+                    VPOS="1156"
+                    WIDTH="913"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aab6452a"
+                    TAGREFS="LT45"
+                    BASELINE="225 1247 1136 1240" 
+                    HPOS="223"
+                    VPOS="1204"
+                    WIDTH="913"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="225 1247 225 1257 1134 1250 1136 1240 1132 1214 931 1204 930 1204 928 1204 904 1214 895 1206 893 1206 892 1206 890 1206 888 1206 852 1214 809 1206 807 1206 806 1206 804 1206 804 1207 795 1216 694 1216 682 1206 680 1206 679 1206 677 1206 675 1206 673 1206 663 1216 644 1207 642 1207 486 1207 484 1207 483 1207 448 1218 421 1209 419 1209 417 1209 321 1218 235 1209 233 1209 232 1209 230 1209 230 1211 223 1216 225 1247"/></Shape>
+	    <String CONTENT="duite qu’ils adoptèrent à son égard fut généra¬"
+                    HPOS="223"
+                    VPOS="1204"
+                    WIDTH="913"
+                    HEIGHT="53"
+                    WC="0.9904332355811045"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_089b87b5"
+                    TAGREFS="LT45"
+                    BASELINE="225 1299 1136 1292" 
+                    HPOS="223"
+                    VPOS="1256"
+                    WIDTH="913"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="225 1299 225 1311 1134 1309 1136 1292 1132 1266 905 1256 904 1256 902 1256 900 1256 883 1266 873 1266 727 1257 725 1257 672 1268 663 1268 632 1268 450 1259 448 1259 446 1259 410 1268 402 1269 390 1268 345 1261 343 1261 223 1268 225 1299"/></Shape>
+	    <String CONTENT="lement pacifique. De leur côté, les villes n’eurent"
+                    HPOS="223"
+                    VPOS="1256"
+                    WIDTH="913"
+                    HEIGHT="55"
+                    WC="0.9978891442406852"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b34570e0"
+                    TAGREFS="LT45"
+                    BASELINE="225 1352 1138 1347" 
+                    HPOS="223"
+                    VPOS="1311"
+                    WIDTH="915"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="225 1352 225 1364 1136 1360 1138 1347 1136 1321 1115 1311 1113 1311 1112 1311 1110 1311 1108 1311 1095 1321 911 1321 881 1311 880 1311 878 1311 876 1311 859 1319 842 1311 840 1311 838 1311 837 1311 835 1311 835 1312 833 1312 826 1321 739 1312 737 1312 629 1321 457 1314 455 1314 412 1323 354 1314 352 1314 350 1314 328 1323 295 1314 293 1314 292 1314 223 1324 225 1352"/></Shape>
+	    <String CONTENT="garde d’inquiéter un pouvoir qui les protégeait"
+                    HPOS="223"
+                    VPOS="1311"
+                    WIDTH="915"
+                    HEIGHT="53"
+                    WC="0.9973943172668924"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2bd2206f"
+                    TAGREFS="LT45"
+                    BASELINE="226 1405 1138 1398" 
+                    HPOS="225"
+                    VPOS="1364"
+                    WIDTH="913"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="226 1405 226 1419 1136 1419 1138 1398 1134 1372 907 1364 905 1364 904 1364 881 1372 460 1367 458 1367 457 1367 440 1376 292 1369 290 1369 225 1378 226 1405"/></Shape>
+	    <String CONTENT="contre les petits seigneurs locaux, voisins gênants"
+                    HPOS="225"
+                    VPOS="1364"
+                    WIDTH="913"
+                    HEIGHT="55"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_557271b4"
+                    TAGREFS="LT45"
+                    BASELINE="226 1457 1138 1451" 
+                    HPOS="225"
+                    VPOS="1415"
+                    WIDTH="913"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="226 1457 226 1469 1136 1465 1138 1451 1134 1426 832 1415 830 1415 828 1415 826 1415 826 1417 825 1417 818 1426 799 1417 797 1417 795 1417 685 1426 632 1417 630 1417 629 1417 605 1426 584 1417 582 1417 581 1417 527 1427 517 1419 515 1419 514 1419 512 1419 510 1419 484 1429 343 1429 287 1419 285 1419 283 1419 281 1419 269 1427 257 1419 256 1419 254 1419 252 1419 250 1419 225 1427 226 1457"/></Shape>
+	    <String CONTENT="et dangereux, et qui s’abstenait d’intervenir dans"
+                    HPOS="225"
+                    VPOS="1415"
+                    WIDTH="913"
+                    HEIGHT="54"
+                    WC="0.9889309418201446"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5a1ff465"
+                    TAGREFS="LT45"
+                    BASELINE="228 1506 477 1503" 
+                    HPOS="226"
+                    VPOS="1469"
+                    WIDTH="251"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="228 1506 228 1520 477 1517 477 1503 474 1479 405 1469 403 1469 352 1477 331 1479 226 1476 228 1506"/></Shape>
+	    <String CONTENT="leurs affaires."
+                    HPOS="226"
+                    VPOS="1469"
+                    WIDTH="251"
+                    HEIGHT="51"
+                    WC="0.9973966717720032"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3efaf388"
+                    TAGREFS="LT45"
+                    BASELINE="264 1563 1138 1556" 
+                    HPOS="263"
+                    VPOS="1520"
+                    WIDTH="875"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="264 1563 264 1575 1136 1572 1138 1556 1134 1529 993 1520 991 1520 919 1529 912 1529 897 1529 732 1522 730 1522 679 1531 668 1532 263 1532 264 1563"/></Shape>
+	    <String CONTENT="Mais les évêques se trouvaient dans une situation"
+                    HPOS="263"
+                    VPOS="1520"
+                    WIDTH="875"
+                    HEIGHT="55"
+                    WC="0.9914174547382429"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_39a6bbd9"
+                    TAGREFS="LT45"
+                    BASELINE="226 1616 1138 1611" 
+                    HPOS="225"
+                    VPOS="1573"
+                    WIDTH="913"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="226 1616 226 1630 1136 1630 1138 1611 1134 1584 1064 1573 1062 1573 1060 1573 1041 1582 942 1573 940 1573 890 1582 862 1573 861 1573 859 1573 857 1573 823 1584 527 1575 526 1575 524 1575 522 1575 522 1577 520 1577 514 1586 476 1577 342 1577 340 1577 338 1577 319 1586 235 1577 233 1577 232 1577 230 1577 230 1579 228 1579 225 1580 226 1616"/></Shape>
+	    <String CONTENT="toute différente. Établis à demeure dans leurs cités,"
+                    HPOS="225"
+                    VPOS="1573"
+                    WIDTH="913"
+                    HEIGHT="57"
+                    WC="0.9905846108470047"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_839ec435"
+                    TAGREFS="LT45"
+                    BASELINE="228 1666 1136 1663" 
+                    HPOS="226"
+                    VPOS="1627"
+                    WIDTH="910"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="228 1666 228 1678 1136 1677 1136 1663 1132 1635 723 1627 722 1627 656 1635 651 1637 226 1637 228 1666"/></Shape>
+	    <String CONTENT="ils étaient forcés d’entretenir avec les habitants de"
+                    HPOS="226"
+                    VPOS="1627"
+                    WIDTH="910"
+                    HEIGHT="51"
+                    WC="0.998731302131306"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3c9b4b3b"
+                    TAGREFS="LT45"
+                    BASELINE="230 1720 1124 1716" 
+                    HPOS="228"
+                    VPOS="1680"
+                    WIDTH="896"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="230 1720 230 1733 1124 1730 1124 1716 1120 1690 739 1680 737 1680 735 1680 718 1689 491 1682 489 1682 426 1690 395 1682 393 1682 391 1682 390 1682 388 1682 388 1683 381 1690 364 1682 362 1682 361 1682 311 1690 266 1682 264 1682 263 1682 228 1692 230 1720"/></Shape>
+	    <String CONTENT="celles-ci des relations journalières et de s’intéresser"
+                    HPOS="228"
+                    VPOS="1680"
+                    WIDTH="896"
+                    HEIGHT="53"
+                    WC="0.995784644647078"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
