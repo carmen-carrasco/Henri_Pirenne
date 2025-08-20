@@ -1,4 +1,4 @@
-# HTR data for Henri Pirenne's Mahomet et Charlemagne
+# HTR data for Henri Pirenne's Work
 
 
 # Data
@@ -9,7 +9,5 @@ ALTO files with segmentation and transcription fully corrected manually.
 
 Transcriptions are open source, not the images which belong to Université Libre de Bruxelles.
 
-## Citation
 
-Carmen Carrasco Luján, _HTR data for Henri Pirenne's Mahomet et Charlemagne_, Université Libre de Bruxelles, 2025
 
