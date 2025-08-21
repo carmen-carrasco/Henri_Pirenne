@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ARCH-DIV-000496_0339.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT42" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT43" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT44" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT45" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT46" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/><OtherTag ID="BT49" LABEL="MarginTextZone:lower" DESCRIPTION="block type MarginTextZone:lower"/>
+    <OtherTag ID="LT25" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT31" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT32" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT33" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT34" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2790"
+          HEIGHT="3478"
+          PHYSICAL_IMG_NR="338"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2790"
+                  HEIGHT="3478">
+        <TextBlock HPOS="0.0"
+                   VPOS="0.0"
+                   WIDTH="2790.0"
+                   HEIGHT="3478.0"
+                   ID="9c6afa92-a167-4917-9361-9185b37564df"
+                   TAGREFS="BT43">
+          <Shape><Polygon POINTS="0 0 2790 0 2790 3478 0 3478 0 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
