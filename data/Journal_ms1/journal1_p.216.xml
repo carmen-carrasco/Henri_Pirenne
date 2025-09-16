@@ -29,17 +29,18 @@
                    TAGREFS="BT105">
           <Shape><Polygon POINTS="709 4 709 32 788 32 788 4"/></Shape>
           <TextLine ID="eSc_line_bc05c60c"
+                    TAGREFS="LT56"
                     BASELINE="732 18 779 23" 
-                    HPOS="729.0"
-                    VPOS="4.0"
-                    WIDTH="49.0"
-                    HEIGHT="32.0">
-            <Shape><Polygon POINTS="731 17 729 30 738 36 740 36 751 36 762 36 773 35 776 35 778 22 778 5 731 4 731 17"/></Shape>
+                    HPOS="729"
+                    VPOS="4"
+                    WIDTH="49"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="729 30 738 36 740 36 751 36 762 36 773 35 776 35 778 22 778 5 731 4 731 17"/></Shape>
 	    <String CONTENT="216"
-                    HPOS="729.0"
-                    VPOS="4.0"
-                    WIDTH="49.0"
-                    HEIGHT="32.0"></String>
+                    HPOS="729"
+                    VPOS="4"
+                    WIDTH="49"
+                    HEIGHT="32"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="18.0"
