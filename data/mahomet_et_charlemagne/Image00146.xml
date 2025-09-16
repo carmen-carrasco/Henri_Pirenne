@@ -443,6 +443,7 @@
                     HEIGHT="208"></String>
           </TextLine>
           <TextLine ID="eSc_line_a7101251"
+                    TAGREFS="LT20"
                     BASELINE="84 2943 242 3025 350 3035 439 3030 496 3042 1267 3043 2118 3009" 
                     HPOS="49"
                     VPOS="2908"
