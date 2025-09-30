@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ARCH-DIV-000494_0006.png</fileName>
+      <fileIdentifier>mets//export_doc14_arch_div_000494_alto_202505210804.zip/ARCH-DIV-000494_0006.png</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT57" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT58" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT59" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT60" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT61" LABEL="MarginTextZone:low" DESCRIPTION="block type MarginTextZone:low"/><OtherTag ID="BT62" LABEL="CustomZone:numbering" DESCRIPTION="block type CustomZone:numbering"/><OtherTag ID="BT77" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT78" LABEL="MarginTextZone:lower" DESCRIPTION="block type MarginTextZone:lower"/>
+    <OtherTag ID="LT40" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT41" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT42" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT43" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT44" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2101"
+          HEIGHT="3265"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2101"
+                  HEIGHT="3265">
+        <TextBlock HPOS="161.0"
+                   VPOS="256.0"
+                   WIDTH="1911.0"
+                   HEIGHT="2147.0"
+                   ID="eSc_textblock_9be4f337"
+                   TAGREFS="BT57">
+          <Shape><Polygon POINTS="161 256 161 2403 2072 2403 2072 256"/></Shape>
+          <TextLine ID="eSc_line_fdbfb251"
+                    TAGREFS="LT40"
+                    BASELINE="257 435 1184 420" 
+                    HPOS="253"
+                    VPOS="321"
+                    WIDTH="930"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="255 459 416 467 484 448 500 462 500 465 508 467 598 467 658 446 751 462 849 443 1058 457 1181 438 1183 419 1181 370 1055 337 1047 337 963 375 862 375 816 353 805 353 805 356 781 378 748 378 655 340 644 340 598 361 522 348 470 364 449 348 438 348 410 359 372 321 253 321 255 432"/></Shape>
+	    <String CONTENT="Manuscrit des"
+                    HPOS="253"
+                    VPOS="321"
+                    WIDTH="930"
+                    HEIGHT="146"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_47be9b80"
+                    TAGREFS="LT40"
+                    BASELINE="308 727 2024 698" 
+                    HPOS="302"
+                    VPOS="590"
+                    WIDTH="1720"
+                    HEIGHT="171">
+            <Shape><Polygon POINTS="307 726 310 759 337 745 378 759 397 761 620 740 762 756 930 734 1061 748 1094 731 1338 745 1371 729 1553 742 1594 726 1646 740 2019 723 2022 696 2016 650 1940 644 1869 590 1858 590 1703 653 1624 628 1616 628 1583 639 1545 655 1426 636 1371 598 1197 601 1123 663 1080 666 881 666 781 628 770 628 759 642 664 636 549 663 424 614 302 614 307 726"/></Shape>
+	    <String CONTENT="Anciennes Démocraties"
+                    HPOS="302"
+                    VPOS="590"
+                    WIDTH="1720"
+                    HEIGHT="171"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_653012af"
+                    BASELINE="625 1006 1246 1017 1409 1012 1817 1012" 
+                    HPOS="620"
+                    VPOS="881"
+                    WIDTH="1255"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="620 1047 639 1058 642 1058 644 1058 647 1058 816 1039 879 1033 892 1039 930 1055 933 1055 936 1055 996 1050 1036 1085 1039 1085 1042 1085 1162 1088 1164 1088 1167 1088 1303 1102 1831 1047 1875 940 1261 886 1121 952 1110 941 1036 886 1034 886 1031 886 933 884 930 884 928 884 925 884 870 927 846 944 762 941 740 919 702 884 702 881 699 881 696 881 693 881 691 881 623 908 623 1003"/></Shape>
+	    <String CONTENT="des  Pays-Bas"
+                    HPOS="620"
+                    VPOS="881"
+                    WIDTH="1255"
+                    HEIGHT="221"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_182bf6aa"
+                    TAGREFS="LT40"
+                    BASELINE="252 1750 629 1754 671 1757 1126 1775 1807 1770" 
+                    HPOS="247"
+                    VPOS="1626"
+                    WIDTH="1520"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="247 1773 272 1787 274 1787 277 1787 1753 1834 1767 1741 1625 1644 1445 1626 1070 1638 511 1665 498 1670 470 1686 386 1656 345 1643 342 1643 250 1640 250 1749"/></Shape>
+	    <String CONTENT="donné par Papa le"
+                    HPOS="247"
+                    VPOS="1626"
+                    WIDTH="1520"
+                    HEIGHT="208"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ced858ee"
+                    TAGREFS="LT40"
+                    BASELINE="477 2026 609 2022 691 2022 1055 2024 1184 2015 1268 2011 1758 2004" 
+                    HPOS="470"
+                    VPOS="1920"
+                    WIDTH="1234"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="476 2037 601 2043 1590 2032 1704 1920 470 1920 476 2024"/></Shape>
+	    <String CONTENT="18 juillet 1930"
+                    HPOS="470"
+                    VPOS="1920"
+                    WIDTH="1234"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_df42ef9b"
+                    TAGREFS="LT40"
+                    BASELINE="994 2270 1812 2254" 
+                    HPOS="990"
+                    VPOS="2179"
+                    WIDTH="819"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="993 2269 993 2293 1257 2307 1260 2307 1336 2290 1358 2288 1385 2290 1464 2301 1466 2301 1807 2285 1809 2252 1801 2206 1638 2206 1630 2203 1589 2179 1586 2179 1583 2179 1581 2179 1480 2203 1475 2203 1472 2203 1445 2190 1442 2190 1439 2190 1436 2190 1407 2203 1387 2212 1371 2201 1341 2184 1338 2184 1336 2184 1333 2184 1208 2187 1205 2187 1162 2201 1110 2217 990 2201 993 2269"/></Shape>
+	    <String CONTENT="à Bruxelles"
+                    HPOS="990"
+                    VPOS="2179"
+                    WIDTH="819"
+                    HEIGHT="128"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
