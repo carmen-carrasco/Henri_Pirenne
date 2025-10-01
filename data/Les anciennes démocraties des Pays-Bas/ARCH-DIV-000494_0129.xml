@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
@@ -7,44 +7,44 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT37" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT38" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT39" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT40" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT41" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering" /><OtherTag ID="BT48" LABEL="MarginTextZone:lower" DESCRIPTION="block type MarginTextZone:lower" /><OtherTag ID="BT84" LABEL="MarginTextZone:low" DESCRIPTION="block type MarginTextZone:low" />
-    <OtherTag ID="LT26" LABEL="default" DESCRIPTION="line type default" /><OtherTag ID="LT27" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT28" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT29" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition" /><OtherTag ID="LT30" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction" />
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title" /><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main" /><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary" /><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration" /><OtherTag ID="BT130" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT131" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT132" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT133" LABEL="CustomZone:numbering" DESCRIPTION="block type CustomZone:numbering" /><OtherTag ID="BT134" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT136" LABEL="MarginTextZone:lower" DESCRIPTION="block type MarginTextZone:lower" />
+    <OtherTag ID="LT75" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" /><OtherTag ID="LT76" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT77" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction" /><OtherTag ID="LT78" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition" />
   </Tags>
   <Layout>
     <Page WIDTH="2713" HEIGHT="3461" PHYSICAL_IMG_NR="124" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="2713" HEIGHT="3461">
-        <TextBlock HPOS="2426.0" VPOS="10.0" WIDTH="238.0" HEIGHT="80.0" ID="eSc_textblock_b081dafc" TAGREFS="BT39">
+        <TextBlock HPOS="2426.0" VPOS="10.0" WIDTH="238.0" HEIGHT="80.0" ID="eSc_textblock_b081dafc" TAGREFS="BT134">
           <Shape><Polygon POINTS="2426 10 2426 90 2664 90 2664 10" /></Shape>
-          <TextLine ID="eSc_line_c471d081" TAGREFS="LT27" BASELINE="2451 59 2631 72" HPOS="2447.0" VPOS="8.0" WIDTH="182.0" HEIGHT="81.0">
+          <TextLine ID="eSc_line_c471d081" TAGREFS="LT76" BASELINE="2451 59 2631 72" HPOS="2447.0" VPOS="8.0" WIDTH="182.0" HEIGHT="81.0">
             <Shape><Polygon POINTS="2450 57 2447 86 2476 86 2505 89 2534 89 2562 89 2571 89 2626 89 2629 69 2629 25 2450 8 2450 57" /></Shape>
 	    <String CONTENT="121" HPOS="2447.0" VPOS="8.0" WIDTH="182.0" HEIGHT="81.0" />
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="457.0" VPOS="5.0" WIDTH="2220.0" HEIGHT="708.0" ID="ac73f9c2-5112-47e3-87ee-841ff3dffddc" TAGREFS="BT37">
+        <TextBlock HPOS="457.0" VPOS="5.0" WIDTH="2220.0" HEIGHT="708.0" ID="ac73f9c2-5112-47e3-87ee-841ff3dffddc" TAGREFS="BT132">
           <Shape><Polygon POINTS="2396 92 2677 99 2677 713 457 713 457 5 2368 5" /></Shape>
-          <TextLine ID="eSc_line_ca4dffa2" TAGREFS="LT27" BASELINE="562 155 2548 121" HPOS="557.0" VPOS="57.0" WIDTH="1988.0" HEIGHT="139.0">
+          <TextLine ID="eSc_line_ca4dffa2" TAGREFS="LT76" BASELINE="562 155 2548 121" HPOS="557.0" VPOS="57.0" WIDTH="1988.0" HEIGHT="139.0">
             <Shape><Polygon POINTS="2519 95 2404 92 2395 77 2268 77 2233 57 2222 57 2138 80 2060 66 1965 83 1904 63 1896 63 1829 86 1777 69 1769 69 1714 89 1477 72 1362 95 1310 74 1301 74 1243 98 1119 98 883 80 811 103 730 83 692 103 606 86 557 103 559 184 738 175 811 193 894 175 914 193 923 196 1056 196 1056 193 1163 167 1382 178 1414 158 1558 158 1665 181 1936 155 2129 173 2268 147 2378 170 2542 141 2545 118 2539 95 2519 95" /></Shape>
 	    <String CONTENT="de la Belgique moderne consiste, pour une" HPOS="557.0" VPOS="57.0" WIDTH="1988.0" HEIGHT="139.0" WC="0.9999052911269956" />
           </TextLine>
-          <TextLine ID="eSc_line_dab6a262" TAGREFS="LT27" BASELINE="577 259 1385 239 2649 233" HPOS="571.0" VPOS="175.0" WIDTH="2075.0" HEIGHT="116.0">
+          <TextLine ID="eSc_line_dab6a262" TAGREFS="LT76" BASELINE="577 259 1385 239 2649 233" HPOS="571.0" VPOS="175.0" WIDTH="2075.0" HEIGHT="116.0">
             <Shape><Polygon POINTS="574 256 574 291 1122 265 1229 282 1399 262 1567 262 1616 279 1676 273 1780 256 2057 256 2196 273 2262 256 2277 271 2288 271 2326 256 2415 271 2643 253 2646 230 2637 193 2447 193 2372 175 2320 193 2129 178 1942 199 1708 184 1584 201 1512 184 1313 204 1241 187 1180 204 1125 187 1116 187 1067 207 943 190 813 193 787 210 571 199 574 256" /></Shape>
 	    <String CONTENT="grande part, dans les donations de ces « hommes" HPOS="571.0" VPOS="175.0" WIDTH="2075.0" HEIGHT="116.0" WC="0.990155851063521" />
           </TextLine>
-          <TextLine ID="eSc_line_b02bbb90" TAGREFS="LT27" BASELINE="565 348 2649 340" HPOS="559.0" VPOS="282.0" WIDTH="2087.0" HEIGHT="104.0">
+          <TextLine ID="eSc_line_b02bbb90" TAGREFS="LT76" BASELINE="565 348 2649 340" HPOS="559.0" VPOS="282.0" WIDTH="2087.0" HEIGHT="104.0">
             <Shape><Polygon POINTS="562 346 562 374 574 386 733 366 880 386 1070 369 1255 386 1321 363 1593 363 1613 380 1766 363 1815 386 1901 386 1901 383 1907 383 1927 366 1982 380 2228 363 2476 380 2643 366 2646 337 2640 299 2320 299 2277 282 2153 297 2095 282 1945 299 1564 285 1486 299 1443 285 1434 285 1385 299 1316 285 1229 302 845 288 796 302 600 288 559 302 562 346" /></Shape>
 	    <String CONTENT="héritables » et de ces marchands qui affectèrent sans" HPOS="559.0" VPOS="282.0" WIDTH="2087.0" HEIGHT="104.0" WC="0.9947049021720886" />
           </TextLine>
-          <TextLine ID="eSc_line_4958033b" TAGREFS="LT27" BASELINE="557 452 1191 435 2643 441" HPOS="551.0" VPOS="383.0" WIDTH="2089.0" HEIGHT="98.0">
+          <TextLine ID="eSc_line_4958033b" TAGREFS="LT76" BASELINE="557 452 1191 435 2643 441" HPOS="551.0" VPOS="383.0" WIDTH="2089.0" HEIGHT="98.0">
             <Shape><Polygon POINTS="554 449 554 461 663 478 888 464 929 464 1033 478 1036 481 1391 481 1391 478 1396 478 1417 464 1734 464 1757 478 1769 478 1826 464 1870 478 1974 464 2323 478 2398 478 2459 464 2637 478 2640 438 2635 389 1864 398 1847 383 1633 383 1616 400 1396 400 1304 383 1220 398 1209 398 1142 383 1064 398 1018 383 1007 383 989 400 880 400 825 383 813 383 790 398 608 386 551 400 554 449" /></Shape>
 	    <String CONTENT="compter, au soulagement des pauvres et des malades" HPOS="551.0" VPOS="383.0" WIDTH="2089.0" HEIGHT="98.0" />
           </TextLine>
-          <TextLine ID="eSc_line_5084f144" TAGREFS="LT27" BASELINE="542 553 2577 533" HPOS="536.0" VPOS="475.0" WIDTH="2038.0" HEIGHT="127.0">
+          <TextLine ID="eSc_line_5084f144" TAGREFS="LT76" BASELINE="542 553 2577 533" HPOS="536.0" VPOS="475.0" WIDTH="2038.0" HEIGHT="127.0">
             <Shape><Polygon POINTS="542 599 626 576 718 594 834 573 868 599 903 594 972 576 1018 602 1116 602 1116 599 1191 571 1272 588 1287 588 1316 568 1699 565 1749 594 1991 594 1991 591 2057 562 2135 588 2259 582 2285 565 2398 576 2421 562 2522 585 2574 565 2574 530 2565 490 2447 490 2430 475 2421 475 2259 493 2231 493 2187 478 1942 496 1907 496 1867 481 1855 481 1835 496 1619 484 1575 498 1518 484 1044 504 998 504 946 490 839 507 796 507 617 493 536 507 539 550" /></Shape>
 	    <String CONTENT="les bénéfices que la vente des draps et des laines" HPOS="536.0" VPOS="475.0" WIDTH="2038.0" HEIGHT="127.0" WC="0.9999419367313385" />
           </TextLine>
-          <TextLine ID="eSc_line_5ed1d3a2" TAGREFS="LT27" BASELINE="568 646 2179 640" HPOS="562.0" VPOS="582.0" WIDTH="1614.0" HEIGHT="124.0">
+          <TextLine ID="eSc_line_5ed1d3a2" TAGREFS="LT76" BASELINE="568 646 2179 640" HPOS="562.0" VPOS="582.0" WIDTH="1614.0" HEIGHT="124.0">
             <Shape><Polygon POINTS="565 643 565 703 724 677 822 695 920 680 975 706 1290 706 1290 703 1370 674 1529 692 1546 692 1564 674 1777 674 1818 700 2176 680 2176 637 2170 599 1930 582 1884 599 1723 599 1702 582 1546 597 1408 582 1359 602 1243 602 1229 585 1044 585 1044 588 1030 599 961 585 912 599 562 591 565 643" /></Shape>
-	    <String CONTENT="faisaient affluer dans leurs coffres.¬" HPOS="562.0" VPOS="582.0" WIDTH="1614.0" HEIGHT="124.0" />
+	    <String CONTENT="faisaient affluer dans leurs coffres." HPOS="562.0" VPOS="582.0" WIDTH="1614.0" HEIGHT="124.0" />
           </TextLine>
         </TextBlock>
       </PrintSpace>
