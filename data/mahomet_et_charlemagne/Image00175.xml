@@ -29,6 +29,7 @@
                    TAGREFS="BT34">
           <Shape><Polygon POINTS="3820 0 3820 227 3299 227 3299 0"/></Shape>
           <TextLine ID="eSc_line_bacdcbdd"
+                    TAGREFS="LT20"
                     BASELINE="3349 121 3717 155" 
                     HPOS="3311"
                     VPOS="4"
