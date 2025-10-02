@@ -9,8 +9,8 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT25" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT26" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT27" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT28" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT30" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT31" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
-    <OtherTag ID="LT15" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT16" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT17" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT18" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT19" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT138" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT140" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT141" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT142" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
+    <OtherTag ID="LT80" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT81" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT82" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   <Layout>
     <Page WIDTH="4090"
@@ -26,10 +26,10 @@
                    WIDTH="308.0"
                    HEIGHT="218.0"
                    ID="eSc_textblock_c15ee947"
-                   TAGREFS="BT30">
+                   TAGREFS="BT141">
           <Shape><Polygon POINTS="3896 285 3616 291 3588 73 3876 84"/></Shape>
           <TextLine ID="eSc_line_fd96b3b8"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="3578 193 3917 203" 
                     HPOS="3571.0"
                     VPOS="63.0"
@@ -48,10 +48,10 @@
                    WIDTH="2109.0"
                    HEIGHT="693.0"
                    ID="eSc_textblock_63d4fe0b"
-                   TAGREFS="BT25">
+                   TAGREFS="BT139">
           <Shape><Polygon POINTS="2064 67 2210 224 2188 570 2098 615 1393 648 1233 738 146 749 101 716 101 382 148 56"/></Shape>
           <TextLine ID="eSc_line_9607a57c"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="171 137 775 162 2039 154" 
                     HPOS="168.0"
                     VPOS="81.0"
@@ -65,7 +65,7 @@
                     HEIGHT="124.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_7f159d21"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="130 249 963 272 2168 255" 
                     HPOS="122.0"
                     VPOS="208.0"
@@ -79,7 +79,7 @@
                     HEIGHT="125.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_b2ba5f07"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="151 360 907 376 2191 356" 
                     HPOS="127.0"
                     VPOS="299.0"
@@ -93,7 +93,7 @@
                     HEIGHT="123.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_a6ef9bda"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="146 471 617 483 2129 460" 
                     HPOS="131.0"
                     VPOS="396.0"
@@ -107,7 +107,7 @@
                     HEIGHT="126.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_cca6f784"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="140 567 1036 575 2151 550" 
                     HPOS="140.0"
                     VPOS="504.0"
@@ -121,7 +121,7 @@
                     HEIGHT="125.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_c1a8fcdc"
-                    TAGREFS="LT15"
+                    TAGREFS="LT80"
                     BASELINE="134 668 1230 682" 
                     HPOS="132.0"
                     VPOS="603.0"
