@@ -15,7 +15,7 @@
   <Layout>
     <Page WIDTH="3978"
           HEIGHT="5058"
-          PHYSICAL_IMG_NR="171"
+          PHYSICAL_IMG_NR="172"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -191,20 +191,6 @@
                     WIDTH="2063.0"
                     HEIGHT="162.0"></String>
           </TextLine>
-          <TextLine ID="eSc_line_fabcb7d4"
-                    TAGREFS="LT80"
-                    BASELINE="2150 1336 3369 1301" 
-                    HPOS="2131.0"
-                    VPOS="1201.0"
-                    WIDTH="1232.0"
-                    HEIGHT="189.0">
-            <Shape><Polygon POINTS="2134 1369 2446 1386 2564 1361 2590 1365 2670 1390 2682 1390 2758 1353 2826 1382 2839 1382 2913 1373 3011 1382 3144 1354 3352 1346 3363 1318 3341 1241 3242 1201 3049 1243 2817 1222 2771 1222 2741 1251 2594 1260 2501 1260 2449 1249 2419 1260 2405 1259 2389 1262 2361 1263 2245 1246 2147 1273 2131 1331"/></Shape>
-	    <String CONTENT="Pour lui c&#x27;est là l&#x27;essentiel."
-                    HPOS="2131.0"
-                    VPOS="1201.0"
-                    WIDTH="1232.0"
-                    HEIGHT="189.0"></String>
-          </TextLine>
           <TextLine ID="eSc_line_48513b55"
                     TAGREFS="LT80"
                     BASELINE="73 1437 227 1492 367 1502 1295 1471 1675 1447 2074 1435" 
@@ -316,6 +302,20 @@
                     VPOS="2078.0"
                     WIDTH="2039.0"
                     HEIGHT="173.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bb60a972"
+                    TAGREFS="LT80"
+                    BASELINE="2355 2104 2960 2071 3258 2034 3727 2008 3728 2008 3943 2002" 
+                    HPOS="2323"
+                    VPOS="1937"
+                    WIDTH="1652"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="2358 2141 2472 2149 2550 2142 2657 2148 2748 2133 2878 2128 2961 2107 3071 2103 3246 2096 3337 2100 3407 2085 3475 2098 3548 2087 3917 2049 3975 2022 3927 1970 3787 1937 3699 1953 3574 1974 3260 1983 3192 1988 3124 1989 3013 2004 2820 2022 2783 2024 2737 2037 2699 2028 2662 2027 2629 2038 2578 2047 2521 2037 2445 2049 2410 2048 2355 2066 2323 2121"/></Shape>
+	    <String CONTENT="de toute manière le prestige d Pepin."
+                    HPOS="2323"
+                    VPOS="1937"
+                    WIDTH="1652"
+                    HEIGHT="212"></String>
           </TextLine>
           <TextLine ID="eSc_line_e7e36842"
                     TAGREFS="LT80"
@@ -717,21 +717,19 @@
                    ID="eSc_textblock_c7a55474"
                    TAGREFS="BT140">
           <Shape><Polygon POINTS="2118 1193 2128 1503 3088 1501 3171 1492 3660 1440 3426 1118 3189 1110 2864 1100 2282 1173"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_bb60a972"
+          <TextLine ID="eSc_line_fabcb7d4"
                     TAGREFS="LT80"
-                    BASELINE="2355 2104 2960 2071 3258 2034 3727 2008 3728 2008 3943 2002" 
-                    HPOS="2323.0"
-                    VPOS="1937.0"
-                    WIDTH="1652.0"
-                    HEIGHT="212.0">
-            <Shape><Polygon POINTS="2358 2141 2472 2149 2550 2142 2657 2148 2748 2133 2878 2128 2961 2107 3071 2103 3246 2096 3337 2100 3407 2085 3475 2098 3548 2087 3917 2049 3975 2022 3927 1970 3787 1937 3699 1953 3574 1974 3260 1983 3192 1988 3124 1989 3013 2004 2820 2022 2783 2024 2737 2037 2699 2028 2662 2027 2629 2038 2578 2047 2521 2037 2445 2049 2410 2048 2355 2066 2323 2121"/></Shape>
-	    <String CONTENT="de toute manière le prestige d Pepin."
-                    HPOS="2323.0"
-                    VPOS="1937.0"
-                    WIDTH="1652.0"
-                    HEIGHT="212.0"></String>
+                    BASELINE="2150 1336 3369 1301" 
+                    HPOS="2131"
+                    VPOS="1201"
+                    WIDTH="1232"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="2134 1369 2446 1386 2564 1361 2590 1365 2670 1390 2682 1390 2758 1353 2826 1382 2839 1382 2913 1373 3011 1382 3144 1354 3352 1346 3363 1318 3341 1241 3242 1201 3049 1243 2817 1222 2771 1222 2741 1251 2594 1260 2501 1260 2449 1249 2419 1260 2405 1259 2389 1262 2361 1263 2245 1246 2147 1273 2131 1331"/></Shape>
+	    <String CONTENT="Pour lui c&#x27;est là l&#x27;essentiel."
+                    HPOS="2131"
+                    VPOS="1201"
+                    WIDTH="1232"
+                    HEIGHT="189"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
