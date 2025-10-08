@@ -9,9 +9,9 @@ Exemple de page:
 | Pirenne100 |    |    | 100 | Manu McFondue |  |88.84%| |
 | Pirenne160 |  -r 0.0002 --lag 10 --min-delta 0.001 --workers 8   |    | 160 | Manu McFondue | 0.9116478562355042 | 91.51% | Image |
 | Pirenne_0 |    |    | 420 | ----- |  |  | Image |
-| **Pirenne420** | ketos train -t  data/train.txt -e data/val.txt --resize new -f alto -r 0.0002 --lag 10 --min-delta 0.001 --workers 8 -i ManuMcFondue.mlmodel -d cuda:0 -o output9/model.mlmodel   |    | 420 | Manu McFondue |  |  | Image |
-| **Pirenne_et_autres** |  ketos train -t  train.txt -e val.txt --resize new -f alto -r 0.0002 --lag 10 --min-delta 0.001 --workers 8 -i ManuMcFondue.mlmodel -d cuda:0 -o output11/model.mlmodel  |    | 833 | ------ |  |  | Image |
-| **AdHoc** | ketos train -t data_autres/train.txt -e data_autres/val.txt -f alto -r 0.0003 --lag 20 --min-delta 0.001 --workers 8 -B 8 --precision 16 -d cuda:0 -o output10/model.mlmodel   |    | 413 | ----- |  |  | Image |
+| **Pirenne420** | -r 0.0002 --lag 10 --min-delta 0.001 --workers 8  |    | 420 | Manu McFondue |  |  | Image |
+| **Pirenne_et_autres** |  -r 0.0002 --lag 10 --min-delta 0.001 --workers 8  |    | 833 | ------ |  |  | Image |
+| **AdHoc** | ketos train -t data_autres/train.txt -e data_autres/val.txt -f alto -r 0.0003 --lag 20 --min-delta 0.001 --workers 8 -B 8 --precision 16 -d |    | 413 | ----- |  |  | Image |
 | Pirenne420adhoc |    |    | 420 | Modèle ad hoc |  |  | Image |
 
 
