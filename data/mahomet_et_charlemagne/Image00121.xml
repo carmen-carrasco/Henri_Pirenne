@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -9,116 +7,40 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT138" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT140" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT141" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT142" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
-    <OtherTag ID="LT80" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT81" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT82" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title" /><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main" /><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary" /><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration" /><OtherTag ID="BT138" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT139" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT140" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" /><OtherTag ID="BT141" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT142" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering" />
+    <OtherTag ID="LT80" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine" /><OtherTag ID="LT81" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction" /><OtherTag ID="LT82" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition" /><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine" />
   </Tags>
   <Layout>
-    <Page WIDTH="3960"
-          HEIGHT="5049"
-          PHYSICAL_IMG_NR="119"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3960"
-                  HEIGHT="5049">
-        <TextBlock HPOS="3480.0"
-                   VPOS="100.0"
-                   WIDTH="378.0"
-                   HEIGHT="267.0"
-                   ID="eSc_textblock_4e3f0b32"
-                   TAGREFS="BT141">
-          <Shape><Polygon POINTS="3814 123 3858 201 3847 300 3679 367 3502 345 3480 179 3586 100"/></Shape>
-          <TextLine ID="eSc_line_36d927cc"
-                    TAGREFS="LT80"
-                    BASELINE="3534 200 3710 254 3777 274" 
-                    HPOS="3471.0"
-                    VPOS="92.0"
-                    WIDTH="390.0"
-                    HEIGHT="258.0">
-            <Shape><Polygon POINTS="3620 339 3749 350 3811 267 3861 162 3586 92 3471 255"/></Shape>
-	    <String CONTENT="118"
-                    HPOS="3471.0"
-                    VPOS="92.0"
-                    WIDTH="390.0"
-                    HEIGHT="258.0"></String>
+    <Page WIDTH="3960" HEIGHT="5049" PHYSICAL_IMG_NR="119" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3960" HEIGHT="5049">
+        <TextBlock HPOS="3480.0" VPOS="100.0" WIDTH="378.0" HEIGHT="267.0" ID="eSc_textblock_4e3f0b32" TAGREFS="BT141">
+          <Shape><Polygon POINTS="3814 123 3858 201 3847 300 3679 367 3502 345 3480 179 3586 100" /></Shape>
+          <TextLine ID="eSc_line_36d927cc" TAGREFS="LT80" BASELINE="3534 200 3710 254 3777 274" HPOS="3471.0" VPOS="92.0" WIDTH="390.0" HEIGHT="258.0">
+            <Shape><Polygon POINTS="3620 339 3749 350 3811 267 3861 162 3586 92 3471 255" /></Shape>
+	    <String CONTENT="118" HPOS="3471.0" VPOS="92.0" WIDTH="390.0" HEIGHT="258.0" />
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="112.0"
-                   VPOS="43.0"
-                   WIDTH="2052.0"
-                   HEIGHT="593.0"
-                   ID="eSc_textblock_bb147cca"
-                   TAGREFS="BT139">
-          <Shape><Polygon POINTS="2065 69 2124 108 2147 207 2164 288 2147 331 2140 338 2099 378 2040 445 1372 495 1199 508 1178 510 1163 511 1075 518 1000 523 948 527 788 499 592 636 171 583 112 546 123 123 176 43 478 58 728 118 976 88 1352 96 1672 55 1695 56 1890 63"/></Shape>
-          <TextLine ID="eSc_line_5d6f3be5"
-                    TAGREFS="LT80"
-                    BASELINE="157 91 336 151 537 168 1145 163 1318 155 2124 120" 
-                    HPOS="141.0"
-                    VPOS="39.0"
-                    WIDTH="1983.0"
-                    HEIGHT="189.0">
-            <Shape><Polygon POINTS="160 136 300 175 381 171 444 183 485 207 488 207 491 207 547 190 923 204 926 204 928 204 931 204 957 187 1010 196 1013 196 1015 196 1018 196 1018 193 1038 176 1128 209 1138 228 1172 216 1201 202 1268 199 1422 171 1499 193 1522 200 1548 190 1583 172 1646 156 1706 162 1728 163 1753 160 1784 154 1877 179 1880 179 1883 179 1885 179 1956 162 2006 187 2009 187 2012 187 2022 173 2124 145 2124 120 2121 75 2071 56 2068 56 2065 56 2062 56 2029 75 2017 81 1891 81 1874 75 1824 53 1821 53 1818 53 1815 53 1740 67 1711 98 1624 75 1605 70 1602 70 1599 70 1596 70 1585 75 1537 95 1479 81 1476 81 1473 81 1389 100 1355 75 1355 72 1352 72 1349 72 1347 72 1344 72 1341 72 1341 75 1305 103 1072 103 1041 89 1038 89 1035 89 957 106 914 89 912 89 909 89 906 89 825 112 651 112 631 95 628 95 625 95 623 95 620 95 580 106 522 75 519 72 516 72 197 39 154 72 141 96"/></Shape>
-	    <String CONTENT="cela à Phocas en 604 &quot;Hoc namque inter reges"
-                    HPOS="141.0"
-                    VPOS="39.0"
-                    WIDTH="1983.0"
-                    HEIGHT="189.0"></String>
+        <TextBlock HPOS="112.0" VPOS="43.0" WIDTH="2052.0" HEIGHT="593.0" ID="eSc_textblock_bb147cca" TAGREFS="BT139">
+          <Shape><Polygon POINTS="2065 69 2124 108 2147 207 2164 288 2147 331 2140 338 2099 378 2040 445 1372 495 1199 508 1178 510 1163 511 1075 518 1000 523 948 527 788 499 592 636 171 583 112 546 123 123 176 43 478 58 728 118 976 88 1352 96 1672 55 1695 56 1890 63" /></Shape>
+          <TextLine ID="eSc_line_5d6f3be5" TAGREFS="LT80" BASELINE="157 91 336 151 537 168 1145 163 1318 155 2124 120" HPOS="141.0" VPOS="39.0" WIDTH="1983.0" HEIGHT="189.0">
+            <Shape><Polygon POINTS="160 136 300 175 381 171 444 183 485 207 488 207 491 207 547 190 923 204 926 204 928 204 931 204 957 187 1010 196 1013 196 1015 196 1018 196 1018 193 1038 176 1128 209 1138 228 1172 216 1201 202 1268 199 1422 171 1499 193 1522 200 1548 190 1583 172 1646 156 1706 162 1728 163 1753 160 1784 154 1877 179 1880 179 1883 179 1885 179 1956 162 2006 187 2009 187 2012 187 2022 173 2124 145 2124 120 2121 75 2071 56 2068 56 2065 56 2062 56 2029 75 2017 81 1891 81 1874 75 1824 53 1821 53 1818 53 1815 53 1740 67 1711 98 1624 75 1605 70 1602 70 1599 70 1596 70 1585 75 1537 95 1479 81 1476 81 1473 81 1389 100 1355 75 1355 72 1352 72 1349 72 1347 72 1344 72 1341 72 1341 75 1305 103 1072 103 1041 89 1038 89 1035 89 957 106 914 89 912 89 909 89 906 89 825 112 651 112 631 95 628 95 625 95 623 95 620 95 580 106 522 75 519 72 516 72 197 39 154 72 141 96" /></Shape>
+	    <String CONTENT="cela à Phocas en 604 &quot;Hoc namque inter reges" HPOS="141.0" VPOS="39.0" WIDTH="1983.0" HEIGHT="189.0" />
           </TextLine>
-          <TextLine ID="eSc_line_a7431204"
-                    TAGREFS="LT80"
-                    BASELINE="154 203 459 261 827 246 2107 207" 
-                    HPOS="125.0"
-                    VPOS="165.0"
-                    WIDTH="1982.0"
-                    HEIGHT="132.0">
-            <Shape><Polygon POINTS="125 239 155 263 233 253 367 283 370 283 373 283 376 283 440 266 443 266 446 266 519 297 522 297 524 297 705 290 881 288 884 288 886 288 889 288 923 274 1219 288 1234 280 1237 280 1288 258 1459 260 1462 260 1523 253 1610 260 1613 260 1616 260 1756 238 1860 238 1891 263 1894 263 1897 263 1900 266 1892 287 1894 296 1922 286 1967 263 1992 244 2029 249 2031 249 2034 249 2107 224 2107 207 2104 165 2083 166 2057 182 2018 191 1998 196 1983 183 1967 176 1945 185 1888 178 1832 178 1815 171 1777 172 1741 174 1711 174 1684 173 1654 176 1638 179 1620 191 1600 200 1580 194 1541 200 1506 212 1480 199 1420 171 1417 171 1414 171 1408 173 1366 193 1287 205 1222 213 1151 228 1132 231 1127 217 1110 212 1075 210 1033 213 932 211 698 204 673 187 670 187 667 187 665 187 662 187 659 187 631 207 524 193 522 193 519 193 485 210 451 193 449 193 446 193 381 207 350 187 348 187 345 187 342 187 164 172 137 206"/></Shape>
-	    <String CONTENT="gentium et reipublicae imperatores distat quod"
-                    HPOS="125.0"
-                    VPOS="165.0"
-                    WIDTH="1982.0"
-                    HEIGHT="132.0"></String>
+          <TextLine ID="eSc_line_a7431204" TAGREFS="LT80" BASELINE="154 203 459 261 827 246 2107 207" HPOS="125.0" VPOS="165.0" WIDTH="1982.0" HEIGHT="132.0">
+            <Shape><Polygon POINTS="125 239 155 263 233 253 367 283 370 283 373 283 376 283 440 266 443 266 446 266 519 297 522 297 524 297 705 290 881 288 884 288 886 288 889 288 923 274 1219 288 1234 280 1237 280 1288 258 1459 260 1462 260 1523 253 1610 260 1613 260 1616 260 1756 238 1860 238 1891 263 1894 263 1897 263 1900 266 1892 287 1894 296 1922 286 1967 263 1992 244 2029 249 2031 249 2034 249 2107 224 2107 207 2104 165 2083 166 2057 182 2018 191 1998 196 1983 183 1967 176 1945 185 1888 178 1832 178 1815 171 1777 172 1741 174 1711 174 1684 173 1654 176 1638 179 1620 191 1600 200 1580 194 1541 200 1506 212 1480 199 1420 171 1417 171 1414 171 1408 173 1366 193 1287 205 1222 213 1151 228 1132 231 1127 217 1110 212 1075 210 1033 213 932 211 698 204 673 187 670 187 667 187 665 187 662 187 659 187 631 207 524 193 522 193 519 193 485 210 451 193 449 193 446 193 381 207 350 187 348 187 345 187 342 187 164 172 137 206" /></Shape>
+	    <String CONTENT="gentium et reipublicae imperatores distat quod" HPOS="125.0" VPOS="165.0" WIDTH="1982.0" HEIGHT="132.0" />
           </TextLine>
-          <TextLine ID="eSc_line_0c2b7b4e"
-                    TAGREFS="LT80"
-                    BASELINE="146 288 273 329 423 346 705 353 2152 286" 
-                    HPOS="128.0"
-                    VPOS="247.0"
-                    WIDTH="2024.0"
-                    HEIGHT="162.0">
-            <Shape><Polygon POINTS="962 375 1285 361 1288 361 1341 345 1355 342 1380 345 1472 336 1542 341 1598 339 1745 335 1774 338 1811 344 1862 322 1973 341 2023 322 2029 319 2152 316 2152 286 2141 255 1976 270 1932 285 1911 293 1888 294 1866 281 1874 250 1770 247 1502 269 1233 297 1171 297 1111 284 1066 294 1055 288 841 291 794 297 781 299 771 308 762 310 740 310 710 318 599 305 526 312 431 300 158 264 128 292 199 376 249 347 335 409 375 376"/></Shape>
-	    <String CONTENT="reges gentium domini servorum Sunt, impe¬"
-                    HPOS="128.0"
-                    VPOS="247.0"
-                    WIDTH="2024.0"
-                    HEIGHT="162.0"></String>
+          <TextLine ID="eSc_line_0c2b7b4e" TAGREFS="LT80" BASELINE="146 288 273 329 423 346 705 353 2152 286" HPOS="128.0" VPOS="247.0" WIDTH="2024.0" HEIGHT="162.0">
+            <Shape><Polygon POINTS="962 375 1285 361 1288 361 1341 345 1355 342 1380 345 1472 336 1542 341 1598 339 1745 335 1774 338 1811 344 1862 322 1973 341 2023 322 2029 319 2152 316 2152 286 2141 255 1976 270 1932 285 1911 293 1888 294 1866 281 1874 250 1770 247 1502 269 1233 297 1171 297 1111 284 1066 294 1055 288 841 291 794 297 781 299 771 308 762 310 740 310 710 318 599 305 526 312 431 300 158 264 128 292 199 376 249 347 335 409 375 376" /></Shape>
+	    <String CONTENT="reges gentium domini servorum Sunt, impe¬" HPOS="128.0" VPOS="247.0" WIDTH="2024.0" HEIGHT="162.0" />
           </TextLine>
-          <TextLine ID="eSc_line_2599fee4"
-                    TAGREFS="LT80"
-                    BASELINE="150 381 407 432 644 439 840 433 2054 367" 
-                    HPOS="133.0"
-                    VPOS="331.0"
-                    WIDTH="1921.0"
-                    HEIGHT="154.0">
-            <Shape><Polygon POINTS="342 454 446 464 634 468 777 485 780 485 923 479 926 479 928 479 928 476 951 460 993 468 996 468 999 468 1001 468 1029 448 1091 468 1094 468 1097 468 1254 451 1305 465 1307 465 1310 465 1537 423 1599 440 1602 440 1605 440 1608 440 1667 420 1689 431 1692 431 1695 431 1697 431 1700 431 1723 415 1734 406 2054 406 2054 367 2045 341 1990 348 1947 348 1896 346 1863 344 1831 342 1817 346 1796 356 1782 357 1753 352 1695 331 1669 354 1641 342 1595 361 1558 344 1504 371 1471 343 1440 349 1380 376 1330 366 1311 361 1260 369 1232 373 1038 375 991 379 949 374 914 386 359 398 334 410 324 402 309 396 279 383 265 360 250 360 211 380 188 373 172 347 144 355 133 378 148 407"/></Shape>
-	    <String CONTENT="ratores vero reipublicae domini liberorum&quot;"
-                    HPOS="133.0"
-                    VPOS="331.0"
-                    WIDTH="1921.0"
-                    HEIGHT="154.0"></String>
+          <TextLine ID="eSc_line_2599fee4" TAGREFS="LT80" BASELINE="150 381 407 432 644 439 840 433 2054 367" HPOS="133.0" VPOS="331.0" WIDTH="1921.0" HEIGHT="154.0">
+            <Shape><Polygon POINTS="342 454 446 464 634 468 777 485 780 485 923 479 926 479 928 479 928 476 951 460 993 468 996 468 999 468 1001 468 1029 448 1091 468 1094 468 1097 468 1254 451 1305 465 1307 465 1310 465 1537 423 1599 440 1602 440 1605 440 1608 440 1667 420 1689 431 1692 431 1695 431 1697 431 1700 431 1723 415 1734 406 2054 406 2054 367 2045 341 1990 348 1947 348 1896 346 1863 344 1831 342 1817 346 1796 356 1782 357 1753 352 1695 331 1669 354 1641 342 1595 361 1558 344 1504 371 1471 343 1440 349 1380 376 1330 366 1311 361 1260 369 1232 373 1038 375 991 379 949 374 914 386 359 398 334 410 324 402 309 396 279 383 265 360 250 360 211 380 188 373 172 347 144 355 133 378 148 407" /></Shape>
+	    <String CONTENT="ratores vero reipublicae domini liberorum&quot;" HPOS="133.0" VPOS="331.0" WIDTH="1921.0" HEIGHT="154.0" />
           </TextLine>
-          <TextLine ID="eSc_line_320416b8"
-                    TAGREFS="LT80"
-                    BASELINE="135 468 386 521 662 557" 
-                    HPOS="122.0"
-                    VPOS="419.0"
-                    WIDTH="558.0"
-                    HEIGHT="196.0">
-            <Shape><Polygon POINTS="142 541 185 549 297 552 367 566 395 589 415 605 418 605 420 605 533 615 680 561 680 513 672 503 648 476 632 481 622 489 611 492 599 494 584 496 575 501 551 498 507 499 498 482 468 477 430 472 415 472 376 460 355 460 339 476 277 441 266 431 263 431 261 431 153 419 122 468"/></Shape>
-	    <String CONTENT="(Jaffé, 1899)."
-                    HPOS="122.0"
-                    VPOS="419.0"
-                    WIDTH="558.0"
-                    HEIGHT="196.0"></String>
+          <TextLine ID="eSc_line_320416b8" TAGREFS="LT80" BASELINE="135 468 386 521 662 557" HPOS="122.0" VPOS="419.0" WIDTH="558.0" HEIGHT="196.0">
+            <Shape><Polygon POINTS="142 541 185 549 297 552 367 566 395 589 415 605 418 605 420 605 533 615 680 561 680 513 672 503 648 476 632 481 622 489 611 492 599 494 584 496 575 501 551 498 507 499 498 482 468 477 430 472 415 472 376 460 355 460 339 476 277 441 266 431 263 431 261 431 153 419 122 468" /></Shape>
+	    <String CONTENT="(Jaffé, 1899)." HPOS="122.0" VPOS="419.0" WIDTH="558.0" HEIGHT="196.0" />
           </TextLine>
         </TextBlock>
       </PrintSpace>
