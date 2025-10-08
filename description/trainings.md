@@ -11,7 +11,7 @@ Exemple de page:
 | Pirenne_0 |    |    | 420 | ----- |  |  | Image |
 | **Pirenne420** | -r 0.0002 --lag 10 --min-delta 0.001 --workers 8  |    | 420 | Manu McFondue |  |  | Image |
 | **Pirenne_et_autres** |  -r 0.0002 --lag 10 --min-delta 0.001 --workers 8  |    | 833 | ------ |  |  | Image |
-| **AdHoc** | ketos train -t data_autres/train.txt -e data_autres/val.txt -f alto -r 0.0003 --lag 20 --min-delta 0.001 --workers 8 -B 8 --precision 16 -d |    | 413 | ----- |  |  | Image |
+| **AdHoc** | -r 0.0003 --lag 20 --min-delta 0.001 --workers 8 -B 8 --precision 16 -d |    | 413 | ----- |  |  | Image |
 | Pirenne420adhoc |    |    | 420 | Modèle ad hoc |  |  | Image |
 
 
