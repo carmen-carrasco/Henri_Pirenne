@@ -21,6 +21,28 @@
                   VPOS="0"
                   WIDTH="3978"
                   HEIGHT="5058">
+        <TextBlock HPOS="3408"
+                   VPOS="38"
+                   WIDTH="491"
+                   HEIGHT="352"
+                   ID="0731c659-81b2-4c57-8661-2b9a98effa6c"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="3899 123 3823 352 3624 315 3423 390 3408 212 3506 38"/></Shape>
+          <TextLine ID="eSc_line_24ce0d94"
+                    TAGREFS="LT20"
+                    BASELINE="3444 192 3850 255" 
+                    HPOS="3410"
+                    VPOS="105"
+                    WIDTH="437"
+                    HEIGHT="294">
+            <Shape><Polygon POINTS="3800 113 3754 105 3712 105 3670 105 3627 105 3585 105 3543 105 3501 105 3459 105 3410 237 3413 399 3451 389 3549 307 3693 318 3754 295 3758 295 3762 295 3843 257 3847 252 3842 171 3843 122 3819 121"/></Shape>
+	    <String CONTENT="174"
+                    HPOS="3410"
+                    VPOS="105"
+                    WIDTH="437"
+                    HEIGHT="294"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="10"
                    VPOS="3"
                    WIDTH="2971"
@@ -688,20 +710,6 @@
                     WIDTH="1982"
                     HEIGHT="216"></String>
           </TextLine>
-          <TextLine ID="eSc_line_c05df710"
-                    TAGREFS="LT20"
-                    BASELINE="2092 3013 2859 3011" 
-                    HPOS="2077"
-                    VPOS="2931"
-                    WIDTH="799"
-                    HEIGHT="147">
-            <Shape><Polygon POINTS="2149 2931 2231 2948 2323 2957 2411 2939 2513 2937 2540 2952 2618 2933 2695 2948 2834 2937 2876 3022 2843 3040 2763 3078 2720 3041 2662 3044 2617 3036 2534 3048 2500 3049 2400 3039 2337 3038 2282 3034 2235 3034 2163 3036 2089 3034 2077 3020 2090 2954"/></Shape>
-	    <String CONTENT="Enterré à S. Denys."
-                    HPOS="2077"
-                    VPOS="2931"
-                    WIDTH="799"
-                    HEIGHT="147"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="2142"
                    VPOS="128"
@@ -710,20 +718,6 @@
                    ID="fb83e9d2-4b29-4103-8e03-635b7953ec3e"
                    TAGREFS="BT33">
           <Shape><Polygon POINTS="3300 128 3410 276 3359 384 3418 399 3510 384 3689 360 3873 925 3612 1187 2313 1280 2155 1077 2142 960 2155 792 2271 585 2173 403 2189 177"/></Shape>
-          <TextLine ID="eSc_line_24ce0d94"
-                    TAGREFS="LT20"
-                    BASELINE="3444 192 3850 255" 
-                    HPOS="3410"
-                    VPOS="105"
-                    WIDTH="437"
-                    HEIGHT="294">
-            <Shape><Polygon POINTS="3800 113 3754 105 3712 105 3670 105 3627 105 3585 105 3543 105 3501 105 3459 105 3410 237 3413 399 3451 389 3549 307 3693 318 3754 295 3758 295 3762 295 3843 257 3847 252 3842 171 3843 122 3819 121"/></Shape>
-	    <String CONTENT="174"
-                    HPOS="3410"
-                    VPOS="105"
-                    WIDTH="437"
-                    HEIGHT="294"></String>
-          </TextLine>
           <TextLine ID="eSc_line_88b555e3"
                     TAGREFS="LT20"
                     BASELINE="2198 247 2402 262 3345 198" 
@@ -866,14 +860,6 @@
                     HEIGHT="153"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3408"
-                   VPOS="38"
-                   WIDTH="491"
-                   HEIGHT="352"
-                   ID="0731c659-81b2-4c57-8661-2b9a98effa6c"
-                   TAGREFS="BT34">
-          <Shape><Polygon POINTS="3899 123 3823 352 3624 315 3423 390 3408 212 3506 38"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="2091"
                    VPOS="2928"
                    WIDTH="796"
@@ -881,6 +867,20 @@
                    ID="eSc_textblock_8aac4515"
                    TAGREFS="BT33">
           <Shape><Polygon POINTS="2853 2955 2887 3032 2775 3082 2672 3043 2091 3046 2099 2938 2624 2928 2626 2929"/></Shape>
+          <TextLine ID="eSc_line_c05df710"
+                    TAGREFS="LT20"
+                    BASELINE="2092 3013 2859 3011" 
+                    HPOS="2077"
+                    VPOS="2931"
+                    WIDTH="799"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="2149 2931 2231 2948 2323 2957 2411 2939 2513 2937 2540 2952 2618 2933 2695 2948 2834 2937 2876 3022 2843 3040 2763 3078 2720 3041 2662 3044 2617 3036 2534 3048 2500 3049 2400 3039 2337 3038 2282 3034 2235 3034 2163 3036 2089 3034 2077 3020 2090 2954"/></Shape>
+	    <String CONTENT="Enterré à S. Denys."
+                    HPOS="2077"
+                    VPOS="2931"
+                    WIDTH="799"
+                    HEIGHT="147"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
