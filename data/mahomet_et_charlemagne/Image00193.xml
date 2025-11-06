@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Image00193.tif</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT32" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT33" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT34" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT81" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT20" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT21" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT22" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT23" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT59" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3978"
+          HEIGHT="5058"
+          PHYSICAL_IMG_NR="192"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3978"
+                  HEIGHT="5058">
+        <TextBlock HPOS="3453"
+                   VPOS="109"
+                   WIDTH="487"
+                   HEIGHT="384"
+                   ID="cab8a27f-8851-4c67-8998-3ede5f165e44"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="3940 109 3940 426 3753 493 3457 384 3453 109"/></Shape>
+          <TextLine ID="eSc_line_48d3033e"
+                    TAGREFS="LT20"
+                    BASELINE="3519 211 3899 331" 
+                    HPOS="3463"
+                    VPOS="109"
+                    WIDTH="486"
+                    HEIGHT="384">
+            <Shape><Polygon POINTS="3767 109 3737 109 3695 109 3653 109 3634 120 3587 133 3555 137 3505 192 3471 290 3463 362 3546 383 3585 391 3695 484 3699 484 3703 484 3800 493 3805 493 3809 493 3885 459 3949 242 3906 160 3834 155 3826 147 3775 109 3771 109"/></Shape>
+	    <String CONTENT="189"
+                    HPOS="3463"
+                    VPOS="109"
+                    WIDTH="486"
+                    HEIGHT="384"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="73"
+                   VPOS="24"
+                   WIDTH="2098"
+                   HEIGHT="468"
+                   ID="c788eb43-518d-4cb1-ae30-eec2a40c467e"
+                   TAGREFS="BT32">
+          <Shape><Polygon POINTS="2171 63 2119 417 2005 414 1712 407 1255 395 1234 492 73 486 73 24 328 66 644 102 690 65 852 94 891 44 955 44 1017 80 1205 75"/></Shape>
+          <TextLine ID="eSc_line_7c1abe1f"
+                    TAGREFS="LT20"
+                    BASELINE="128 107 336 136 865 149 2125 145" 
+                    HPOS="105"
+                    VPOS="46"
+                    WIDTH="2042"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="110 135 313 172 346 167 481 170 480 222 485 227 515 213 553 173 839 172 1017 179 1121 169 1232 179 1410 162 1422 193 1448 195 1491 162 1534 173 1894 176 2136 171 2147 131 2119 82 2031 71 2001 99 1933 86 1824 85 1735 88 1658 87 1593 74 1563 80 1512 89 1497 83 1427 78 1372 83 1320 81 1265 81 1203 85 1173 75 1126 94 1068 87 1033 94 967 61 938 46 903 55 862 81 801 83 747 75 695 72 663 76 642 110 594 107 523 100 448 98 349 86 302 83 252 65 191 46 159 50 116 68 105 101"/></Shape>
+	    <String CONTENT="Ses conquêtes. Puis il part pour la cour de"
+                    HPOS="105"
+                    VPOS="46"
+                    WIDTH="2042"
+                    HEIGHT="181"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5f794d5c"
+                    TAGREFS="LT20"
+                    BASELINE="120 201 213 227 1703 251 1898 249 1912 249 1970 240 2135 236" 
+                    HPOS="83"
+                    VPOS="140"
+                    WIDTH="2076"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1070 293 1085 189 840 172 546 184 513 216 481 234 469 179 431 180 244 172 129 140 83 217 186 273 590 261 973 255 1061 263 1088 306 1394 269 1642 263 1961 283 2159 247 2127 163 1930 193 1491 162 1428 204 1404 167 1143 188 1108 237 1108 274 1085 301"/></Shape>
+	    <String CONTENT="Pepin où il arrive en 754. L&#x27;inévitable s&#x27;est"
+                    HPOS="83"
+                    VPOS="140"
+                    WIDTH="2076"
+                    HEIGHT="166"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_31f4d550"
+                    TAGREFS="LT20"
+                    BASELINE="112 289 210 316 2079 334" 
+                    HPOS="85"
+                    VPOS="256"
+                    WIDTH="2051"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="168 275 103 263 85 309 159 342 382 372 551 349 902 353 1028 363 1081 363 1123 370 1164 370 1216 360 1249 376 1273 372 1307 378 2071 373 2136 321 2079 272 1932 293 1835 276 1738 293 1700 276 1643 262 1523 298 1409 270 1311 293 1164 291 1101 311 1070 305 1058 275 959 256 616 263"/></Shape>
+	    <String CONTENT="accompli. La tradition coupée par Pepin l&#x27;est"
+                    HPOS="85"
+                    VPOS="256"
+                    WIDTH="2051"
+                    HEIGHT="122"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c62083b7"
+                    TAGREFS="LT20"
+                    BASELINE="119 408 1203 418" 
+                    HPOS="92"
+                    VPOS="330"
+                    WIDTH="1125"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="127 330 92 379 102 454 148 465 171 463 208 453 230 447 282 457 309 459 343 459 377 469 425 469 442 467 488 456 545 467 571 465 586 467 601 463 636 470 678 467 702 469 743 458 822 456 835 453 881 475 923 480 976 468 1011 468 1059 472 1119 472 1162 463 1194 463 1217 419 1153 381 886 356 542 366 379 385"/></Shape>
+	    <String CONTENT="3 ans après par le pape."
+                    HPOS="92"
+                    VPOS="330"
+                    WIDTH="1125"
+                    HEIGHT="150"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2165"
+                   VPOS="105"
+                   WIDTH="539"
+                   HEIGHT="227"
+                   ID="eSc_textblock_272b1002"
+                   TAGREFS="BT33">
+          <Shape><Polygon POINTS="2165 324 2206 131 2704 105 2683 283 2318 332"/></Shape>
+          <TextLine ID="eSc_line_bdc56d57"
+                    TAGREFS="LT20"
+                    BASELINE="2207 235 2653 210" 
+                    HPOS="2178"
+                    VPOS="158"
+                    WIDTH="471"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="2178 231 2182 288 2243 297 2273 331 2315 320 2347 284 2417 278 2646 244 2649 206 2615 159 2382 158 2314 162 2290 165 2254 162 2220 167 2195 204"/></Shape>
+	    <String CONTENT="1 janvier"
+                    HPOS="2178"
+                    VPOS="158"
+                    WIDTH="471"
+                    HEIGHT="173"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
