@@ -486,6 +486,7 @@
                     HEIGHT="202"></String>
           </TextLine>
           <TextLine ID="eSc_line_84c23384"
+                    TAGREFS="LT20"
                     BASELINE="54 3225 169 3278 337 3306" 
                     HPOS="41"
                     VPOS="3171"
