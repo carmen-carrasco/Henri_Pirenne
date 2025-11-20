@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Image00203.tif</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT32" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT33" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT34" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT81" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT20" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT21" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT22" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT23" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT59" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3978"
+          HEIGHT="5058"
+          PHYSICAL_IMG_NR="202"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3978"
+                  HEIGHT="5058">
+        <TextBlock HPOS="3480"
+                   VPOS="62"
+                   WIDTH="409"
+                   HEIGHT="330"
+                   ID="980d84b7-d2b2-4807-80b4-1ebc710d0880"
+                   TAGREFS="BT34">
+          <Shape><Polygon POINTS="3889 85 3861 386 3480 392 3548 62"/></Shape>
+          <TextLine ID="eSc_line_fd15bb98"
+                    TAGREFS="LT20"
+                    BASELINE="3566 188 3710 239 3881 259" 
+                    HPOS="3522"
+                    VPOS="92"
+                    WIDTH="358"
+                    HEIGHT="333">
+            <Shape><Polygon POINTS="3796 92 3792 92 3788 92 3783 92 3598 113 3551 214 3522 362 3838 425 3872 278 3880 231 3876 160"/></Shape>
+	    <String CONTENT="199"
+                    HPOS="3522"
+                    VPOS="92"
+                    WIDTH="358"
+                    HEIGHT="333"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="9"
+                   VPOS="23"
+                   WIDTH="2170"
+                   HEIGHT="1559"
+                   ID="10d56877-4c50-4f46-8e1a-2867ad390fd0"
+                   TAGREFS="BT32">
+          <Shape><Polygon POINTS="109 23 1920 23 1978 23 2136 165 2093 387 2179 917 2143 1389 588 1463 475 1582 17 1542 9 1113 40 900 21 629 21 627 17 114"/></Shape>
+          <TextLine ID="eSc_line_eb447f1d"
+                    TAGREFS="LT20"
+                    BASELINE="61 102 278 100 333 107 2018 81" 
+                    HPOS="21"
+                    VPOS="31"
+                    WIDTH="2015"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1525 38 1476 36 1430 39 1361 43 1309 47 1279 40 1257 37 1198 32 1098 40 1070 31 1035 42 982 33 961 45 936 45 898 42 100 34 21 135 243 135 296 160 401 138 688 163 738 146 2016 111 2036 45 1668 40 1581 33"/></Shape>
+	    <String CONTENT="last phase of ancient mediterranean"
+                    HPOS="21"
+                    VPOS="31"
+                    WIDTH="2015"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_296691f8"
+                    TAGREFS="LT20"
+                    BASELINE="54 198 137 212 428 208 2109 183" 
+                    HPOS="40"
+                    VPOS="109"
+                    WIDTH="2088"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="40 249 955 245 2128 211 2100 109 685 159 50 139"/></Shape>
+	    <String CONTENT="civilisation - the age of the christian Empire"
+                    HPOS="40"
+                    VPOS="109"
+                    WIDTH="2088"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3e0c32ff"
+                    TAGREFS="LT20"
+                    BASELINE="56 307 211 325 298 300 366 313 499 299 1879 282" 
+                    HPOS="43"
+                    VPOS="225"
+                    WIDTH="1852"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="56 346 134 333 289 355 502 342 585 376 693 334 834 345 882 355 943 340 985 343 1031 360 1079 324 1425 337 1555 324 1720 342 1895 293 1850 226 1293 225 1136 244 942 269 859 235 678 234 493 243 304 244 241 265 181 256 121 262 50 272 43 316"/></Shape>
+	    <String CONTENT="and the  beginnings of the Middle Ages."
+                    HPOS="43"
+                    VPOS="225"
+                    WIDTH="1852"
+                    HEIGHT="151"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_00f95f42"
+                    TAGREFS="LT20"
+                    BASELINE="68 402 301 424 811 415 1143 409 2052 392" 
+                    HPOS="54"
+                    VPOS="329"
+                    WIDTH="2013"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="62 445 117 453 220 457 371 451 506 454 612 446 752 450 846 429 897 428 893 482 897 496 1001 455 1081 456 1181 488 1282 441 1324 438 1491 435 1817 430 1958 416 2061 426 2067 379 2040 329 1726 354 1152 343 1042 371 881 358 584 376 498 349 324 354 132 333 78 360 54 408"/></Shape>
+	    <String CONTENT="Et c&#x27;est ici aussi que le germanisme com¬"
+                    HPOS="54"
+                    VPOS="329"
+                    WIDTH="2013"
+                    HEIGHT="167"
+                    WC="0.9992823091948905"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e9e66df"
+                    TAGREFS="LT20"
+                    BASELINE="40 497 176 524 552 518 709 516 1067 510 1352 506 1659 506 2044 503" 
+                    HPOS="6"
+                    VPOS="421"
+                    WIDTH="2071"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="890 429 48 465 6 550 549 553 816 545 941 572 1189 583 1665 530 2077 528 2070 484 1951 421 1298 448 1176 488 951 481 897 496 894 473"/></Shape>
+	    <String CONTENT="mence son rôle. Il y a eu jusqu&#x27;ici continu¬"
+                    HPOS="6"
+                    VPOS="421"
+                    WIDTH="2071"
+                    HEIGHT="162"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d3dc278e"
+                    TAGREFS="LT20"
+                    BASELINE="48 598 239 624 650 619 1968 603 2082 609" 
+                    HPOS="2"
+                    VPOS="534"
+                    WIDTH="2131"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="2 555 42 659 1465 648 1783 680 2133 631 2115 534 1579 539 1198 586 932 566 803 547"/></Shape>
+	    <String CONTENT="ation de la tradition romaine. Il va y Avoir"
+                    HPOS="2"
+                    VPOS="534"
+                    WIDTH="2131"
+                    HEIGHT="146"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0463696a"
+                    TAGREFS="LT20"
+                    BASELINE="44 703 152 725 1392 729 2005 731" 
+                    HPOS="33"
+                    VPOS="653"
+                    WIDTH="2001"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="33 750 712 772 900 749 1138 763 2034 762 2023 679 1765 695 1464 653 272 668 38 657"/></Shape>
+	    <String CONTENT="maintenant une civilisation romano-"
+                    HPOS="33"
+                    VPOS="653"
+                    WIDTH="2001"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0af14501"
+                    TAGREFS="LT20"
+                    BASELINE="52 811 355 836 434 831 1236 824" 
+                    HPOS="17"
+                    VPOS="748"
+                    WIDTH="1257"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="17 848 52 878 234 870 483 899 531 885 796 876 890 901 968 866 1111 869 1274 838 1261 774 916 753 741 783 483 771 50 748"/></Shape>
+	    <String CONTENT="germanique originale."
+                    HPOS="17"
+                    VPOS="748"
+                    WIDTH="1257"
+                    HEIGHT="153"
+                    WC="0.9992472841626122"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0805d13a"
+                    TAGREFS="LT20"
+                    BASELINE="78 936 177 963 652 962 1054 947 2122 908 2162 920" 
+                    HPOS="62"
+                    VPOS="834"
+                    WIDTH="2116"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="62 976 375 1024 663 1001 1113 977 1308 966 1653 969 1700 956 1750 958 1802 946 1881 944 2166 948 2178 893 2164 843 2039 834 1970 855 1856 855 1763 845 1704 872 1598 859 1543 834 1531 834 1446 864 1375 876 1269 864 1166 868 912 893 852 914 707 897 497 913 287 871 217 887 136 868 71 914"/></Shape>
+	    <String CONTENT="L&#x27;Empire Carol. ou plutôt l Empire de Char¬"
+                    HPOS="62"
+                    VPOS="834"
+                    WIDTH="2116"
+                    HEIGHT="190"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_beab88c3"
+                    TAGREFS="LT20"
+                    BASELINE="63 1050 135 1066 360 1074 590 1063 1726 1020 1788 999 1871 1012 2063 1003" 
+                    HPOS="26"
+                    VPOS="949"
+                    WIDTH="2067"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="93 995 26 1077 96 1106 266 1099 322 1131 547 1100 1340 1077 1379 1097 1504 1066 1567 1082 1590 1089 1639 1067 1696 1067 1733 1061 1830 1055 1890 1057 2093 1017 2054 949 1916 950 1819 951 1728 979 1300 971 638 1008 366 1035"/></Shape>
+	    <String CONTENT="lemagne est le cadre du Moyen Age. L&#x27;Etat"
+                    HPOS="26"
+                    VPOS="949"
+                    WIDTH="2067"
+                    HEIGHT="182"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6b4da3e5"
+                    TAGREFS="LT20"
+                    BASELINE="47 1152 147 1177 206 1170 322 1183 850 1147 1091 1144 1292 1141 2142 1109" 
+                    HPOS="29"
+                    VPOS="1029"
+                    WIDTH="2155"
+                    HEIGHT="207">
+            <Shape><Polygon POINTS="241 1107 29 1120 34 1205 281 1236 645 1199 943 1176 1263 1174 1681 1153 1866 1163 2119 1149 2184 1102 2068 1029 1805 1071 1620 1092 1500 1077 1378 1103 1327 1083 533 1105 316 1152"/></Shape>
+	    <String CONTENT="sur lequel il est bâsé est extrêmement faible"
+                    HPOS="29"
+                    VPOS="1029"
+                    WIDTH="2155"
+                    HEIGHT="207"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0bb8573f"
+                    TAGREFS="LT20"
+                    BASELINE="42 1262 196 1296 624 1283 692 1262 1209 1245 1304 1242 1334 1241 1431 1226 1528 1225 1587 1217 1668 1221 1740 1206 1877 1212 1927 1203 2103 1211" 
+                    HPOS="25"
+                    VPOS="1153"
+                    WIDTH="2113"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="63 1217 25 1270 45 1322 175 1338 485 1315 594 1315 617 1309 652 1309 691 1310 696 1310 700 1310 739 1296 779 1290 878 1306 1125 1301 1191 1281 1516 1255 2083 1251 2088 1251 2092 1251 2096 1251 2138 1218 2109 1166 2020 1153 1869 1173 1717 1156 440 1220 255 1244"/></Shape>
+	    <String CONTENT="et croulera. Mais l&#x27;Empire subsistera com¬"
+                    HPOS="25"
+                    VPOS="1153"
+                    WIDTH="2113"
+                    HEIGHT="185"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f64fabdf"
+                    TAGREFS="LT20"
+                    BASELINE="33 1361 96 1385 162 1399 222 1396 349 1397 451 1380 1574 1338 2121 1317" 
+                    HPOS="12"
+                    VPOS="1262"
+                    WIDTH="2127"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="597 1332 464 1320 179 1348 27 1323 12 1390 184 1459 247 1436 307 1454 362 1432 396 1447 504 1449 582 1427 703 1436 770 1433 826 1416 839 1407 923 1412 1012 1409 1039 1410 1091 1407 1114 1404 1154 1406 1189 1403 1245 1402 1292 1413 1341 1400 1417 1399 1502 1390 1541 1387 1617 1385 1670 1390 1728 1369 1756 1380 1813 1381 1864 1382 1894 1365 1944 1356 1964 1356 2001 1365 2040 1366 2067 1377 2094 1366 2122 1355 2139 1326 2118 1262 1522 1264 1196 1312 875 1319 769 1297"/></Shape>
+	    <String CONTENT="me unité supérieure de la chrétienté occi¬"
+                    HPOS="12"
+                    VPOS="1262"
+                    WIDTH="2127"
+                    HEIGHT="197"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5da1e26a"
+                    TAGREFS="LT20"
+                    BASELINE="56 1482 124 1513 202 1521 245 1509 355 1505 460 1512" 
+                    HPOS="23"
+                    VPOS="1412"
+                    WIDTH="464"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="83 1541 122 1554 160 1550 480 1534 487 1525 475 1483 420 1457 386 1450 361 1433 311 1463 276 1456 239 1447 224 1456 183 1484 158 1472 140 1460 77 1421 32 1412 23 1420 23 1461 49 1515"/></Shape>
+	    <String CONTENT="dentale."
+                    HPOS="23"
+                    VPOS="1412"
+                    WIDTH="464"
+                    HEIGHT="142"
+                    WC="0.9996029809117317"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
