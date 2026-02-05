@@ -109,6 +109,7 @@
                     HEIGHT="116"></String>
           </TextLine>
           <TextLine ID="eSc_line_dfd5be53"
+                    TAGREFS="LT64"
                     BASELINE="434 350 498 344 760 344 1164 355" 
                     HPOS="431"
                     VPOS="293"
@@ -122,6 +123,7 @@
                     HEIGHT="92"></String>
           </TextLine>
           <TextLine ID="eSc_line_ce06a963"
+                    TAGREFS="LT64"
                     BASELINE="434 397 528 417 1046 419 1931 443" 
                     HPOS="421"
                     VPOS="359"

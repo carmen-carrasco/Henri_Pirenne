@@ -52,17 +52,18 @@
                    TAGREFS="BT118">
           <Shape><Polygon POINTS="422 167 385 2570 1979 2591 1974 167"/></Shape>
           <TextLine ID="eSc_line_1740d38c"
+                    TAGREFS="LT64"
                     BASELINE="533 277 1900 272" 
-                    HPOS="529.0"
-                    VPOS="159.0"
-                    WIDTH="1378.0"
-                    HEIGHT="165.0">
+                    HPOS="529"
+                    VPOS="159"
+                    WIDTH="1378"
+                    HEIGHT="165">
             <Shape><Polygon POINTS="531 299 1096 294 1126 321 1126 324 1827 321 1898 289 1907 159 1802 199 1529 212 1499 182 1499 179 1248 179 1205 215 1096 182 1085 182 1060 204 1025 190 1017 190 957 218 889 218 848 182 766 182 717 218 676 218 643 185 643 182 632 182 529 218 531 275"/></Shape>
 	    <String CONTENT="Mahomet et Charlemagne (1)."
-                    HPOS="529.0"
-                    VPOS="159.0"
-                    WIDTH="1378.0"
-                    HEIGHT="165.0"></String>
+                    HPOS="529"
+                    VPOS="159"
+                    WIDTH="1378"
+                    HEIGHT="165"></String>
           </TextLine>
           <TextLine ID="eSc_line_24ee38e0"
                     TAGREFS="LT67"
