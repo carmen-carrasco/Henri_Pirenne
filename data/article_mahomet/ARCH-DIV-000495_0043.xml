@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ARCH-DIV-000495_0043.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT117" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT118" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT119" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT120" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT64" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT65" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT66" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT67" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1800"
+          HEIGHT="2540"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1800"
+                  HEIGHT="2540">
+        <TextBlock HPOS="1665.0"
+                   VPOS="8.0"
+                   WIDTH="117.0"
+                   HEIGHT="66.0"
+                   ID="eSc_textblock_2316707e"
+                   TAGREFS="BT120">
+          <Shape><Polygon POINTS="1665 8 1665 74 1782 74 1782 8"/></Shape>
+          <TextLine ID="eSc_line_e6962b6f"
+                    TAGREFS="LT64"
+                    BASELINE="1658 50 1759 42" 
+                    HPOS="1651.0"
+                    VPOS="2.0"
+                    WIDTH="106.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="1736 8 1715 8 1694 8 1672 8 1651 2 1656 48 1656 76 1757 91 1757 40 1751 8 1736 8"/></Shape>
+	    <String CONTENT="13"
+                    HPOS="1651.0"
+                    VPOS="2.0"
+                    WIDTH="106.0"
+                    HEIGHT="89.0"
+                    WC="0.9999850988388062"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="204.0"
+                   VPOS="13.0"
+                   WIDTH="1592.0"
+                   HEIGHT="966.0"
+                   ID="eSc_textblock_a3c10db7"
+                   TAGREFS="BT118">
+          <Shape><Polygon POINTS="204 13 204 979 1762 969 1796 117 1663 79 1608 13"/></Shape>
+          <TextLine ID="eSc_line_014b65a1"
+                    TAGREFS="LT64"
+                    BASELINE="220 71 1632 48" 
+                    HPOS="218.0"
+                    VPOS="14.0"
+                    WIDTH="1412.0"
+                    HEIGHT="85.0">
+            <Shape><Polygon POINTS="1613 23 1594 14 1334 14 1323 19 1308 14 1211 14 1158 21 1141 21 1132 14 1031 14 976 27 813 27 792 14 707 14 633 29 614 14 595 14 531 31 465 19 415 33 387 16 260 19 241 35 218 29 218 84 313 84 338 95 345 95 376 82 474 99 567 84 637 88 650 78 728 95 861 80 988 91 1029 71 1215 82 1245 67 1279 78 1312 74 1338 67 1359 84 1368 84 1406 69 1497 82 1524 69 1628 69 1630 46 1613 23"/></Shape>
+	    <String CONTENT="l&#x27;Europe du Moyen-âge. Mais la mission"
+                    HPOS="218.0"
+                    VPOS="14.0"
+                    WIDTH="1412.0"
+                    HEIGHT="85.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_878d322c"
+                    TAGREFS="LT64"
+                    BASELINE="239 135 1761 114" 
+                    HPOS="235.0"
+                    VPOS="74.0"
+                    WIDTH="1524.0"
+                    HEIGHT="88.0">
+            <Shape><Polygon POINTS="1738 101 1675 82 1664 76 1615 74 1609 74 1592 84 1520 76 1423 86 1177 80 1103 91 1073 82 993 95 235 97 237 162 381 158 391 148 487 158 542 146 639 156 694 143 796 154 834 143 1096 150 1109 137 1260 137 1298 148 1486 133 1603 143 1636 131 1755 141 1759 112 1757 107 1738 101"/></Shape>
+	    <String CONTENT="qu a remplie a eu pour condition essentielle le"
+                    HPOS="235.0"
+                    VPOS="74.0"
+                    WIDTH="1524.0"
+                    HEIGHT="88.0"
+                    WC="0.9755522925026563"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8fa6c4fa"
+                    TAGREFS="LT64"
+                    BASELINE="226 194 1772 182" 
+                    HPOS="222.0"
+                    VPOS="143.0"
+                    WIDTH="1548.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="224 192 224 215 1770 201 1770 179 1766 143 1306 143 1304 143 1274 150 1249 154 1166 150 1052 146 1050 146 1012 152 991 156 923 154 760 148 758 148 756 148 739 156 734 158 688 158 491 150 489 150 427 160 425 160 421 160 275 152 273 152 222 162 224 192"/></Shape>
+	    <String CONTENT="renversement de l&#x27;ordre traditionnel du monde"
+                    HPOS="222.0"
+                    VPOS="143.0"
+                    WIDTH="1548.0"
+                    HEIGHT="72.0"
+                    WC="0.9982831898060712"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_93fff011"
+                    TAGREFS="LT64"
+                    BASELINE="224 256 1764 247" 
+                    HPOS="220.0"
+                    VPOS="205.0"
+                    WIDTH="1544.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="222 254 222 277 376 277 440 294 561 294 654 275 669 285 749 275 800 289 802 292 991 292 991 289 1181 273 1304 273 1370 287 1380 277 1526 285 1548 268 1764 266 1761 215 1742 205 1653 218 1624 205 1522 205 1459 218 1376 205 1272 220 1149 207 1101 220 952 209 936 224 806 224 772 209 764 209 747 224 565 224 499 211 478 226 357 226 336 211 235 211 220 220 222 254"/></Shape>
+	    <String CONTENT="Rien ne l&#x27;y aurait appelé si l&#x27;évolution histori¬"
+                    HPOS="220.0"
+                    VPOS="205.0"
+                    WIDTH="1544.0"
+                    HEIGHT="89.0"
+                    WC="0.9913705198132262"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_53f52f36"
+                    TAGREFS="LT64"
+                    BASELINE="239 319 1740 319" 
+                    HPOS="237.0"
+                    VPOS="273.0"
+                    WIDTH="1501.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="237 317 237 351 425 340 618 351 637 338 658 351 762 340 1075 349 1105 338 1736 347 1738 292 1630 292 1630 289 1596 275 1560 287 1531 277 1480 289 1423 279 1395 289 1395 292 1158 292 1128 273 1046 289 929 289 887 273 775 285 749 273 635 283 491 273 455 289 237 289 237 317"/></Shape>
+	    <String CONTENT="que n&#x27;avait été détournée de son cours et, pour"
+                    HPOS="237.0"
+                    VPOS="273.0"
+                    WIDTH="1501.0"
+                    HEIGHT="78.0"
+                    WC="0.980696791029991"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d04b9e27"
+                    TAGREFS="LT64"
+                    BASELINE="232 389 1558 381 1770 387" 
+                    HPOS="228.0"
+                    VPOS="338.0"
+                    WIDTH="1540.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="230 387 230 416 540 404 605 414 618 414 645 404 677 414 955 402 995 414 1234 414 1262 400 1766 404 1768 385 1764 353 1600 353 1552 338 1522 355 1406 355 1308 338 1276 353 982 340 950 357 796 357 766 340 758 340 741 355 698 342 569 342 499 357 453 342 228 359 230 387"/></Shape>
+	    <String CONTENT="ainsi dire, désaxée par l&#x27;invasion musulmane."
+                    HPOS="228.0"
+                    VPOS="338.0"
+                    WIDTH="1540.0"
+                    HEIGHT="78.0"
+                    WC="0.9899281091160245"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_818a62d0"
+                    TAGREFS="LT64"
+                    BASELINE="232 455 1764 448" 
+                    HPOS="228.0"
+                    VPOS="406.0"
+                    WIDTH="1536.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="230 452 230 478 650 486 802 474 1065 484 1173 474 1213 484 1262 472 1446 482 1581 472 1613 482 1689 472 1704 482 1713 482 1764 467 1764 446 1759 419 1471 406 1209 419 963 408 887 419 836 408 823 419 772 408 730 421 256 410 228 419 230 452"/></Shape>
+	    <String CONTENT="Sans l&#x27;Islam, l&#x27;Empire franc n&#x27;aurait sans"
+                    HPOS="228.0"
+                    VPOS="406.0"
+                    WIDTH="1536.0"
+                    HEIGHT="80.0"
+                    WC="0.9831906295404201"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_40d643ef"
+                    TAGREFS="LT64"
+                    BASELINE="230 524 1742 524" 
+                    HPOS="228.0"
+                    VPOS="482.0"
+                    WIDTH="1512.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="228 522 228 546 398 546 417 560 605 558 622 546 813 560 853 546 900 558 931 546 967 558 974 558 999 546 1027 556 1086 546 1105 560 1202 558 1224 546 1499 560 1545 546 1700 560 1740 543 1738 491 1300 493 1228 482 1147 493 1077 482 999 493 986 493 976 482 825 482 808 495 696 495 650 482 643 482 614 493 559 482 544 495 427 495 391 482 347 493 281 482 228 493 228 522"/></Shape>
+	    <String CONTENT="doute jamais existé et Charlemagne, sans"
+                    HPOS="228.0"
+                    VPOS="482.0"
+                    WIDTH="1512.0"
+                    HEIGHT="78.0"
+                    WC="0.9817116975784301"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_eed827ec"
+                    TAGREFS="LT64"
+                    BASELINE="230 586 1279 596" 
+                    HPOS="226.0"
+                    VPOS="535.0"
+                    WIDTH="1050.0"
+                    HEIGHT="100.0">
+            <Shape><Polygon POINTS="228 584 226 615 245 626 393 611 461 622 489 613 518 628 523 628 620 613 662 632 720 632 745 615 772 630 828 618 838 628 847 628 874 618 974 618 993 632 1056 622 1092 635 1166 622 1183 635 1190 635 1274 628 1276 594 1274 560 1215 546 1209 546 1196 558 1175 548 1166 548 1152 563 961 563 857 541 768 541 734 560 652 560 643 548 582 556 561 543 442 556 423 537 338 548 228 535 228 584"/></Shape>
+	    <String CONTENT="Mahomet, serait inconcevable."
+                    HPOS="226.0"
+                    VPOS="535.0"
+                    WIDTH="1050.0"
+                    HEIGHT="100.0"
+                    WC="0.9973605850647236"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d10f4678"
+                    TAGREFS="LT64"
+                    BASELINE="872 800 1259 800 1416 800" 
+                    HPOS="870.0"
+                    VPOS="711.0"
+                    WIDTH="544.0"
+                    HEIGHT="118.0">
+            <Shape><Polygon POINTS="870 797 870 819 1412 829 1414 797 1412 755 1221 757 1215 755 1135 711 1132 711 1041 711 1039 711 1037 711 1035 711 1035 713 1016 730 919 723 916 723 914 723 912 723 870 751 870 797"/></Shape>
+	    <String CONTENT="H. Pirenne"
+                    HPOS="870.0"
+                    VPOS="711.0"
+                    WIDTH="544.0"
+                    HEIGHT="118.0"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
