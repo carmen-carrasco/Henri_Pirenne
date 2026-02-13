@@ -9,8 +9,8 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT32" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT33" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT34" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT81" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT20" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT21" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT22" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT23" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT59" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT138" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT140" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT141" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT142" LABEL="CustomZone:Numbering" DESCRIPTION="block type CustomZone:Numbering"/>
+    <OtherTag ID="LT80" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT81" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT82" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/><OtherTag ID="LT83" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   <Layout>
     <Page WIDTH="3978"
@@ -26,21 +26,21 @@
                    WIDTH="480.0"
                    HEIGHT="318.0"
                    ID="6f0525c3-ae61-452a-97d8-252147e6f000"
-                   TAGREFS="BT34">
+                   TAGREFS="BT141">
           <Shape><Polygon POINTS="3449 98 3929 98 3929 416 3449 416 3449 98"/></Shape>
           <TextLine ID="eSc_line_c4f7420f"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="3505 284 3840 322" 
-                    HPOS="3477"
-                    VPOS="122"
-                    WIDTH="407"
-                    HEIGHT="329">
+                    HPOS="3477.0"
+                    VPOS="122.0"
+                    WIDTH="407.0"
+                    HEIGHT="329.0">
             <Shape><Polygon POINTS="3484 408 3547 451 3551 451 3556 451 3560 451 3792 442 3877 296 3884 160 3518 122 3477 279"/></Shape>
 	    <String CONTENT="176"
-                    HPOS="3477"
-                    VPOS="122"
-                    WIDTH="407"
-                    HEIGHT="329"></String>
+                    HPOS="3477.0"
+                    VPOS="122.0"
+                    WIDTH="407.0"
+                    HEIGHT="329.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="37.0"
@@ -48,91 +48,91 @@
                    WIDTH="2262.0"
                    HEIGHT="682.0"
                    ID="c95a09e0-7210-48c4-bc59-0451916ac430"
-                   TAGREFS="BT32">
+                   TAGREFS="BT139">
           <Shape><Polygon POINTS="37 4 2299 4 2299 686 37 686 37 4"/></Shape>
           <TextLine ID="eSc_line_f94cb7ac"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="126 105 314 135 586 135 1211 140 2233 154" 
-                    HPOS="114"
-                    VPOS="29"
-                    WIDTH="2121"
-                    HEIGHT="181">
+                    HPOS="114.0"
+                    VPOS="29.0"
+                    WIDTH="2121.0"
+                    HEIGHT="181.0">
             <Shape><Polygon POINTS="114 172 126 192 166 165 250 159 320 177 324 181 457 181 522 172 584 177 617 196 726 182 816 167 890 168 902 168 957 210 1051 158 1098 158 1114 156 1135 171 1171 161 1282 169 1327 184 1505 172 1632 178 1723 164 1866 182 2003 198 2235 178 2235 130 2201 74 1894 67 1823 64 1766 60 1670 67 1615 62 1594 74 1501 67 1333 67 1257 50 1134 29 974 54 883 55 730 37 531 50 393 43 150 57 122 101"/></Shape>
 	    <String CONTENT="que l&#x27;on exerce et que l&#x27;on possédé. La conjonc¬"
-                    HPOS="114"
-                    VPOS="29"
-                    WIDTH="2121"
-                    HEIGHT="181"></String>
+                    HPOS="114.0"
+                    VPOS="29.0"
+                    WIDTH="2121.0"
+                    HEIGHT="181.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_2f54a645"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="121 217 312 253 2108 236" 
-                    HPOS="91"
-                    VPOS="173"
-                    WIDTH="2064"
-                    HEIGHT="137">
+                    HPOS="91.0"
+                    VPOS="173.0"
+                    WIDTH="2064.0"
+                    HEIGHT="137.0">
             <Shape><Polygon POINTS="632 199 361 200 244 173 159 176 91 243 166 260 302 275 499 282 556 278 556 282 561 282 684 290 780 290 784 290 1141 275 1312 271 1383 310 1451 295 1594 269 1744 274 2050 268 2155 251 2019 205 1741 174 1326 191 1082 176 958 209"/></Shape>
 	    <String CONTENT="tion avec la papauté s&#x27;indique. Elle va se"
-                    HPOS="91"
-                    VPOS="173"
-                    WIDTH="2064"
-                    HEIGHT="137"></String>
+                    HPOS="91.0"
+                    VPOS="173.0"
+                    WIDTH="2064.0"
+                    HEIGHT="137.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_61a20fa6"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="104 310 334 354 695 356 825 355 2190 331" 
-                    HPOS="93"
-                    VPOS="261"
-                    WIDTH="2085"
-                    HEIGHT="138">
+                    HPOS="93.0"
+                    VPOS="261.0"
+                    WIDTH="2085.0"
+                    HEIGHT="138.0">
             <Shape><Polygon POINTS="105 261 93 369 409 387 413 387 438 375 477 382 601 390 726 382 854 395 1074 388 1088 399 1112 396 1128 375 1302 371 1693 376 2178 361 2170 274 1619 279 1390 320 1281 287 778 299 278 284"/></Shape>
 	    <String CONTENT="faire d&#x27;autant plus qu&#x27;elle est dans l intérêt"
-                    HPOS="93"
-                    VPOS="261"
-                    WIDTH="2085"
-                    HEIGHT="138"></String>
+                    HPOS="93.0"
+                    VPOS="261.0"
+                    WIDTH="2085.0"
+                    HEIGHT="138.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_6f214763"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="94 427 317 452 1078 465 1587 446 2172 432" 
-                    HPOS="75"
-                    VPOS="364"
-                    WIDTH="2106"
-                    HEIGHT="164">
+                    HPOS="75.0"
+                    VPOS="364.0"
+                    WIDTH="2106.0"
+                    HEIGHT="164.0">
             <Shape><Polygon POINTS="75 467 177 467 273 502 410 510 727 484 802 487 863 528 1001 481 1178 502 1456 468 1908 490 2010 459 2159 458 2181 404 2125 389 2077 364 1912 385 1692 386 1642 376 1565 372 1501 375 1419 377 1355 387 1261 379 1226 378 1120 388 1097 390 1074 403 888 423 829 394 727 388 650 397 490 399 104 373 75 421"/></Shape>
 	    <String CONTENT="de la papauté et que Pepin le sait bien puis¬"
-                    HPOS="75"
-                    VPOS="364"
-                    WIDTH="2106"
-                    HEIGHT="164"></String>
+                    HPOS="75.0"
+                    VPOS="364.0"
+                    WIDTH="2106.0"
+                    HEIGHT="164.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_e1bd69c6"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="104 525 407 563 1106 564 2181 550" 
-                    HPOS="86"
-                    VPOS="470"
-                    WIDTH="2111"
-                    HEIGHT="162">
+                    HPOS="86.0"
+                    VPOS="470.0"
+                    WIDTH="2111.0"
+                    HEIGHT="162.0">
             <Shape><Polygon POINTS="86 599 192 574 295 606 312 623 329 623 383 602 426 628 434 628 438 632 586 632 586 628 683 602 725 594 771 628 780 628 784 632 1219 632 1219 628 1548 594 1619 628 1822 594 1835 594 1881 623 2024 628 2075 594 2193 594 2197 539 2189 484 2067 484 2067 480 1983 470 1952 492 1917 509 1767 488 1690 498 1649 501 1590 503 1507 484 1453 480 1411 472 1381 488 1316 494 1265 510 1161 512 975 497 861 535 796 497 718 486 652 502 403 522 282 506 100 497"/></Shape>
 	    <String CONTENT="que le pape s&#x27;est déjà adressé à Charles, Mar¬"
-                    HPOS="86"
-                    VPOS="470"
-                    WIDTH="2111"
-                    HEIGHT="162"></String>
+                    HPOS="86.0"
+                    VPOS="470.0"
+                    WIDTH="2111.0"
+                    HEIGHT="162.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_4751b159"
-                    TAGREFS="LT20"
+                    TAGREFS="LT80"
                     BASELINE="103 625 176 652 279 663" 
-                    HPOS="75"
-                    VPOS="584"
-                    WIDTH="228"
-                    HEIGHT="98">
+                    HPOS="75.0"
+                    VPOS="584.0"
+                    WIDTH="228.0"
+                    HEIGHT="98.0">
             <Shape><Polygon POINTS="75 670 295 682 303 644 237 584 105 600 80 628"/></Shape>
 	    <String CONTENT="tel."
-                    HPOS="75"
-                    VPOS="584"
-                    WIDTH="228"
-                    HEIGHT="98"
+                    HPOS="75.0"
+                    VPOS="584.0"
+                    WIDTH="228.0"
+                    HEIGHT="98.0"
                     WC="0.9999917447566986"></String>
           </TextLine>
         </TextBlock>
