@@ -51,12 +51,13 @@
                    TAGREFS="BT104">
           <Shape><Polygon POINTS="49 10 10 1291 840 1304 857 26"/></Shape>
           <TextLine ID="eSc_line_476a8b2d"
+                    TAGREFS="LT56"
                     BASELINE="56 41 110 35 223 34 773 38 809 45" 
                     HPOS="55"
                     VPOS="13"
                     WIDTH="751"
                     HEIGHT="40">
-            <Shape><Polygon POINTS="806 25 398 16 356 18 273 14 252 18 217 13 197 18 191 13 55 13 55 50 178 43 207 51 224 44 343 44 358 51 483 45 550 52 589 45 618 53 668 46 679 53 745 46 806 53 806 25"/></Shape>
+            <Shape><Polygon POINTS="398 16 356 18 273 14 252 18 217 13 197 18 191 13 55 13 55 50 178 43 207 51 224 44 343 44 358 51 483 45 550 52 589 45 618 53 668 46 679 53 745 46 806 53 806 25"/></Shape>
 	    <String CONTENT="guerres d&#x27;intérêt (Angleterre) guerres d&#x27;équilibre"
                     HPOS="55"
                     VPOS="13"
