@@ -30,16 +30,17 @@
           <Shape><Polygon POINTS="791 2 791 39 856 39 856 2"/></Shape>
           <TextLine ID="eSc_line_5d244cc3"
                     TAGREFS="LT56"
-                    BASELINE="802 25 864 26" 
-                    HPOS="802"
-                    VPOS="25"
-                    WIDTH="62"
-                    HEIGHT="1">
+                    BASELINE="794 26 842 31" 
+                    HPOS="791"
+                    VPOS="2"
+                    WIDTH="51"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="826 2 816 2 805 2 794 2 793 25 791 33 837 40 841 30 842 9 828 2 826 2"/></Shape>
 	    <String CONTENT="160"
-                    HPOS="802"
-                    VPOS="25"
-                    WIDTH="62"
-                    HEIGHT="1"></String>
+                    HPOS="791"
+                    VPOS="2"
+                    WIDTH="51"
+                    HEIGHT="38"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="10.0"
@@ -50,17 +51,16 @@
                    TAGREFS="BT104">
           <Shape><Polygon POINTS="49 10 10 1291 840 1304 857 26"/></Shape>
           <TextLine ID="eSc_line_476a8b2d"
-                    TAGREFS="LT56"
-                    BASELINE="56 41 110 35 223 34 773 38 838 42" 
+                    BASELINE="56 41 110 35 223 34 773 38 809 45" 
                     HPOS="55"
                     VPOS="13"
-                    WIDTH="781"
+                    WIDTH="751"
                     HEIGHT="40">
-            <Shape><Polygon POINTS="828 25 334 15 234 19 222 13 205 19 196 14 185 13 155 19 72 19 55 13 55 50 188 42 208 51 227 43 333 43 370 51 414 43 428 51 476 44 507 52 589 45 622 52 737 53 747 46 813 53 836 44 836 25 828 25"/></Shape>
+            <Shape><Polygon POINTS="806 25 398 16 356 18 273 14 252 18 217 13 197 18 191 13 55 13 55 50 178 43 207 51 224 44 343 44 358 51 483 45 550 52 589 45 618 53 668 46 679 53 745 46 806 53 806 25"/></Shape>
 	    <String CONTENT="guerres d&#x27;intérêt (Angleterre) guerres d&#x27;équilibre"
                     HPOS="55"
                     VPOS="13"
-                    WIDTH="781"
+                    WIDTH="751"
                     HEIGHT="40"
                     WC="0.9866923106213411"></String>
           </TextLine>
@@ -168,16 +168,16 @@
           </TextLine>
           <TextLine ID="eSc_line_d9d4a9cb"
                     TAGREFS="LT56"
-                    BASELINE="41 306 427 302 843 308" 
+                    BASELINE="41 306 427 302 813 308 849 314" 
                     HPOS="40"
                     VPOS="278"
-                    WIDTH="802"
+                    WIDTH="813"
                     HEIGHT="41">
-            <Shape><Polygon POINTS="40 301 40 316 123 310 215 318 302 312 349 318 375 311 522 319 592 313 649 319 659 312 701 319 732 313 753 319 760 313 770 319 841 316 842 289 774 289 767 282 737 287 721 281 687 281 675 289 624 289 614 282 609 282 598 289 544 289 520 281 473 287 464 279 430 287 369 281 339 287 314 279 274 288 220 288 207 279 115 286 78 278 44 285 40 301"/></Shape>
+            <Shape><Polygon POINTS="40 316 123 310 215 318 302 312 349 318 375 311 522 319 592 313 649 319 659 312 701 319 732 313 753 319 760 313 770 319 853 319 852 291 774 289 767 282 737 287 721 281 687 281 675 289 624 289 614 282 609 282 598 289 544 289 520 281 473 287 464 279 430 287 369 281 339 287 314 279 274 288 220 288 207 279 115 286 78 278 44 285 40 301"/></Shape>
 	    <String CONTENT="fin de l&#x27;Empire la guerre nationale - en Allemagne."
                     HPOS="40"
                     VPOS="278"
-                    WIDTH="802"
+                    WIDTH="813"
                     HEIGHT="41"></String>
           </TextLine>
           <TextLine ID="eSc_line_784552d6"
@@ -210,30 +210,30 @@
           </TextLine>
           <TextLine ID="eSc_line_2f94f3de"
                     TAGREFS="LT56"
-                    BASELINE="34 401 846 398" 
+                    BASELINE="34 401 857 402" 
                     HPOS="32"
-                    VPOS="374"
-                    WIDTH="813"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="33 400 33 409 159 409 187 418 224 410 244 417 278 410 318 417 378 410 403 418 457 418 468 410 507 417 517 410 549 414 578 407 607 413 623 408 649 413 656 407 684 414 759 408 781 416 844 412 845 397 840 374 830 382 786 375 606 382 570 375 551 383 464 377 456 384 344 384 319 376 312 376 300 382 218 377 210 384 134 379 100 384 82 377 32 377 33 400"/></Shape>
+                    VPOS="375"
+                    WIDTH="828"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="33 409 159 409 187 418 224 410 244 417 278 410 318 417 378 410 403 418 457 418 468 410 507 417 517 410 549 414 578 407 607 413 623 408 649 413 656 407 684 414 759 408 781 416 855 412 860 393 836 379 818 384 786 375 606 382 570 375 551 383 464 377 456 384 344 384 319 376 312 376 300 382 218 377 210 384 134 379 100 384 82 377 32 377 33 400"/></Shape>
 	    <String CONTENT="elle ne l&#x27;est peut-être purement qu&#x27;en France. Pour l&#x27;Angle¬"
                     HPOS="32"
-                    VPOS="374"
-                    WIDTH="813"
-                    HEIGHT="44"></String>
+                    VPOS="375"
+                    WIDTH="828"
+                    HEIGHT="43"></String>
           </TextLine>
           <TextLine ID="eSc_line_c69f9b94"
                     TAGREFS="LT56"
                     BASELINE="40 435 846 440" 
                     HPOS="38"
                     VPOS="412"
-                    WIDTH="807"
+                    WIDTH="817"
                     HEIGHT="38">
-            <Shape><Polygon POINTS="39 434 38 441 59 447 192 443 272 448 432 444 443 450 844 450 845 438 844 422 706 416 694 421 677 416 651 422 625 414 373 420 359 413 245 420 213 412 184 419 140 412 104 419 39 412 39 434"/></Shape>
+            <Shape><Polygon POINTS="38 441 59 447 192 443 272 448 432 444 443 450 844 450 855 440 844 422 706 416 694 421 677 416 651 422 625 414 373 420 359 413 245 420 213 412 184 419 140 412 104 419 39 412 39 434"/></Shape>
 	    <String CONTENT="terre elle est avant tout une guerre d&#x27;intérêts comme"
                     HPOS="38"
                     VPOS="412"
-                    WIDTH="807"
+                    WIDTH="817"
                     HEIGHT="38"
                     WC="0.9988155915186956"></String>
           </TextLine>
