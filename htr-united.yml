@@ -1,0 +1,32 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTR-Pirenne
+url: https://github.com/carmen-carrasco/Henri_Pirenne
+authors:
+  - name: 'Carmen '
+    surname: Carrasco
+    roles:
+      - transcriber
+institutions: []
+description: ALTO xml des manuscrits de l'historien belge Henri Pirenne
+project-name: De main de maître
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1912'
+  notAfter: '1935'
+hands:
+  count: '1'
+  precision: exact
+license:
+  type: CC-BY-SA
+  version: 4.0
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 473
+    
